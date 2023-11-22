@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+// Base document colors
+$primary:     #F5FBDB;    
+$secondary:   #686553; 
+$link-color:  $secondary;
+
+$body-color:  $secondary;
+$body-bg:     $primary; 
+$navbar-fg:   $secondary;
+$navbar-hl:   #E8C6BA;
+
+/*-- scss:rules --*/
+
+h1, .h1 h2{
+  color: $secondary;
+}
+
+.quarto-title-banner .quarto-title .title {
+  color: #F5FBDB;
+}
+
+.highlight-div {
+  padding: 3em;
+  background-color: #597090;
+  color: #F5FBDB;
+}
+
+.red-filter {
+  filter: hue-rotate(0deg) saturate(100%) brightness(50%);
+}

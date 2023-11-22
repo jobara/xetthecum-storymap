@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "xetthecum"
+  navbar:
+    right:
+      - href: https://imerss.github.io/imerss-bioinfo/Xetthecum.html
+        text: The Story of Xetthecum
+      - href: about.qmd
+        text: About
+      - href: explore.qmd
+        text: Explore
+      - href: resources.qmd
+        text: Resources
+    #google-analytics: 'G-01XD03JCPM'
+format:
+  html:
+    theme: [flatly, css/theme-light.scss]
+    css: [css/custom.css]
+
+
