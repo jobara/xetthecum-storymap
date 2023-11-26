@@ -1,13 +1,31 @@
 /*-- scss:defaults --*/
 // Base document colors
 $primary:     #F5FBDB;    
-$secondary:   #686553; 
+$secondary:   #696157; 
 $link-color:  $secondary;
 
 $body-color:  $secondary;
 $body-bg:     $primary; 
 $navbar-fg:   $secondary;
-$navbar-hl:   #E8C6BA;
+$navbar-hl:   $secondary;
+
+/*--.nav-link:hover{
+  background-color: #E8C6BA;
+}--*/
+
+li .dropdown-item{
+  color: $secondary;
+  background-color: $primary;
+}
+
+li .dropdown-item:hover{
+  color: $secondary;
+  background-color: #E8C6BA;
+}
+
+.filter-green{
+    filter: invert(48%);
+}
 
 /*-- scss:rules --*/
 
@@ -25,6 +43,3 @@ h1, .h1 h2{
   color: #F5FBDB;
 }
 
-.red-filter {
-  filter: hue-rotate(0deg) saturate(100%) brightness(50%);
-}

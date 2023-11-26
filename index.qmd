@@ -1,3 +1,6 @@
+--- 
+engine: knitr
+---
 
 :::: {.column-screen}
 ![](files/banner.jpg)
@@ -6,27 +9,28 @@
 
 <center>
 
-# Tth'i'hwum 'i' nuw'ilum tseep
 
-```{r, echo=F}
-embedr::embed_audio("files/bird.mp3")
-```
+# Tth'i'hwum 'i' nuw'ilum tseep <br/> (welcome message in Hul' q'umi'num')
 
-# (welcome message in Hul' q'umi'num')
+`r embedr::embed_audio("files/bird.mp3")`
 
 # Welcome to Xetthecum! 
 
-<button type="button" class="btn btn-secondary">Read the land acknowledgment</button>
+<button type="button" class="btn btn-secondary btn-rounded">Read the land acknowledgment</button>
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.
 
-![](files/spiritual.svg)
-![](files/food.svg)
-![](files/indicator.svg)
-![](files/medicinal.svg)
-![](files/material.svg)
-![](files/trade.svg)
+
+
+![](files/spiritual.svg){width=6em}
+![](files/food.svg){width=6em}
+![](files/indicator.svg){width=6em}
+![](files/medicinal.svg){width=6em}
+![](files/material.svg){width=6em}
+![](files/trade.svg){width=6em}
+
 
 </center>
 
@@ -34,22 +38,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulp
 
 :::: {.column-page}
 
-::: {.column width="49%"}
-**About the project**
+<div class="blurb-container">
+
+<div class="blurb-half-column">
+
+## About the project
  
-Sed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. 
+Sed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu 
 icon series
 
-<button type="button" class="btn btn-primary">See more</button>
+<center>
+<button type="button" class="btn btn-primary btn-rounded" style="font-size:1.2em">See more</button>
+</center>
 
+</div>
 
-:::
-
-::: {.column width="49%"}
+<div class="blurb-half-column" style="padding:1.5em;">
 
 ![](files/fish.jpg) 
+</div>
 
-:::
+</div>
 
 ::::
 
@@ -57,7 +66,7 @@ icon series
 
 ## More info down here
 
-Sed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. 
+ Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. 
 icon series
 
 
