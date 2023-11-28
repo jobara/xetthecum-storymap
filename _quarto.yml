@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Xetthecum Digital Ecocultural Mapping"
+  navbar:
+    right:
+      - href: https://imerss.github.io/imerss-bioinfo/Xetthecum.html
+        text: The Story of Xetthecum
+      - href: about.qmd
+        text: About
+      - text: Explore
+        menu:
+          - text: How-to Tutorial
+            href: about.qmd
+          - text: Video Stories
+            href: about.qmd
+          - text: Image Gallery
+            href: about.qmd
+          - text: Species List
+            href: about.qmd
+          - text: Web of Life
+            href: about.qmd
+          - text: Cultural Values
+            href: about.qmd
+      - href: about.qmd
+        text: Resources
+    #google-analytics: 'G-01XD03JCPM'
+format:
+  html:
+    theme: [flatly, css/theme-light.scss]
+    css: [css/styles.css]
+
+
