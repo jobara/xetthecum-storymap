@@ -3,7 +3,7 @@ engine: knitr
 ---
 
 :::: {.column-screen}
-![](files/banner.jpg)
+![](files/banner_landing_1.jpg)
 ::::
 
 
