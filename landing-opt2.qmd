@@ -2,13 +2,9 @@
 engine: knitr
 ---
 
---- 
-engine: knitr
----
-
 :::: {.column-screen}
 <div class="image-container">
-  <img src="files/banner.png">
+  <img src="files/banner_landing_2.png">
   <div class="centered-text">
   <h1>Tth'i'hwum 'i' nuw'ilum tseep <br/> 
   Welcome to Xetthecum!</h1>
@@ -33,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulp
 
 
 
-![](files/Group 369.png)
+![](files/icon_array.png)
 
 
 </center>
@@ -71,7 +67,7 @@ icon series
 <div class="blurb-container">
 <div class="blurb-half-column">
 
-## More info down here
+## Community contribution
 
  Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. 
 
@@ -80,7 +76,7 @@ icon series
 
 </div>
 <div class="blurb-half-column" style="padding:1.5em;">
-![](files/image 53.png) 
+![](files/shells.png) 
 </div>
 </div>
 
