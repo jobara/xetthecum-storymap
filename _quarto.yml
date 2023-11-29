@@ -4,6 +4,11 @@ project:
 
 website:
   title: "Xetthecum Digital Ecocultural Mapping"
+  search: false
+  page-footer: 
+    right: "Contact" 
+    background: "secondary"
+    foreground: "primary"
   navbar:
     right:
       - href: https://imerss.github.io/imerss-bioinfo/Xetthecum.html
@@ -30,6 +35,6 @@ website:
 format:
   html:
     theme: [flatly, css/theme-light.scss]
-    css: [css/styles.css]
-
+    css: [css/styles.css, https://use.fontawesome.com/releases/v6.0.0/css/all.css]
+    include-after_body: footer.html
 

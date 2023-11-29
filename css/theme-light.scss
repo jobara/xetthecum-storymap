@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 // Base document colors
-$primary:     #F5FBDB;    
-$secondary:   #696157; 
+$primary:     #F2FCD6;    
+$secondary:   #695F50; 
 $link-color:  $secondary;
 
 $body-color:  $secondary;
@@ -20,11 +20,7 @@ li .dropdown-item{
 
 li .dropdown-item:hover{
   color: $secondary;
-  background-color: #E8C6BA;
-}
-
-.filter-green{
-    filter: invert(48%);
+  background-color: #FFD4BD;
 }
 
 /*-- scss:rules --*/
@@ -34,12 +30,12 @@ h1, .h1 h2{
 }
 
 .quarto-title-banner .quarto-title .title {
-  color: #F5FBDB;
+  color: $primary;
 }
 
 .highlight-div {
   padding: 3em;
   background-color: #597090;
-  color: #F5FBDB;
+  color: $primary;
 }
 

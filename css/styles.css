@@ -28,3 +28,45 @@ h2, .h2 {
   }
 }
 
+.image-container {
+  position: relative;
+  text-align: center;
+}
+
+.image-container img {
+  width: 100%; /* Adjust as needed */
+  height: auto; /* Adjust as needed */
+}
+
+.centered-text {  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #695F50; 
+  background: rgba(245,251,219, 0.8);
+  font-size: 2rem;
+  padding: 20px; 
+}
+
+audio {
+  width: 100px;
+}
+
+audio::-webkit-media-controls-volume-slider, 
+audio::-webkit-media-controls-timeline-container, 
+audio::-webkit-media-controls-time-remaining-display,  
+audio::-webkit-media-controls-timeline {
+  display: none !important;
+}
+
+audio::-webkit-media-controls-panel {
+  padding: 0 0 0 1px;
+  justify-content: center; /*control panel elements are flex positioned*/
+  background: rgba(245,251,219);
+}
+
+.callout-toggle {
+  filter: brightness(0%) saturate(0%) invert(100%);
+}
+

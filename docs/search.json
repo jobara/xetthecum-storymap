@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html#more-info-down-here",
-    "href": "index.html#more-info-down-here",
-    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
+    "objectID": "landing-opt2.html",
+    "href": "landing-opt2.html",
+    "title": "\nTth’i’hwum ‘i’ nuw’ilum tseep  Welcome to Xetthecum!\n",
+    "section": "",
+    "text": "Your browser does not support the audio tag;  for browser support, please see:  https://www.w3schools.com/tags/tag_audio.asp"
+  },
+  {
+    "objectID": "landing-opt2.html#about-the-project",
+    "href": "landing-opt2.html#about-the-project",
+    "title": "\nTth’i’hwum ‘i’ nuw’ilum tseep  Welcome to Xetthecum!\n",
+    "section": "About the project",
+    "text": "About the project\nSed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu icon series\n\n\nLearn more"
+  },
+  {
+    "objectID": "landing-opt2.html#more-info-down-here",
+    "href": "landing-opt2.html#more-info-down-here",
+    "title": "\nTth’i’hwum ‘i’ nuw’ilum tseep  Welcome to Xetthecum!\n",
     "section": "More info down here",
-    "text": "More info down here\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. icon series"
+    "text": "More info down here\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae.\nMake an observation (iNaturalist)"
   },
   {
     "objectID": "about.html",
@@ -14,17 +28,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’ q’umi’num’)",
-    "section": "",
-    "text": "::: {.column-screen}"
-  },
-  {
     "objectID": "index.html#about-the-project",
     "href": "index.html#about-the-project",
     "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
     "section": "About the project",
     "text": "About the project\nSed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu icon series\n\n\nSee more"
+  },
+  {
+    "objectID": "index.html#more-info-down-here",
+    "href": "index.html#more-info-down-here",
+    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
+    "section": "More info down here",
+    "text": "More info down here\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. icon series"
   }
 ]
