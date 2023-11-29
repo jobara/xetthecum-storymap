@@ -21,7 +21,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](files/team-member.png)
+![](files/team_member.png)
 :::
 
 ::: {.column width="10%"}
@@ -36,7 +36,7 @@ Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit ame
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](files/team-member.png)
+![](files/team_member.png)
 :::
 
 ::: {.column width="10%"}
@@ -51,7 +51,7 @@ Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit ame
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](files/team-member.png)
+![](files/team_member.png)
 :::
 
 ::: {.column width="10%"}
@@ -66,7 +66,7 @@ Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit ame
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](files/team-member.png)
+![](files/team_member.png)
 :::
 
 ::: {.column width="10%"}
@@ -77,34 +77,3 @@ Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit ame
 Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 :::
 ::::
-
-:::: {.columns}
-
-::: {.column width="20%"}
-![](files/team-member.png)
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-:::
-::::
-
-:::: {.columns}
-
-::: {.column width="20%"}
-![](files/team-member.png)
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
-Brief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-:::
-::::
-
