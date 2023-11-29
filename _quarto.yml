@@ -29,7 +29,7 @@ website:
             href: about.qmd
           - text: Cultural Values
             href: about.qmd
-      - href: about.qmd
+      - href: resources.qmd
         text: Resources
     #google-analytics: 'G-01XD03JCPM'
 format:

@@ -1,0 +1,29 @@
+---
+engine: knitr
+---
+
+:::: {.column-screen}
+<div class="image-container">
+  <img src="files/banner_resources.png">
+</div>
+::::
+
+# Resources
+
+## Indigenous Land Sovereignty 
+
+* Book: King, Thomas. The Inconvenient Indian
+* Book: Wagamese, Richard. Indian Horse
+* Article: 
+
+## History of Colonisation
+
+* Book: King, Thomas. The Inconvenient Indian
+* Book: Wagamese, Richard. Indian Horse
+* Film: Obomsawin, Alanis
+
+## Decolonisation and Resistance
+
+## Cultural Humility
+
+## Indigenous Land Stewardship
