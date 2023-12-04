@@ -9,19 +9,22 @@ $body-bg:     $primary;
 $navbar-fg:   $secondary;
 $navbar-hl:   $secondary;
 
-/*--.nav-link:hover{
-  background-color: #E8C6BA;
-}--*/
+$dropdown-link-color: $secondary !important;
+$dropdown-link-hover-color: $secondary !important;
+$dropdown-link-hover-bg: #FFD4BD !important;
+
+
+:focus { 
+  outline-color: #597090 !important;
+  outline-style: solid;
+  outline-width: 3px;
+}
 
 li .dropdown-item{
   color: $secondary;
   background-color: $primary;
 }
 
-li .dropdown-item:hover{
-  color: $secondary;
-  background-color: #FFD4BD;
-}
 
 /*-- scss:rules --*/
 
