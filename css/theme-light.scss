@@ -2,7 +2,7 @@
 // Base document colors
 $primary:     #F2FCD6;    
 $secondary:   #695F50; 
-$link-color:  $secondary;
+$link-color:  #597090;
 
 $body-color:  $secondary;
 $body-bg:     $primary; 
@@ -15,7 +15,7 @@ $dropdown-link-hover-bg: #FFD4BD !important;
 
 
 :focus { 
-  outline-color: #597090 !important;
+  outline-color: $link-color !important;
   outline-style: solid;
   outline-width: 3px;
 }
@@ -38,13 +38,10 @@ h1, .h1 h2{
 
 .highlight-div {
   padding: 3em;
-  background-color: #597090;
+  background-color: $link-color;
   color: $primary;
 }
 
-a:link {
-  color: #597090;
-}
 
 a:hover {
   color: $secondary;
