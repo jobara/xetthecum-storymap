@@ -26,6 +26,34 @@ li .dropdown-item{
 }
 
 
+.close-button {
+    float: right;
+    background-color: $link-color; /* Red background */
+    color: white;             /* White text */
+    border: none;             /* No border */
+    border-radius: 50%;       /* Circular shape */
+    width: 40px;              /* Width of the button */
+    height: 40px;             /* Height of the button */
+    font-size: 20px;          /* Size of the 'X' character */
+    cursor: pointer;          /* Pointer cursor on hover */
+    display: inline-block;    /* Inline-block display */
+    text-align: center;       /* Center the text ('X') */
+    line-height: 40px;        /* Align text vertically */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
+    transition: all 0.3s;     /* Smooth transition for hover effects */
+}
+
+.close-button:hover {
+    background-color: $link-color; /* Slightly darker red on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Larger shadow on hover */
+}
+
+.close-button:focus {
+    outline: none; /* Remove outline on focus for cleaner look */
+}
+
+
+
 /*-- scss:rules --*/
 
 h1, .h1 h2{
@@ -37,7 +65,6 @@ h1, .h1 h2{
 }
 
 .highlight-div {
-  padding: 3em;
   background-color: $link-color;
   color: $primary;
 }

@@ -39,7 +39,7 @@
     "href": "index.html#about-the-project",
     "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
     "section": "About the project",
-    "text": "About the project\nSed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu icon series\n\n\nSee more"
+    "text": "About the project\nSed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu icon series\n\n\nLearn more"
   },
   {
     "objectID": "index.html#more-info-down-here",
@@ -75,5 +75,26 @@
     "title": "\nTth’i’hwum ‘i’ nuw’ilum tseep  Welcome to Xetthecum!\n",
     "section": "Community contribution",
     "text": "Community contribution\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae.\nMake an observation (iNaturalist)"
+  },
+  {
+    "objectID": "index.html#community-contribution",
+    "href": "index.html#community-contribution",
+    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
+    "section": "Community contribution",
+    "text": "Community contribution\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae.\nMake an observation (iNaturalist)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
+    "section": "",
+    "text": "micro = require(\"micromodal@0.4.10\");\n\nmicro.init({\n  awaitOpenAnimation: true,\n  awaitCloseAnimation: true\n});"
+  },
+  {
+    "objectID": "index.html#mymodal-title",
+    "href": "index.html#mymodal-title",
+    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
+    "section": "Look at this cool chart!",
+    "text": "Look at this cool chart!"
   }
 ]

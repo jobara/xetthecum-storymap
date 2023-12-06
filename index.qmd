@@ -3,7 +3,7 @@ engine: knitr
 ---
 
 :::: {.column-screen}
-![](files/banner_landing_1.jpg)
+![](files/banner_landing_2_small.png)
 ::::
 
 
@@ -16,8 +16,7 @@ engine: knitr
 
 # Welcome to Xetthecum! 
 
-<button type="button" class="btn btn-secondary btn-rounded">Read the land acknowledgment</button>
-
+<button type="button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">Read the land acknowledgment</button>
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.
@@ -34,12 +33,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulp
 
 </center>
 
-<div class="div highlight-div">
 
+
+<div class="div highlight-div">
 :::: {.column-page}
 
 <div class="blurb-container">
-
 <div class="blurb-half-column">
 
 ## About the project
@@ -48,25 +47,70 @@ Sed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Mo
 icon series
 
 <center>
-<button type="button" class="btn btn-primary btn-rounded" style="font-size:1.2em">See more</button>
+<button type="button" class="btn btn-primary btn-rounded" style="font-size:1.2em">Learn more</button>
 </center>
 
 </div>
 
 <div class="blurb-half-column" style="padding:1.5em;">
 
-![](files/fish.jpg) 
+![](files/slug.png) 
 </div>
 
+</div>
+</div>
+
+::::
+:::: {.column-page}
+
+
+<div class="blurb-container">
+<div class="blurb-half-column">
+
+## Community contribution
+
+ Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. 
+
+
+[Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://inaturalist.ca/)
+
+</div>
+<div class="blurb-half-column" style="padding:1.5em;">
+![](files/shells.png) 
+</div>
 </div>
 
 ::::
 
-</div>
 
-## More info down here
 
- Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. 
-icon series
+
+```{ojs}
+//| include: false
+
+micro = require("micromodal@0.4.10");
+
+micro.init({
+  awaitOpenAnimation: true,
+  awaitCloseAnimation: true
+});
+```
+
+<!-- and here's the popup itself! -->
+
+:::::: {#mymodal .modal .micromodal-slide aria-hidden="true"}
+::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
+:::: {.modal__container role="dialog" aria-modal="true" aria-labelledby="mymodal-title"}
+
+<button class="close-button" aria-label="Close modal" data-micromodal-close>X</button>
+
+# Land acknowledgement
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristiq
+
+::::
+:::::
+::::::
+
 
 

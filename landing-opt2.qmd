@@ -4,7 +4,7 @@ engine: knitr
 
 :::: {.column-screen}
 <div class="image-container">
-  <img src="files/banner_landing_2.png">
+  <img src="files/banner_landing_2_small.png">
   <div class="centered-text">
   <h1>Tth'i'hwum 'i' nuw'ilum tseep <br/> 
   Welcome to Xetthecum!</h1>
@@ -62,6 +62,7 @@ icon series
 </div>
 
 ::::
+:::: {.column-page}
 
 
 <div class="blurb-container">
@@ -80,6 +81,6 @@ icon series
 </div>
 </div>
 
-
+::::
 
 
