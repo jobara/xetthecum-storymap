@@ -18,16 +18,13 @@ engine: knitr
 <center>
 
 
-::: {.callout-note appearance="minimal" collapse=true icon=false style="border:none;font-size:2em;color:#F2FCD6" class="btn-secondary btn-rounded"}
+<button type="button" id="la-button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">Read the land acknowledgment</button>
 
-## Read the land acknowledgment
-
-This callout can be toggled, but is not keyboard-navigaton accessible. Known quarto bug [4934](https://github.com/quarto-dev/quarto-cli/issues/4934)
-:::
+</center>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.
 
-
+<center>
 
 ![](files/icon_array.png)
 
@@ -83,4 +80,38 @@ icon series
 
 ::::
 
+
+
+```{ojs}
+//| echo: false
+//| message: false
+//| warning: false
+//| include: false
+
+micro = require("micromodal@0.4.10");
+
+micro.init({
+  awaitOpenAnimation: true,
+  awaitCloseAnimation: true
+});
+```
+
+<!-- and here's the popup itself! -->
+
+:::::: {#mymodal .modal .micromodal-slide aria-hidden="true"}
+::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
+:::: {.modal__container role="dialog" aria-modal="true" aria-labelledby="mymodal-title"}
+
+<button class="close-button" aria-label="Close modal" data-micromodal-close>close<i class="fa-solid fa-x" id='la-x'></i></button>
+
+<center>
+#  Xetthecum Land acknowledgement 
+</center>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristiq
+
+::::
+:::::
+::::::
 

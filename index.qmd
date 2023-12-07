@@ -16,10 +16,15 @@ engine: knitr
 
 # Welcome to Xetthecum! 
 
-<button type="button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">Read the land acknowledgment</button>
+<button type="button" id="la-button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">Read the land acknowledgment</button>
+
+</center>
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.
+
+<center>
 
 
 
@@ -86,6 +91,9 @@ icon series
 
 
 ```{ojs}
+//| echo: false
+//| message: false
+//| warning: false
 //| include: false
 
 micro = require("micromodal@0.4.10");
@@ -102,9 +110,12 @@ micro.init({
 ::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
 :::: {.modal__container role="dialog" aria-modal="true" aria-labelledby="mymodal-title"}
 
-<button class="close-button" aria-label="Close modal" data-micromodal-close>X</button>
+<button class="close-button" aria-label="Close modal" data-micromodal-close>close<i class="fa-solid fa-x" id='la-x'></i></button>
 
-# Land acknowledgement
+<center>
+#  Xetthecum Land acknowledgement 
+</center>
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristiq
 

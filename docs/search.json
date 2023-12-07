@@ -35,6 +35,13 @@
     "text": "Indigenous Land Stewardship"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.\nmicro = require(\"micromodal@0.4.10\");\n\nmicro.init({\n  awaitOpenAnimation: true,\n  awaitCloseAnimation: true\n});"
+  },
+  {
     "objectID": "index.html#about-the-project",
     "href": "index.html#about-the-project",
     "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
@@ -42,11 +49,11 @@
     "text": "About the project\nSed vitae augue ut lacus aliquet aliquet. In hendrerit porta mi ac fringilla. Morbi fringilla dignissim pretium. Maecenas luctus ut lorem et interdum. In dignissim fermentum nisi, bibendum accumsan arcu bibendum at. Nulla eu est justo. Quisque pellentesque viverra fringilla. Suspendisse vulputate lacus vitae mauris ullamcorper luctus. Aliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu icon series\n\n\nLearn more"
   },
   {
-    "objectID": "index.html#more-info-down-here",
-    "href": "index.html#more-info-down-here",
+    "objectID": "index.html#community-contribution",
+    "href": "index.html#community-contribution",
     "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
-    "section": "More info down here",
-    "text": "More info down here\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae. icon series"
+    "section": "Community contribution",
+    "text": "Community contribution\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae.\nMake an observation (iNaturalist)"
   },
   {
     "objectID": "about.html#project-team",
@@ -56,11 +63,18 @@
     "text": "Project team\n\n\n\n\n\n\nBrief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n\n\n\n\n\n\n\nBrief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n\n\n\n\n\n\n\nBrief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n\n\n\n\n\n\n\nBrief bio/motivation for being a part of this project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "plot(1:20)"
+  },
+  {
     "objectID": "landing-opt2.html",
     "href": "landing-opt2.html",
     "title": "\nTth’i’hwum ‘i’ nuw’ilum tseep  Welcome to Xetthecum!\n",
     "section": "",
-    "text": "Your browser does not support the audio tag;  for browser support, please see:  https://www.w3schools.com/tags/tag_audio.asp"
+    "text": "Your browser does not support the audio tag;  for browser support, please see:  https://www.w3schools.com/tags/tag_audio.asp\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.\nmicro = require(\"micromodal@0.4.10\");\n\nmicro.init({\n  awaitOpenAnimation: true,\n  awaitCloseAnimation: true\n});"
   },
   {
     "objectID": "landing-opt2.html#about-the-project",
@@ -75,26 +89,5 @@
     "title": "\nTth’i’hwum ‘i’ nuw’ilum tseep  Welcome to Xetthecum!\n",
     "section": "Community contribution",
     "text": "Community contribution\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae.\nMake an observation (iNaturalist)"
-  },
-  {
-    "objectID": "index.html#community-contribution",
-    "href": "index.html#community-contribution",
-    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
-    "section": "Community contribution",
-    "text": "Community contribution\nAliquam eget nulla bibendum purus tristique dictum. Suspendisse a fermentum mauris. Integer eu consectetur elit. Ut odio ligula, porttitor vitae elit at, vestibulum malesuada lacus. In nec lobortis dolor. Vestibulum ullamcorper est purus, in porttitor nibh vehicula vitae.\nMake an observation (iNaturalist)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
-    "section": "",
-    "text": "micro = require(\"micromodal@0.4.10\");\n\nmicro.init({\n  awaitOpenAnimation: true,\n  awaitCloseAnimation: true\n});"
-  },
-  {
-    "objectID": "index.html#mymodal-title",
-    "href": "index.html#mymodal-title",
-    "title": "Tth’i’hwum ‘i’ nuw’ilum tseep  (welcome message in Hul’q’umi’num’)",
-    "section": "Look at this cool chart!",
-    "text": "Look at this cool chart!"
   }
 ]

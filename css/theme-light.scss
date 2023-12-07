@@ -28,31 +28,51 @@ li .dropdown-item{
 
 .close-button {
     float: right;
-    background-color: $link-color; /* Red background */
-    color: white;             /* White text */
-    border: none;             /* No border */
-    border-radius: 50%;       /* Circular shape */
-    width: 40px;              /* Width of the button */
-    height: 40px;             /* Height of the button */
-    font-size: 20px;          /* Size of the 'X' character */
-    cursor: pointer;          /* Pointer cursor on hover */
-    display: inline-block;    /* Inline-block display */
-    text-align: center;       /* Center the text ('X') */
-    line-height: 40px;        /* Align text vertically */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
-    transition: all 0.3s;     /* Smooth transition for hover effects */
+    color: $primary; 
+    background-color: $secondary;
+    border: none;             
+
 }
 
 .close-button:hover {
-    background-color: $link-color; /* Slightly darker red on hover */
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Larger shadow on hover */
+   color: $link-color;
+  
 }
 
-.close-button:focus {
-    outline: none; /* Remove outline on focus for cleaner look */
+#la-x{
+  padding: .5em;
 }
 
+#la-button{
+  padding: .6rem;
+  font-size: 1.2em;
+  color: $primary;
+}
 
+p{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.modal__container h1{
+  color: $primary !important;
+  background-color: $secondary !important;
+  min-width: 200px !important;
+}
+
+.modal__container{
+  color: $primary !important;
+  background-color: $secondary !important;
+  min-width: 200px !important;
+}
+
+.nav-footer .nav-footer-center {
+  margin-top: 1em;
+}
+
+.nav-footer .nav-footer-right {
+  font-size: 1em !important;
+}
 
 /*-- scss:rules --*/
 

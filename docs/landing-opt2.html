@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -49,6 +83,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script type="module" src="site_libs/quarto-ojs/quarto-ojs-runtime.js"></script>
+<link href="site_libs/quarto-ojs/quarto-ojs.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="css/styles.css">
@@ -143,23 +179,12 @@ Tth’i’hwum ‘i’ nuw’ilum tseep <br> Welcome to Xetthecum!
 </div>
 </div>
 <center>
-<div class="btn-secondary btn-rounded callout callout-style-simple callout-note no-icon callout-titled" style="border:none;font-size:2em;color:#F2FCD6">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
+<button type="button" id="la-button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">
 Read the land acknowledgment
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>This callout can be toggled, but is not keyboard-navigaton accessible. Known quarto bug <a href="https://github.com/quarto-dev/quarto-cli/issues/4934">4934</a></p>
-</div>
-</div>
-</div>
+</button>
+</center>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.</p>
+<center>
 <p><img src="files/icon_array.png" class="img-fluid"></p>
 </center>
 <div class="div highlight-div page-columns page-full">
@@ -192,10 +217,59 @@ Learn more
 </div>
 </div>
 </div>
+<div class="cell" data-message="false" data-warning="false" data-include="false">
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="91" data-source-offset="-1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 90;"><span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a>micro <span class="op">=</span> <span class="pp">require</span>(<span class="st">"micromodal@0.4.10"</span>)<span class="op">;</span></span>
+<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>micro<span class="op">.</span><span class="fu">init</span>({</span>
+<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a>  <span class="dt">awaitOpenAnimation</span><span class="op">:</span> <span class="kw">true</span><span class="op">,</span></span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a>  <span class="dt">awaitCloseAnimation</span><span class="op">:</span> <span class="kw">true</span></span>
+<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display hidden">
+<div>
+<div id="ojs-cell-1-1" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display hidden">
+<div>
+<div id="ojs-cell-1-2" data-nodetype="expression">
+
+</div>
+</div>
+</div>
+</div>
+<!-- and here's the popup itself! -->
+<div id="mymodal" class="modal micromodal-slide" aria-hidden="true">
+<div class="modal__overlay" tabindex="-1" data-micromodal-close="true">
+<div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="mymodal-title">
+<button class="close-button" aria-label="Close modal" data-micromodal-close="">
+close<i class="fa-solid fa-x" id="la-x"></i>
+</button>
+<center>
+<section id="xetthecum-land-acknowledgement" class="level1">
+<h1>Xetthecum Land acknowledgement</h1>
+</section></center>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristiq</p>
+
+</div>
+</div>
+</div>
 
 
 
 </main> <!-- /main -->
+<script type="ojs-module-contents">
+{"contents":[{"methodName":"interpret","cellName":"ojs-cell-1","inline":false,"source":"\nmicro = require(\"micromodal@0.4.10\");\n\nmicro.init({\n  awaitOpenAnimation: true,\n  awaitCloseAnimation: true\n});\n"}]}
+</script>
+<script type="module">
+if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
+window._ojs.paths.runtimeToDoc = "../..";
+window._ojs.paths.runtimeToRoot = "../..";
+window._ojs.paths.docToRoot = "";
+window._ojs.selfContained = false;
+window._ojs.runtime.interpretFromScriptTags();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
