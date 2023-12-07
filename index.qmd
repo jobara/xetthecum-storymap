@@ -1,8 +1,5 @@
 --- 
 engine: knitr
-format:
-  html:
-    css: css/modal.css
 ---
 
 :::: {.column-screen}
