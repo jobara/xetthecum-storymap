@@ -84,8 +84,6 @@ icon series
 
 ```{ojs}
 //| echo: false
-//| message: false
-//| warning: false
 //| include: false
 
 micro = require("micromodal@0.4.10");

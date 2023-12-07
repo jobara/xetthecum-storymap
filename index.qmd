@@ -1,5 +1,8 @@
 --- 
 engine: knitr
+format:
+  html:
+    css: css/modal.css
 ---
 
 :::: {.column-screen}
@@ -92,8 +95,6 @@ icon series
 
 ```{ojs}
 //| echo: false
-//| message: false
-//| warning: false
 //| include: false
 
 micro = require("micromodal@0.4.10");
