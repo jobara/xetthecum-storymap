@@ -1,39 +1,32 @@
---- 
+---
 engine: knitr
 ---
 
 :::: {.column-screen}
-![](files/banner_landing_2_small.png)
+<div class="image-container">
+  <img src="files/banner_landing_2_small.png">
+  <div class="centered-text">
+  <h1>Tth'i'hwum 'i' nuw'ilum tseep <br/> 
+  Welcome to Xetthecum!</h1>
+  `r embedr::embed_audio("files/bird.mp3", id='audio-yellow')` 
+   </div>
+</div>
+
 ::::
 
 
 <center>
 
 
-# Tth'i'hwum 'i' nuw'ilum tseep <br/> (welcome message in Hul'q'umi'num')
-
-`r embedr::embed_audio("files/bird.mp3")`
-
-# Welcome to Xetthecum! 
-
 <button type="button" id="la-button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">Read the land acknowledgment</button>
 
 </center>
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulputate luctus. Cras convallis tellus at faucibus imperdiet. Etiam posuere justo ut ornare molestie. Curabitur ultricies massa ac arcu eleifend, non varius tellus blandit. Curabitur congue, nisl a cursus posuere, nisi diam volutpat eros, sed pharetra urna erat sit amet est. Pellentesque sagittis mi lacus, at elementum sapien tristique quis. Donec vel orci lectus. Sed consectetur dolor ut risus convallis tristique sit amet vestibulum nunc. Nulla facilisi. Vestibulum aliquam semper metus, efficitur aliquam neque venenatis eu.
 
 <center>
 
-
-
-![](files/spiritual.svg){width=6em}
-![](files/food.svg){width=6em}
-![](files/indicator.svg){width=6em}
-![](files/medicinal.svg){width=6em}
-![](files/material.svg){width=6em}
-![](files/trade.svg){width=6em}
+![](files/icon_array.png)
 
 
 </center>
@@ -89,7 +82,6 @@ icon series
 
 
 
-
 ```{ojs}
 //| echo: false
 //| include: false
@@ -120,6 +112,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt vulp
 ::::
 :::::
 ::::::
-
-
 
