@@ -38,4 +38,4 @@ format:
   html:
     theme: [flatly, css/theme-light.scss]
     css: [css/styles.css, css/modal.css, https://use.fontawesome.com/releases/v6.0.0/css/all.css]
-
+    include-in-header: header.html

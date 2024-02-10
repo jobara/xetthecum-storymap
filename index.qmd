@@ -2,6 +2,7 @@
 engine: knitr
 ---
 
+
 :::: {.column-screen}
 <div class="image-container">
   <img src="files/banner_landing_2_small.png">
@@ -14,6 +15,7 @@ engine: knitr
 
 ::::
 
+<div id="maincontent">
 
 ::: {.column-page}
 ::: {.brown-div}
@@ -94,5 +96,5 @@ Many community members have contributed to the creation of this tool and continu
 ::::
 
 
-
+</div>
 
