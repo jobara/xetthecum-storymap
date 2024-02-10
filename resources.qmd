@@ -79,3 +79,12 @@ https://www.iwgia.org/en/indigenous-data-sovereignty/4699-iw-2022-indigenous-dat
 Walter, Maggie, Raymond Lovett, Bobby Maher, Bhiamie Williamson, Jacob Prehn, Gawaian Bodkin‐Andrews, and Vanessa Lee. 2021. "Indigenous data sovereignty in the era of big data and open data." Australian Journal of Social Issues 56, no. 2 (2021): 143-156.
 https://doi.org/10.1002/ajs4.141
 
+<br>
+
+:::: {.column-page}
+<center>
+![](files/icon_array.png)
+</center>
+::::
+
+

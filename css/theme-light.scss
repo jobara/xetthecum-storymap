@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 // Base document colors
 $primary:     #F2FCD6;    
-$secondary:   #695F50; 
+$secondary:   #5A5244; 
 $link-color:  #597090;
 
 $body-color:  $secondary;
@@ -13,6 +13,14 @@ $dropdown-link-color: $secondary !important;
 $dropdown-link-hover-color: $secondary !important;
 $dropdown-link-hover-bg: #FFD4BD !important;
 
+
+h2 {
+  padding: 0.8em;
+}
+
+h3 {
+  padding: 0.8em;
+}
 
 :focus { 
   outline-color: $link-color !important;
@@ -85,8 +93,13 @@ h1, .h1 h2{
   color: $primary;
 }
 
-.highlight-div {
+.blue-div {
   background-color: $link-color;
+  color: $primary;
+}
+
+.brown-div {
+  background-color: #6C6451;
   color: $primary;
 }
 
@@ -95,4 +108,25 @@ a:hover {
   color: $secondary;
 }
 
+.nav-tabs .nav-link.active{
+  color: $secondary;
+  background: #F8E8D0;
+  font-weight: bold;
+}
 
+.nav-tabs .nav-link{
+  background: #F8E8D0;
+}
+
+
+.quarto-grid-item p.card-img-top {
+  background: $primary;
+}
+
+.quarto-grid-item div.post-contents {
+  background: $primary;
+}
+
+.tab-content{
+  background: #F8E8D0;
+}

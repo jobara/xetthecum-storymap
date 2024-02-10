@@ -23,11 +23,13 @@ website:
             href: about.qmd
           - text: Image Gallery
             href: about.qmd
-          - text: Species List
-            href: about.qmd
+          - text: Browse all Species
+            href: species.qmd
           - text: Web of Life
-            href: about.qmd
+            href: web-of-life.qmd
           - text: Cultural Values
+            href: cultural-values.qmd
+          - text: Ecological Values
             href: about.qmd
       - href: resources.qmd
         text: Resources

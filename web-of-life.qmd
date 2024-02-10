@@ -1,0 +1,18 @@
+---
+title: "Web of Life"
+---
+
+Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. 
+
+Some introductory text about the web of life. Some introductory text about the web of life
+
+
+![](files/web_of_life.png)
+
+<br>
+
+:::: {.column-page}
+<center>
+![](files/icon_array.png)
+</center>
+::::

@@ -193,3 +193,13 @@ Indigenous Creative Director
 :::
 ::::
 
+## Community Partners
+
+
+<br>
+
+:::: {.column-page}
+<center>
+![](files/icon_array.png)
+</center>
+::::

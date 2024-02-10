@@ -15,37 +15,51 @@ engine: knitr
 ::::
 
 
+::: {.column-page}
+::: {.brown-div}
+::: {.column-body}
+
 <center>
-
-
-<button type="button" id="la-button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">Read the land acknowledgment</button>
-
+##  Land acknowledgement 
 </center>
+
+
+Galiano Island lies in the trans-boundary bioregion of the Salish Sea, a region that has been stewarded by the Coast Salish people since time out of mind. The island lies within the shared, asserted, and unceded traditional territories of the Penelakut, Lamalcha, and Hwlitsum First Nations, the shared, asserted, and ceded traditional territories of Tsawwassen First Nation, and the territories of all other Hul’q’umi’num’-speaking peoples who hold rights and responsibilities here. We are grateful to be able to live and learn in this place.
+
+:::
+:::
+:::
+
+<center>
+##  Xetthecum Digital Ecocultural Mapping Project
+</center>
+
 
 This website is the culmination of an interdisciplinary, participatory and inclusive digital mapping project that aims to meaningfully braid together Indigenous ways of knowing and Western ecological science to create an interactive, educational, ecocultural map of a region known as Xetthecum in the Hul’q’umi’num’ language (Retreat Cove in English), on Galiano Island, BC, Canada. We hope you enjoy exploring this site where you can learn about the local biodiversity, Hul’q’umi’num’ species names, the cultural and ecological values of various species and ecological communities, and more.
 
+<br>
+
+:::: {.column-page}
 <center>
-
 ![](files/icon_array.png)
-
-
 </center>
+::::
 
+<br>
 
-
-<div class="div highlight-div">
+<div class="div blue-div">
 :::: {.column-page}
 
 <div class="blurb-container">
 <div class="blurb-half-column">
 
-## About the project
+### About the project
  
 The Xetthecum digital ecocultural mapping project began in 2020 and has been created through the collaborative effort of many people. The map documents Xetthecum’s sensitive ecosystems and cultural keystone species, and integrates various sources of information including historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’q’umi’num’, stories of place and other audio and visual media. The tool provides an education resource and promotes ecocultural mapping as a professional conservation practice among the next generation of land stewards. Through this work we aim to have a positive impact on the community and the environment.
 
-The Xetthecum map is part of a larger initiative begun by <a href="https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html" style="color: #d6fcf9;"  onmouseover="this.style.color='#ad9d93'" onmouseout="this.style.color='#d6fcf9'">Whiteswan Environmental</a> (WE), who are working collaboratively on several Indigenous-led projects that support community healing through the natural, cultural and historical restoration of the Salish Sea.
+The Xetthecum map is part of a larger initiative begun by <a href="https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html" style="color:#F2FCD6;"  onmouseover="this.style.color='#d6fcf9'" onmouseout="this.style.color='#F2FCD6'">Whiteswan Environmental</a> (WE), who are working collaboratively on several Indigenous-led projects that support community healing through the natural, cultural and historical restoration of the Salish Sea.
 <center>
-<button type="button" class="btn btn-primary btn-rounded" style="font-size:1.2em">Learn more</button>
+<a  href="/about.html" class="btn btn-primary btn-rounded" style="font-size:1.2em;color:#597090" role="button">Learn more</a>
 </center>
 
 </div>
@@ -69,7 +83,7 @@ The Xetthecum map is part of a larger initiative begun by <a href="https://www.w
 
 Many community members have contributed to the creation of this tool and continue to collaborate on the project. In addition, the mapping tool provides a resource that anyone can contribute to as citizen scientists, with their own data, observations and knowledge.
 
-[Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://inaturalist.ca/)
+[Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://www.inaturalist.org/projects/xetthecum?tab=observations&subtab=map)
 
 </div>
 <div class="blurb-half-column" style="padding:1.5em;">
@@ -81,34 +95,4 @@ Many community members have contributed to the creation of this tool and continu
 
 
 
-```{ojs}
-//| echo: false
-//| include: false
-// modal from https://jimjam-slam.github.io/quarto-experiments/
-
-micro = require("micromodal@0.4.10");
-
-micro.init({
-  awaitOpenAnimation: true,
-  awaitCloseAnimation: true
-});
-```
-
-<!-- and here's the popup itself! -->
-
-:::::: {#mymodal .modal .micromodal-slide aria-hidden="true"}
-::::: {.modal__overlay tabindex="-1" data-micromodal-close="true"}
-:::: {.modal__container role="dialog" aria-modal="true" aria-labelledby="mymodal-title"}
-
-<button class="close-button" aria-label="Close modal" data-micromodal-close>close<i class="fa-solid fa-x" id='la-x'></i></button>
-
-<center>
-#  Xetthecum Land acknowledgement 
-</center>
-
-Galiano Island lies in the trans-boundary bioregion of the Salish Sea, a region that has been stewarded by the Coast Salish people since time out of mind. The island lies within the shared, asserted, and unceded traditional territories of the Penelakut, Lamalcha, and Hwlitsum First Nations, the shared, asserted, and ceded traditional territories of Tsawwassen First Nation, and the territories of all other Hul’q’umi’num’-speaking peoples who hold rights and responsibilities here. We are grateful to be able to live and learn in this place.
-
-::::
-:::::
-::::::
 

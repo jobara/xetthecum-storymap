@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -83,8 +49,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
-<script type="module" src="site_libs/quarto-ojs/quarto-ojs-runtime.js"></script>
-<link href="site_libs/quarto-ojs/quarto-ojs.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="css/styles.css">
@@ -134,16 +98,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
  <span class="dropdown-text">Image Gallery</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about.html" rel="" target="">
- <span class="dropdown-text">Species List</span></a>
+    <a class="dropdown-item" href="./species.html" rel="" target="">
+ <span class="dropdown-text">Browse all Species</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about.html" rel="" target="">
+    <a class="dropdown-item" href="./web-of-life.html" rel="" target="">
  <span class="dropdown-text">Web of Life</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about.html" rel="" target="">
+    <a class="dropdown-item" href="./cultural-values.html" rel="" target="">
  <span class="dropdown-text">Cultural Values</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html" rel="" target="">
+ <span class="dropdown-text">Ecological Values</span></a>
   </li>  
     </ul>
   </li>
@@ -179,26 +147,39 @@ Tth’i’hwum ‘i’ nuw’ilum tseep <br> Welcome to Xetthecum!
 </div>
 </div>
 </div>
+<div class="column-page page-columns page-full">
+<div class="brown-div page-columns page-full">
+<div class="column-body">
 <center>
-<button type="button" id="la-button" class="btn btn-secondary btn-rounded" href="#" data-micromodal-trigger="mymodal" tabindex="0">
-Read the land acknowledgment
-</button>
-</center>
+<section id="land-acknowledgement" class="level2">
+<h2 class="anchored" data-anchor-id="land-acknowledgement">Land acknowledgement</h2>
+</section></center>
+<p>Galiano Island lies in the trans-boundary bioregion of the Salish Sea, a region that has been stewarded by the Coast Salish people since time out of mind. The island lies within the shared, asserted, and unceded traditional territories of the Penelakut, Lamalcha, and Hwlitsum First Nations, the shared, asserted, and ceded traditional territories of Tsawwassen First Nation, and the territories of all other Hul’q’umi’num’-speaking peoples who hold rights and responsibilities here. We are grateful to be able to live and learn in this place.</p>
+
+</div>
+</div>
+</div>
+<center>
+<section id="xetthecum-digital-ecocultural-mapping-project" class="level2">
+<h2 class="anchored" data-anchor-id="xetthecum-digital-ecocultural-mapping-project">Xetthecum Digital Ecocultural Mapping Project</h2>
+</section></center>
 <p>This website is the culmination of an interdisciplinary, participatory and inclusive digital mapping project that aims to meaningfully braid together Indigenous ways of knowing and Western ecological science to create an interactive, educational, ecocultural map of a region known as Xetthecum in the Hul’q’umi’num’ language (Retreat Cove in English), on Galiano Island, BC, Canada. We hope you enjoy exploring this site where you can learn about the local biodiversity, Hul’q’umi’num’ species names, the cultural and ecological values of various species and ecological communities, and more.</p>
+<p><br></p>
+<div class="column-page">
 <center>
-<p><img src="files/icon_array.png" class="img-fluid"></p>
+<img src="files/icon_array.png" class="img-fluid">
 </center>
-<div class="div highlight-div page-columns page-full">
+</div>
+<p><br></p>
+<div class="div blue-div page-columns page-full">
 <div class="column-page">
 <div class="blurb-container">
-<section id="about-the-project" class="level2 blurb-half-column">
-<h2 class="anchored" data-anchor-id="about-the-project">About the project</h2>
+<section id="about-the-project" class="level3 blurb-half-column">
+<h3 class="anchored" data-anchor-id="about-the-project">About the project</h3>
 <p>The Xetthecum digital ecocultural mapping project began in 2020 and has been created through the collaborative effort of many people. The map documents Xetthecum’s sensitive ecosystems and cultural keystone species, and integrates various sources of information including historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’q’umi’num’, stories of place and other audio and visual media. The tool provides an education resource and promotes ecocultural mapping as a professional conservation practice among the next generation of land stewards. Through this work we aim to have a positive impact on the community and the environment.</p>
-The Xetthecum map is part of a larger initiative begun by <a href="https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html" style="color: #d6fcf9;" onmouseover="this.style.color='#ad9d93'" onmouseout="this.style.color='#d6fcf9'">Whiteswan Environmental</a> (WE), who are working collaboratively on several Indigenous-led projects that support community healing through the natural, cultural and historical restoration of the Salish Sea.
+The Xetthecum map is part of a larger initiative begun by <a href="https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html" style="color:#F2FCD6;" onmouseover="this.style.color='#d6fcf9'" onmouseout="this.style.color='#F2FCD6'">Whiteswan Environmental</a> (WE), who are working collaboratively on several Indigenous-led projects that support community healing through the natural, cultural and historical restoration of the Salish Sea.
 <center>
-<button type="button" class="btn btn-primary btn-rounded" style="font-size:1.2em">
-Learn more
-</button>
+<a href="./about.html" class="btn btn-primary btn-rounded" style="font-size:1.2em;color:#597090" role="button">Learn more</a>
 </center>
 </section>
 <div class="blurb-half-column" style="padding:1.5em;">
@@ -207,53 +188,16 @@ Learn more
 </div>
 </div>
 </div>
+
 <div class="column-page">
 <div class="blurb-container">
 <section id="community-contribution" class="level2 blurb-half-column">
 <h2 class="anchored" data-anchor-id="community-contribution">Community contribution</h2>
 <p>Many community members have contributed to the creation of this tool and continue to collaborate on the project. In addition, the mapping tool provides a resource that anyone can contribute to as citizen scientists, with their own data, observations and knowledge.</p>
-<p><a href="https://inaturalist.ca/">Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
+<p><a href="https://www.inaturalist.org/projects/xetthecum?tab=observations&amp;subtab=map">Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
 </section>
 <div class="blurb-half-column" style="padding:1.5em;">
 <p><img src="files/shells.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<div class="cell" data-include="false">
-<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="89" data-source-offset="-65"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 88;"><span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a>micro <span class="op">=</span> <span class="pp">require</span>(<span class="st">"micromodal@0.4.10"</span>)<span class="op">;</span></span>
-<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a>micro<span class="op">.</span><span class="fu">init</span>({</span>
-<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a>  <span class="dt">awaitOpenAnimation</span><span class="op">:</span> <span class="kw">true</span><span class="op">,</span></span>
-<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>  <span class="dt">awaitCloseAnimation</span><span class="op">:</span> <span class="kw">true</span></span>
-<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display hidden">
-<div>
-<div id="ojs-cell-1-1" data-nodetype="declaration">
-
-</div>
-</div>
-</div>
-<div class="cell-output cell-output-display hidden">
-<div>
-<div id="ojs-cell-1-2" data-nodetype="expression">
-
-</div>
-</div>
-</div>
-</div>
-<!-- and here's the popup itself! -->
-<div id="mymodal" class="modal micromodal-slide" aria-hidden="true">
-<div class="modal__overlay" tabindex="-1" data-micromodal-close="true">
-<div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="mymodal-title">
-<button class="close-button" aria-label="Close modal" data-micromodal-close="">
-close<i class="fa-solid fa-x" id="la-x"></i>
-</button>
-<center>
-<section id="xetthecum-land-acknowledgement" class="level1">
-<h1>Xetthecum Land acknowledgement</h1>
-</section></center>
-<p>Galiano Island lies in the trans-boundary bioregion of the Salish Sea, a region that has been stewarded by the Coast Salish people since time out of mind. The island lies within the shared, asserted, and unceded traditional territories of the Penelakut, Lamalcha, and Hwlitsum First Nations, the shared, asserted, and ceded traditional territories of Tsawwassen First Nation, and the territories of all other Hul’q’umi’num’-speaking peoples who hold rights and responsibilities here. We are grateful to be able to live and learn in this place.</p>
-
 </div>
 </div>
 </div>
@@ -261,17 +205,6 @@ close<i class="fa-solid fa-x" id="la-x"></i>
 
 
 </main> <!-- /main -->
-<script type="ojs-module-contents">
-{"contents":[{"methodName":"interpret","cellName":"ojs-cell-1","inline":false,"source":"// modal from https://jimjam-slam.github.io/quarto-experiments/\n\nmicro = require(\"micromodal@0.4.10\");\n\nmicro.init({\n  awaitOpenAnimation: true,\n  awaitCloseAnimation: true\n});\n"}]}
-</script>
-<script type="module">
-if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
-window._ojs.paths.runtimeToDoc = "../..";
-window._ojs.paths.runtimeToRoot = "../..";
-window._ojs.paths.docToRoot = "";
-window._ojs.selfContained = false;
-window._ojs.runtime.interpretFromScriptTags();
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
