@@ -1,0 +1,23 @@
+---
+title: q'ul-lhanamutsum
+engine: knitr
+categories:
+  - Medicinal
+  - Spiritual
+  - Indicator
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/153239969/medium.jpg)
+
+## **Hul'q'umi'num' Name**: q'ul-lhanamutsum
+## **Taxon Name**: Orcinus orca
+## **"Common" Name**: killer whale
+## **Cultural Values**:
+
+  - Medicinal
+  - Spiritual
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

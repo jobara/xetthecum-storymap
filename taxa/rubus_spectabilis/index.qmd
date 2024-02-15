@@ -1,0 +1,19 @@
+---
+title: lila'
+engine: knitr
+categories:
+  - Food
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg)
+
+## **Hul'q'umi'num' Name**: lila'
+## **Taxon Name**: Rubus spectabilis
+## **"Common" Name**: Salmonberry
+## **Cultural Values**:
+
+  - Food
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

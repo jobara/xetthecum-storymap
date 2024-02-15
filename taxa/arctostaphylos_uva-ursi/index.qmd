@@ -1,0 +1,23 @@
+---
+title: tl'ikw'iyelhp
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/181302737/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: tl'ikw'iyelhp
+## **Taxon Name**: Arctostaphylos uva-ursi
+## **"Common" Name**: bearberry
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

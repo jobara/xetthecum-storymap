@@ -1,0 +1,27 @@
+---
+title: thq'iinlhp
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/11793124/medium.jpg)
+
+## **Hul'q'umi'num' Name**: thq'iinlhp
+## **Taxon Name**: Tsuga heterophylla
+## **"Common" Name**: western hemlock
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

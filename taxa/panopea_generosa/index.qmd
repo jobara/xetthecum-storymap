@@ -1,0 +1,27 @@
+---
+title: pun'eq'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/41098566/medium.jpg)
+
+## **Hul'q'umi'num' Name**: pun'eq'
+## **Taxon Name**: Panopea generosa
+## **"Common" Name**: Pacific geoduck
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

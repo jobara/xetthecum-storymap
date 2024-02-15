@@ -1,0 +1,29 @@
+---
+title: ha'put
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/5207830/medium.jpg)
+
+## **Hul'q'umi'num' Name**: ha'put
+## **Taxon Name**: Odocoileus hemionus columbianus
+## **"Common" Name**: Columbian Black-tailed Deer
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

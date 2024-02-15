@@ -1,0 +1,27 @@
+---
+title: exu
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/181719420/medium.jpg)
+
+## **Hul'q'umi'num' Name**: exu
+## **Taxon Name**: Branta canadensis
+## **"Common" Name**: Canada Goose
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

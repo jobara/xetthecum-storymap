@@ -1,0 +1,27 @@
+---
+title: tl'uxwtl'uxw
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/252776928/medium.jpg)
+
+## **Hul'q'umi'num' Name**: tl'uxwtl'uxw
+## **Taxon Name**: Magallana gigas
+## **"Common" Name**: Pacific Oyster
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

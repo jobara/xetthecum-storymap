@@ -1,0 +1,27 @@
+---
+title: tsulqama'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/22798930/medium.jpg)
+
+## **Hul'q'umi'num' Name**: tsulqama'
+## **Taxon Name**: Rubus leucodermis
+## **"Common" Name**: whitebark raspberry
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

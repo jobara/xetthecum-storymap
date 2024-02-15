@@ -1,0 +1,29 @@
+---
+title: sqwul'ew'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/249990599/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: sqwul'ew'
+## **Taxon Name**: Castor canadensis
+## **"Common" Name**: American Beaver
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

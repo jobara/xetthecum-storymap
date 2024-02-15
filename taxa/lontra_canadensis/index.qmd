@@ -1,0 +1,27 @@
+---
+title: sqeetl'
+engine: knitr
+categories:
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/99994014/medium.jpg)
+
+## **Hul'q'umi'num' Name**: sqeetl'
+## **Taxon Name**: Lontra canadensis
+## **"Common" Name**: North American River Otter
+## **Cultural Values**:
+
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

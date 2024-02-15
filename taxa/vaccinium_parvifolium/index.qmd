@@ -1,0 +1,21 @@
+---
+title: sqw'uqwtsus
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/4855055/medium.jpg)
+
+## **Hul'q'umi'num' Name**: sqw'uqwtsus
+## **Taxon Name**: Vaccinium parvifolium
+## **"Common" Name**: Red Huckleberry
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

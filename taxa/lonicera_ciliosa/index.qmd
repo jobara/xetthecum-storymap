@@ -1,0 +1,27 @@
+---
+title: qit'a'uylhp
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/18945520/medium.jpg)
+
+## **Hul'q'umi'num' Name**: qit'a'uylhp
+## **Taxon Name**: Lonicera ciliosa
+## **"Common" Name**: orange honeysuckle
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

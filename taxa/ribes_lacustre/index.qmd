@@ -1,0 +1,23 @@
+---
+title: t'emhw
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/200056455/medium.jpg)
+
+## **Hul'q'umi'num' Name**: t'emhw
+## **Taxon Name**: Ribes lacustre
+## **"Common" Name**: swamp currant
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

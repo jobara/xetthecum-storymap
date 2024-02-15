@@ -1,0 +1,27 @@
+---
+title: qaanlhp
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Indicator
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/9248407/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: qaanlhp
+## **Taxon Name**: Arbutus menziesii
+## **"Common" Name**: Pacific madrone
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

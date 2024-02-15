@@ -1,0 +1,29 @@
+---
+title: miit'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/210776245/medium.jpg)
+
+## **Hul'q'umi'num' Name**: miit'
+## **Taxon Name**: Dendragapus fuliginosus
+## **"Common" Name**: Sooty Grouse
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

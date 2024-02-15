@@ -1,0 +1,21 @@
+---
+title: q'iyatl'un
+engine: knitr
+categories:
+  - Medicinal
+  - Spiritual
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/59264526/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: q'iyatl'un
+## **Taxon Name**: Ariolimax columbianus
+## **"Common" Name**: Pacific Banana Slug
+## **Cultural Values**:
+
+  - Medicinal
+  - Spiritual
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

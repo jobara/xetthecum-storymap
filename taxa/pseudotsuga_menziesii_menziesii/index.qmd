@@ -1,0 +1,29 @@
+---
+title: ts'sey'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/641410/medium.jpg)
+
+## **Hul'q'umi'num' Name**: ts'sey'
+## **Taxon Name**: Pseudotsuga menziesii menziesii
+## **"Common" Name**: Coast Douglas-fir
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

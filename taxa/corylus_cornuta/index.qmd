@@ -1,0 +1,25 @@
+---
+title: p'qw'axw
+engine: knitr
+categories:
+  - Food
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/2190080/medium.JPG)
+
+## **Hul'q'umi'num' Name**: p'qw'axw
+## **Taxon Name**: Corylus cornuta
+## **"Common" Name**: beaked hazelnut
+## **Cultural Values**:
+
+  - Food
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

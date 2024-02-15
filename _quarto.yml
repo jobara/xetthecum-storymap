@@ -24,7 +24,7 @@ website:
           - text: Image Gallery
             href: about.qmd
           - text: Browse all Species
-            href: species.qmd
+            href: taxa.qmd
           - text: Web of Life
             href: web-of-life.qmd
           - text: Cultural Values

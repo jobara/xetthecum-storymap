@@ -1,0 +1,25 @@
+---
+title: xats'et
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Material
+  - Indicator
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/145664133/medium.jpg)
+
+## **Hul'q'umi'num' Name**: xats'et
+## **Taxon Name**: Chamaenerion angustifolium
+## **"Common" Name**: fireweed
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Material
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

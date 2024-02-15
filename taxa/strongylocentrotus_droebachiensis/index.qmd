@@ -1,0 +1,29 @@
+---
+title: skw'itth'i'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/88054286/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: skw'itth'i'
+## **Taxon Name**: Strongylocentrotus droebachiensis
+## **"Common" Name**: green sea urchin
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

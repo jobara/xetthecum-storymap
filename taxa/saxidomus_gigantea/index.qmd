@@ -1,0 +1,27 @@
+---
+title: s-axwa'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/30549879/medium.jpg)
+
+## **Hul'q'umi'num' Name**: s-axwa'
+## **Taxon Name**: Saxidomus gigantea
+## **"Common" Name**: Washington butter clam
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

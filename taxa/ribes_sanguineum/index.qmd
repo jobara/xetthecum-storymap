@@ -1,0 +1,23 @@
+---
+title: sqwuliius / hwihwukw'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Trade
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/83234098/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: sqwuliius / hwihwukw'
+## **Taxon Name**: Ribes sanguineum
+## **"Common" Name**: Red-flowering Currant
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

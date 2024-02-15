@@ -1,0 +1,25 @@
+---
+title: ukws'
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Trade
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/113653251/medium.jpg)
+
+## **Hul'q'umi'num' Name**: ukws'
+## **Taxon Name**: Cryptochiton stelleri
+## **"Common" Name**: giant Pacific chiton
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Trade
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

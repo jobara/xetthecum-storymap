@@ -1,0 +1,23 @@
+---
+title: suniiulhp / lulutth'sulhp
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/44971943/medium.jpg)
+
+## **Hul'q'umi'num' Name**: suniiulhp / lulutth'sulhp
+## **Taxon Name**: Berberis nervosa
+## **"Common" Name**: Cascade Oregon-grape
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**

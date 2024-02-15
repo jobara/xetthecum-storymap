@@ -1,0 +1,29 @@
+---
+title: shes / ts'axulus
+engine: knitr
+categories:
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/211667368/medium.jpeg)
+
+## **Hul'q'umi'num' Name**: shes / ts'axulus
+## **Taxon Name**: Eumetopias jubatus
+## **"Common" Name**: Steller sea lion
+## **Cultural Values**:
+
+  - Food
+  - Medicinal
+  - Spiritual
+  - Material
+  - Trade
+  - Indicator
+
+## **Ecological Community**
+## **Wikipedia summary**
+## **Observational Data**
