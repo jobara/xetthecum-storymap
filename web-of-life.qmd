@@ -2,12 +2,49 @@
 title: "Web of Life"
 ---
 
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+<link rel="stylesheet" type="text/css" href="WoL/css/imerss-viz-all.css" />
+<script src="WoL/js/jquery.js"></script>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+<script src="WoL/js/imerss-viz-all.js"></script>
+
 Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. 
 
 Some introductory text about the web of life. Some introductory text about the web of life
 
+<style>
+.autocomplete__input {
+    background: white
+}
+</style>
 
-![](files/web_of_life.png)
+<div class="fl-imerss-container column-page">
+</div>
+
+<script>
+// Attested at https://getbootstrap.com/docs/5.0/getting-started/javascript/#no-conflict-only-if-you-use-jquery
+// Need to prevent bootstrap's tooltip plugin (which is force-loaded by quarto) from conflicting with jQuery's which
+// is in use in the viz
+hortis.revertTooltip = function () {
+    console.log("Reverting ", $.fn.tooltip);
+    var bootstrapTooltip = $.fn.tooltip.noConflict() // return $.fn.button to previously assigned value
+    $.fn.bootstrapTooltip = bootstrapTooltip // give $().bootstrapBtn the Bootstrap functionality
+}
+
+document.addEventListener("DOMContentLoaded", hortis.revertTooltip);
+
+hortis.sunburstLoader(".fl-imerss-container", {
+  resourceBase: "WoL",
+  renderMarkup: true,
+  colourCount: "observationCount",
+  culturalValues: false,
+  initialTab: "sunburst",
+  vizFile: "WoL/data/Life.json.lz4",
+  phyloMap: "%resourceBase/json/kingdomPhyloMap.json",
+  markupTemplate: "%resourceBase/html/imerss-viz-nomap-wol.html",
+  commonNames: false
+});
+</script>
 
 <br>
 
