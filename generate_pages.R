@@ -5,7 +5,7 @@ library(UpSetR)
 taxa <- read_csv('https://raw.githubusercontent.com/IMERSS/imerss-bioinfo/main/data/Xetthecum/reintegrated-withImages.csv') %>%
   rowwise() %>%
   mutate(cultural_values = sum(across(ends_with("value")), na.rm=T)) %>%
-  filter(cultural_values > 0) %>%
+  filter(cultural_values > 0)
 
 taxa %>%
   mutate(across(ends_with("value"), ~replace_na(.,0))) %>%

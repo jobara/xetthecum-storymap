@@ -1,5 +1,45 @@
-/* see https://epicbootstrap.com/snippets/team-cards */
-
-.figure-caption{
-   text-align: center;
+/* from chatgpt 20/02/24 */
+/* Container for the entire layout */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates three columns */
+  grid-gap: 20px; /* Space between items */
+  padding: 20px; /* Padding around the grid */
 }
+
+/* Style for each card */
+.card {
+  background: #F8E8D0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Title of each card */
+.card-title {
+  font-size: 1em;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Icon container */
+.icon-container {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+/* Description text */
+.description {
+  margin-bottom: 15px;
+}
+
+/* Image inside the card */
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* You may need to add more specific styles for icons and texts as per your design */
