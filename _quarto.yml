@@ -30,7 +30,7 @@ website:
           - text: Cultural Values
             href: cultural-values.qmd
           - text: Ecological Values
-            href: about.qmd
+            href: ecological-values.qmd
       - href: resources.qmd
         text: Resources
     #google-analytics: 'G-01XD03JCPM'
