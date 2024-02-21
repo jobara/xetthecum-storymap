@@ -17,9 +17,6 @@ website:
         text: About
       - text: Explore
         menu:
-          - text: How-to Tutorial
-          - text: Video Stories
-          - text: Image Gallery
           - text: Browse all Species
             href: taxa.qmd
           - text: Web of Life

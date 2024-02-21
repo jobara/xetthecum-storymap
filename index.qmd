@@ -10,7 +10,7 @@ cp files/Jeannine\ Welcome.mp3 docs/files/
 <div class="image-container">
   <img src="files/banner_landing_2_small.png">
   <div class="centered-text">
-  <h1>Tth\'ihwum m\'i \'ewu i\' Xetthecum<br/> 
+  <h1>Tth\'ihwum m\'i \'ewu i\' Xetthecum sii'em<br/> 
   Please come here to Xetthecum</h1>
   `r embedr::embed_audio("files/Jeannine Welcome.mp3", id='audio-yellow')` 
    </div>
