@@ -80,3 +80,10 @@ audio::-webkit-media-controls-panel {
   filter: brightness(0%) saturate(0%) invert(100%);
 }
 
+p{
+  padding-top: 0.3em;
+}
+
+.quarto-grid-item p{
+  padding: 0;
+}
