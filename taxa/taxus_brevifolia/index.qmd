@@ -1,13 +1,13 @@
 ---
-title: t<U+0259>xw�ts<U+0259>lp
+title: təxwátsəłp
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/99338130/medium.jpeg){fig-alt="t<U+0259>xw�ts<U+0259>lp - Pacific yew"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/99338130/medium.jpeg){fig-alt="təxwátsəłp - Pacific yew"}
 
-**Hul'q'umi'num' Name**: t<U+0259>xw�ts<U+0259>lp
+**Hul'q'umi'num' Name**: təxwátsəłp
 
 **Taxon Name**: Taxus brevifolia
 

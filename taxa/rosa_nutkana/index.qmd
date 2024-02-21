@@ -28,7 +28,7 @@ freeze: auto
 **Ecological Community**: Woodlands and rock outcrops, Forests, Marine
 
 **Wikipedia summary**:  
-<i><b>Rosa nutkana</b></i>, the <b>Nootka rose</b>, <b>bristly rose</b>, or <b>wild rose</b> is a 0.6–3.0-metre-tall (2–10-foot) perennial shrub in the rose family (Rosaceae).</p><p>The species name <i>nootka</i> comes from the Nootka Sound of Vancouver Island, where the plant was first described. This plant is native to Western North America.  There are 2 varieties:  <i>hispida</i> grows in the Intermountain West</p>...
+<i><b>Rosa nutkana</b></i>, the <b>Nootka rose</b>, <b>bristly rose</b>, or <b>wild rose</b> is a 0.6â€“3.0-metre-tall (2â€“10-foot) perennial shrub in the rose family (Rosaceae).</p><p>The species name <i>nootka</i> comes from the Nootka Sound of Vancouver Island, where the plant was first described. This plant is native to Western North America.  There are 2 varieties:  <i>hispida</i> grows in the Intermountain West</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

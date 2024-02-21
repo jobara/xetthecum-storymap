@@ -37,7 +37,7 @@ freeze: auto
 <p class="mw-empty-elt">
 
 </p>
-<p>The <b>Pacific geoduck</b> (<span></span> <i title="English pronunciation respelling">GOO-ee-duk</i>; <i>Panopea generosa</i>) is a species of very large saltwater clam in the family Hiatellidae. The common name is derived from the Lushootseed name, <span title="Lushootseed-language text"><i lang="lut">g<U+02B7>id<U+0259>q</i></span>.
+<p>The <b>Pacific geoduck</b> (<span></span> <i title="English pronunciation respelling">GOO-ee-duk</i>; <i>Panopea generosa</i>) is a species of very large saltwater clam in the family Hiatellidae. The common name is derived from the Lushootseed name, <span title="Lushootseed-language text"><i lang="lut">gʷidəq</i></span>.
 </p><p>The geoduck is native to the coastal waters of the eastern North Pacific Ocean from Alaska</p>...
 
 **Observational Data**:   

@@ -1,13 +1,13 @@
 ---
-title: stl�<U+0259><U+04D9>lts�<U+0259><U+04D9>� l<U+0259><U+04D9>qw�<U+0259><U+04D9>s
+title: stł’əәlts’əә́ ləәqw’əәs
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/27849/medium.jpg){fig-alt="stl�<U+0259><U+04D9>lts�<U+0259><U+04D9>� l<U+0259><U+04D9>qw�<U+0259><U+04D9>s - checker lily"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/27849/medium.jpg){fig-alt="stł’əәlts’əә́ ləәqw’əәs - checker lily"}
 
-**Hul'q'umi'num' Name**: stl�<U+0259><U+04D9>lts�<U+0259><U+04D9>� l<U+0259><U+04D9>qw�<U+0259><U+04D9>s
+**Hul'q'umi'num' Name**: stł’əәlts’əә́ ləәqw’əәs
 
 **Taxon Name**: Fritillaria affinis
 

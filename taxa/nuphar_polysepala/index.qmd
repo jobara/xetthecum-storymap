@@ -1,13 +1,13 @@
 ---
-title: qw�<U+0259><U+04D9>� m�<U+0259><U+04D9>tx
+title: qw’əә́ m’əәtx
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/42352635/medium.jpeg){fig-alt="qw�<U+0259><U+04D9>� m�<U+0259><U+04D9>tx - western yellow pond-lily"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/42352635/medium.jpeg){fig-alt="qw’əә́ m’əәtx - western yellow pond-lily"}
 
-**Hul'q'umi'num' Name**: qw�<U+0259><U+04D9>� m�<U+0259><U+04D9>tx
+**Hul'q'umi'num' Name**: qw’əә́ m’əәtx
 
 **Taxon Name**: Nuphar polysepala
 

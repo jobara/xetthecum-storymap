@@ -1,13 +1,13 @@
 ---
-title: sx<U+0259>´m’x<U+0259>m’
+title: sxÉ™Ìmâ€™xÉ™mâ€™
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/72881677/medium.jpg){fig-alt="sx<U+0259>´m’x<U+0259>m’ - field horsetail"}
+![](https://static.inaturalist.org/photos/72881677/medium.jpg){fig-alt="sxÉ™Ìmâ€™xÉ™mâ€™ - field horsetail"}
 
-**Hul'q'umi'num' Name**: sx<U+0259>´m’x<U+0259>m’
+**Hul'q'umi'num' Name**: sxÉ™Ìmâ€™xÉ™mâ€™
 
 **Taxon Name**: Equisetum arvense
 

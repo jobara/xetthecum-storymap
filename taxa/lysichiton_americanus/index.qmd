@@ -1,13 +1,13 @@
 ---
-title: ts’ákw’a<U+0294>
+title: tsâ€™Ã¡kwâ€™aÊ”
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/107900/medium.jpg){fig-alt="ts’ákw’a<U+0294> - western skunk cabbage"}
+![](https://static.inaturalist.org/photos/107900/medium.jpg){fig-alt="tsâ€™Ã¡kwâ€™aÊ” - western skunk cabbage"}
 
-**Hul'q'umi'num' Name**: ts’ákw’a<U+0294>
+**Hul'q'umi'num' Name**: tsâ€™Ã¡kwâ€™aÊ”
 
 **Taxon Name**: Lysichiton americanus
 

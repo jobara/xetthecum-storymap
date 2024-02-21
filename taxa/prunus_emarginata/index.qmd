@@ -1,13 +1,13 @@
 ---
-title: st�<U+0259><U+04D9>� l<U+0259><U+04D9>m
+title: st’əә́ ləәm
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/67338881/medium.jpg){fig-alt="st�<U+0259><U+04D9>� l<U+0259><U+04D9>m - Bitter cherry"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/67338881/medium.jpg){fig-alt="st’əә́ ləәm - Bitter cherry"}
 
-**Hul'q'umi'num' Name**: st�<U+0259><U+04D9>� l<U+0259><U+04D9>m
+**Hul'q'umi'num' Name**: st’əә́ ləәm
 
 **Taxon Name**: Prunus emarginata
 

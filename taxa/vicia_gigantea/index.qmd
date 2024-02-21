@@ -1,13 +1,13 @@
 ---
-title: tl’íkw’<U+0259><U+04D9>n’
+title: tÅ‚â€™Ã­kwâ€™É™Ó™nâ€™
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/34664752/medium.jpeg){fig-alt="tl’íkw’<U+0259><U+04D9>n’ - giant vetch"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/34664752/medium.jpeg){fig-alt="tÅ‚â€™Ã­kwâ€™É™Ó™nâ€™ - giant vetch"}
 
-**Hul'q'umi'num' Name**: tl’íkw’<U+0259><U+04D9>n’
+**Hul'q'umi'num' Name**: tÅ‚â€™Ã­kwâ€™É™Ó™nâ€™
 
 **Taxon Name**: Vicia gigantea
 

@@ -31,7 +31,7 @@ freeze: auto
 **Ecological Community**: Freshwater, Marine
 
 **Wikipedia summary**:  
-The <b>coho salmon</b> (<i><b>Oncorhynchus kisutch</b>;</i> Karuk: achvuun) is a species of anadromous fish in the salmon family and one of the five Pacific salmon species. Coho salmon are also known as <b>silver salmon</b> or "silvers". The scientific species name is based on the Russian common name <i>kizhuch</i> (<U+043A><U+0438><U+0436><U+0443><U+0447>).
+The <b>coho salmon</b> (<i><b>Oncorhynchus kisutch</b>;</i> Karuk: achvuun) is a species of anadromous fish in the salmon family and one of the five Pacific salmon species. Coho salmon are also known as <b>silver salmon</b> or "silvers". The scientific species name is based on the Russian common name <i>kizhuch</i> (кижуч).
 
 **Observational Data**:   
 First reported: 2000-01-01  

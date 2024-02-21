@@ -1,13 +1,13 @@
 ---
-title: l<U+0259>´q’l<U+0259>q’<U+0294>ey’
+title: lÉ™Ìqâ€™lÉ™qâ€™Ê”eyâ€™
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/2071508/medium.jpg){fig-alt="l<U+0259>´q’l<U+0259>q’<U+0294>ey’ - lady fern"}
+![](https://static.inaturalist.org/photos/2071508/medium.jpg){fig-alt="lÉ™Ìqâ€™lÉ™qâ€™Ê”eyâ€™ - lady fern"}
 
-**Hul'q'umi'num' Name**: l<U+0259>´q’l<U+0259>q’<U+0294>ey’
+**Hul'q'umi'num' Name**: lÉ™Ìqâ€™lÉ™qâ€™Ê”eyâ€™
 
 **Taxon Name**: Athyrium filix-femina
 

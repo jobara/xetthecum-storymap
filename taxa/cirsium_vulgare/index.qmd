@@ -1,13 +1,13 @@
 ---
-title: x<U+0259>w�x<U+0259>w�lp
+title: xəw’xəwíłp
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/82020683/medium.jpg){fig-alt="x<U+0259>w�x<U+0259>w�lp - Bull Thistle"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/82020683/medium.jpg){fig-alt="xəw’xəwíłp - Bull Thistle"}
 
-**Hul'q'umi'num' Name**: x<U+0259>w�x<U+0259>w�lp
+**Hul'q'umi'num' Name**: xəw’xəwíłp
 
 **Taxon Name**: Cirsium vulgare
 
@@ -25,7 +25,7 @@ freeze: auto
 <p class="mw-empty-elt">
 </p>
 
-<i><b>Cirsium vulgare</b></i>, the <b>spear thistle</b>, <b>bull thistle</b>, or <b>common thistle</b>, is a species of the Asteraceae genus <i>Cirsium</i>, native throughout most of Europe (north to 66�N, locally 68�N), Western Asia (east to the Yenisei Valley), and northwestern Africa (Atlas Mountains). It is also naturalised in North America, Africa, and Australia and is an invasive</p>...
+<i><b>Cirsium vulgare</b></i>, the <b>spear thistle</b>, <b>bull thistle</b>, or <b>common thistle</b>, is a species of the Asteraceae genus <i>Cirsium</i>, native throughout most of Europe (north to 66°N, locally 68°N), Western Asia (east to the Yenisei Valley), and northwestern Africa (Atlas Mountains). It is also naturalised in North America, Africa, and Australia and is an invasive</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

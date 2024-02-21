@@ -1,13 +1,13 @@
 ---
-title: sh�al<U+0294><U+0259>lp
+title: sháalʔəłp
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/16633753/medium.jpg){fig-alt="sh�al<U+0294><U+0259>lp - red osier dogwood"}
+![](https://static.inaturalist.org/photos/16633753/medium.jpg){fig-alt="sháalʔəłp - red osier dogwood"}
 
-**Hul'q'umi'num' Name**: sh�al<U+0294><U+0259>lp
+**Hul'q'umi'num' Name**: sháalʔəłp
 
 **Taxon Name**: Cornus sericea
 

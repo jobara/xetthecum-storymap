@@ -1,13 +1,13 @@
 ---
-title: x<U+0259>w�x<U+0259>w�lp
+title: xəw’xəwíłp
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/42462240/medium.jpg){fig-alt="x<U+0259>w�x<U+0259>w�lp - creeping thistle"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/42462240/medium.jpg){fig-alt="xəw’xəwíłp - creeping thistle"}
 
-**Hul'q'umi'num' Name**: x<U+0259>w�x<U+0259>w�lp
+**Hul'q'umi'num' Name**: xəw’xəwíłp
 
 **Taxon Name**: Cirsium arvense
 

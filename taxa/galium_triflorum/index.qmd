@@ -1,13 +1,13 @@
 ---
-title: xw <U+0259>´ m’kw ’eyath<U+0259>n
+title: xw É™Ì mâ€™kw â€™eyathÉ™n
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/50976242/medium.jpg){fig-alt="xw <U+0259>´ m’kw ’eyath<U+0259>n - fragrant bedstraw"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/50976242/medium.jpg){fig-alt="xw É™Ì mâ€™kw â€™eyathÉ™n - fragrant bedstraw"}
 
-**Hul'q'umi'num' Name**: xw <U+0259>´ m’kw ’eyath<U+0259>n
+**Hul'q'umi'num' Name**: xw É™Ì mâ€™kw â€™eyathÉ™n
 
 **Taxon Name**: Galium triflorum
 

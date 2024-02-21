@@ -8,9 +8,7 @@ title: "Web of Life"
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
 <script src="WoL/js/imerss-viz-all.js"></script>
 
-Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. Some introductory text about the web of life. 
-
-Some introductory text about the web of life. Some introductory text about the web of life
+The Web of Life is an interactive visualisation based on a working species list of observations made on Galiano Island. Please note that it is a work in progress that may contain errors and redundancies, and that is continually subject to review with assistance from various taxonomic authorities.
 
 <style>
 .autocomplete__input {

@@ -1,13 +1,13 @@
 ---
-title: s<U+0259><U+04D9>xws<U+0259><U+04D9>xw<U+0294>�<U+0294>l
+title: səәxwsəәxwʔéʔł
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/35280454/medium.jpg){fig-alt="s<U+0259><U+04D9>xws<U+0259><U+04D9>xw<U+0294>�<U+0294>l - common dandelions"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/35280454/medium.jpg){fig-alt="səәxwsəәxwʔéʔł - common dandelions"}
 
-**Hul'q'umi'num' Name**: s<U+0259><U+04D9>xws<U+0259><U+04D9>xw<U+0294>�<U+0294>l
+**Hul'q'umi'num' Name**: səәxwsəәxwʔéʔł
 
 **Taxon Name**: Taraxacum
 

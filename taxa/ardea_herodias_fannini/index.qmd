@@ -35,7 +35,7 @@ freeze: auto
 
 **Wikipedia summary**:  
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096" />
-The <b>great blue heron</b> (<i><b>Ardea herodias</b></i>) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Gal·pagos Islands. It is occasionally found in the Azores and is</p>...
+The <b>great blue heron</b> (<i><b>Ardea herodias</b></i>) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Gal√°pagos Islands. It is occasionally found in the Azores and is</p>...
 
 **Observational Data**:   
 First reported: 2017-05-25  

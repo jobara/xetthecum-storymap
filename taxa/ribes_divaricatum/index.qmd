@@ -1,13 +1,13 @@
 ---
-title: t�em<U+0259><U+04D9>xw
+title: t’eməәxw
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/35190836/medium.jpeg){fig-alt="t�em<U+0259><U+04D9>xw - spreading gooseberry"}
+![](https://static.inaturalist.org/photos/35190836/medium.jpeg){fig-alt="t’eməәxw - spreading gooseberry"}
 
-**Hul'q'umi'num' Name**: t�em<U+0259><U+04D9>xw
+**Hul'q'umi'num' Name**: t’eməәxw
 
 **Taxon Name**: Ribes divaricatum
 

@@ -1,13 +1,13 @@
 ---
-title: kw’éqeq
+title: kwâ€™Ã©qeq
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/8713871/medium.jpeg){fig-alt="kw’éqeq - NA"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/8713871/medium.jpeg){fig-alt="kwâ€™Ã©qeq - NA"}
 
-**Hul'q'umi'num' Name**: kw’éqeq
+**Hul'q'umi'num' Name**: kwâ€™Ã©qeq
 
 **Taxon Name**: Ulva fenestrata
 

@@ -1,13 +1,13 @@
 ---
-title: tl�<U+0259>l�qw�<U+0259>lp
+title: tł’əlíqw’əłp
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/9180893/medium.jpg){fig-alt="tl�<U+0259>l�qw�<U+0259>lp - common yarrow"}
+![](https://static.inaturalist.org/photos/9180893/medium.jpg){fig-alt="tł’əlíqw’əłp - common yarrow"}
 
-**Hul'q'umi'num' Name**: tl�<U+0259>l�qw�<U+0259>lp
+**Hul'q'umi'num' Name**: tł’əlíqw’əłp
 
 **Taxon Name**: Achillea millefolium borealis
 

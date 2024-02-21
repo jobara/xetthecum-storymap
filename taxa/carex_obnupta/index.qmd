@@ -1,13 +1,13 @@
 ---
-title: psh�y<U+0294>
+title: psháyʔ
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/82391485/medium.jpg){fig-alt="psh�y<U+0294> - slough sedge"}
+![](https://static.inaturalist.org/photos/82391485/medium.jpg){fig-alt="psháyʔ - slough sedge"}
 
-**Hul'q'umi'num' Name**: psh�y<U+0294>
+**Hul'q'umi'num' Name**: psháyʔ
 
 **Taxon Name**: Carex obnupta
 

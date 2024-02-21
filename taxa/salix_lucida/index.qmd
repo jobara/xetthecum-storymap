@@ -1,13 +1,13 @@
 ---
-title: xw�la<U+0294>alp
+title: xwálaʔałp
 engine: knitr
 categories:
   - 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/182253816/medium.jpg){fig-alt="xw�la<U+0294>alp - shining willow"}
+![](https://static.inaturalist.org/photos/182253816/medium.jpg){fig-alt="xwálaʔałp - shining willow"}
 
-**Hul'q'umi'num' Name**: xw�la<U+0294>alp
+**Hul'q'umi'num' Name**: xwálaʔałp
 
 **Taxon Name**: Salix lucida
 
@@ -22,7 +22,7 @@ freeze: auto
 **Ecological Community**: Forests
 
 **Wikipedia summary**:  
-<i><b>Salix lucida</b></i>, the <b>shining willow</b>, <b>Pacific willow</b>, <b>red willow</b>, or <b>whiplash willow</b>, is a species of willow native to northern and western North America, occurring in wetland habitats. It is the largest willow found in British Columbia.</p><p>It is a deciduous large shrub or small tree growing to 4�15 metres (13�49&#160;ft) tall. The shoots are greenish-brown to grey-brown. The leaves</p>...
+<i><b>Salix lucida</b></i>, the <b>shining willow</b>, <b>Pacific willow</b>, <b>red willow</b>, or <b>whiplash willow</b>, is a species of willow native to northern and western North America, occurring in wetland habitats. It is the largest willow found in British Columbia.</p><p>It is a deciduous large shrub or small tree growing to 4–15 metres (13–49&#160;ft) tall. The shoots are greenish-brown to grey-brown. The leaves</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  
