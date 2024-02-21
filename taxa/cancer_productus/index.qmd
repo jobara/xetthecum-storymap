@@ -5,15 +5,30 @@ categories:
   - Food
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/104752597/medium.jpeg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/104752597/medium.jpeg){fig-alt="kwakwatl'shun - red rock crab"}
 
-## **Hul'q'umi'num' Name**: kwakwatl'shun
-## **Taxon Name**: Cancer productus
-## **"Common" Name**: red rock crab
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: kwakwatl'shun
 
-  - Food
+**Taxon Name**: Cancer productus
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: red rock crab
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<i><b>Cancer productus</b></i>, one of several species known as <b>red rock crabs</b>, is a crab of the genus <i>Cancer</i> found on the western coast of North America. This species is commonly nicknamed the Pearl of the Pacific Northwest.
+
+**Observational Data**:   
+First reported: 1996-09-29  
+Source: dataPaper  
+Last reported: 2023-08-06  
+Source: iNat  
+Obervation count: 27
+
+![](community_dist.png)

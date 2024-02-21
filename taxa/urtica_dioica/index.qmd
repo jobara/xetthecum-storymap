@@ -8,18 +8,40 @@ categories:
   - Material
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/144861756/medium.jpeg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/144861756/medium.jpeg){fig-alt="tth'uxtth'ux - great stinging nettle"}
 
-## **Hul'q'umi'num' Name**: tth'uxtth'ux
-## **Taxon Name**: Urtica dioica
-## **"Common" Name**: great stinging nettle
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: tth'uxtth'ux
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
+**Taxon Name**: Urtica dioica
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: great stinging nettle
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+:::
+
+**Ecological Community**: Freshwater, Anthropogenic, Woodlands and rock outcrops
+
+**Wikipedia summary**:  
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096" />
+<p class="mw-empty-elt">
+
+</p>
+<p><i><b>Urtica dioica</b></i>, often known as <b>common nettle</b>, <b>burn nettle</b>, <b>stinging nettle</b> (although not all plants of this species sting) or <b>nettle leaf</b>, or just a <b>nettle</b> or <b>stinger</b>, is a herbaceous perennial flowering plant in the family Urticaceae. Originally native to Europe, much of temperate</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 3
+
+![](community_dist.png)

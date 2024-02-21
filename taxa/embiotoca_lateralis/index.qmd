@@ -7,17 +7,36 @@ categories:
   - Trade
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/114604286/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/114604286/medium.jpg){fig-alt="wiitsi' - striped seaperch"}
 
-## **Hul'q'umi'num' Name**: wiitsi'
-## **Taxon Name**: Embiotoca lateralis
-## **"Common" Name**: striped seaperch
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: wiitsi'
 
-  - Food
-  - Medicinal
-  - Trade
+**Taxon Name**: Embiotoca lateralis
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: striped seaperch
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<i><b>Embiotoca lateralis</b></i>, commonly known as the <b>striped surfperch</b> or <b>striped seaperch</b>, is a species of surfperch native to the north-eastern Pacific Ocean.
+</p>
+
+
+**Observational Data**:   
+First reported: 1996-09-29  
+Source: dataPaper  
+Last reported: 2023-08-06  
+Source: iNat  
+Obervation count: 9
+
+![](community_dist.png)

@@ -9,19 +9,38 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1018289/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/1018289/medium.jpg){fig-alt="p'hwulhp - Oregon oak"}
 
-## **Hul'q'umi'num' Name**: p'hwulhp
-## **Taxon Name**: Quercus garryana
-## **"Common" Name**: Oregon oak
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: p'hwulhp
 
-  - Food
-  - Medicinal
-  - Material
-  - Trade
-  - Indicator
+**Taxon Name**: Quercus garryana
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Oregon oak
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Woodlands and rock outcrops, Anthropogenic, Marine, Forests
+
+**Wikipedia summary**:  
+<i><b>Quercus garryana</b></i> is an oak tree species of the Pacific Northwest, with a range stretching from southern California to southwestern British Columbia. It is commonly known as the <b>Garry Oak, Oregon white oak</b> or <b>Oregon oak</b>. It grows from sea level to an altitude of 690 feet (210 metres) in the northern part of its range, and from 980 to 5,900&#160;ft (300 to 1,800&#160;m) in the south of the range in</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-28  
+Source: iNat  
+Obervation count: 11
+
+![](community_dist.png)

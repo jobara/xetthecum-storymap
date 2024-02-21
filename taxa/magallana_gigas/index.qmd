@@ -9,19 +9,38 @@ categories:
   - Trade
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/252776928/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/252776928/medium.jpg){fig-alt="tl'uxwtl'uxw - Pacific Oyster"}
 
-## **Hul'q'umi'num' Name**: tl'uxwtl'uxw
-## **Taxon Name**: Magallana gigas
-## **"Common" Name**: Pacific Oyster
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: tl'uxwtl'uxw
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
+**Taxon Name**: Magallana gigas
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Pacific Oyster
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+The <b>Pacific oyster</b>, <b>Japanese oyster</b>, or <b>Miyagi oyster</b> (<i><b>Magallana gigas</b></i>),  is an oyster native to the Pacific coast of Asia. It has become an introduced species in North America, Australia, Europe, and New Zealand.
+
+**Observational Data**:   
+First reported: 2021-02-21  
+Source: dataPaper  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

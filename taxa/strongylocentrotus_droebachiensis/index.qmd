@@ -10,20 +10,40 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/88054286/medium.jpeg)
+![](https://static.inaturalist.org/photos/88054286/medium.jpeg){fig-alt="skw'itth'i' - green sea urchin"}
 
-## **Hul'q'umi'num' Name**: skw'itth'i'
-## **Taxon Name**: Strongylocentrotus droebachiensis
-## **"Common" Name**: green sea urchin
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: skw'itth'i'
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+**Taxon Name**: Strongylocentrotus droebachiensis
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: green sea urchin
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<i><b>Strongylocentrotus droebachiensis</b></i> is commonly known as the <b>green sea urchin</b> because of its characteristic green color, not to be confused with <i>Psammechinus miliaris</i> as it is also commonly called the green sea urchin. It is commonly found in northern waters all around the world including both the Pacific and Atlantic Oceans to a northerly latitude of 81 degrees and as far south as Maine </p>...
+
+**Observational Data**:   
+First reported: 1969-02-21  
+Source: dataPaper  
+Last reported: 2023-05-28  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

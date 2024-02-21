@@ -10,20 +10,40 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/5207830/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/5207830/medium.jpg){fig-alt="ha'put - Columbian Black-tailed Deer"}
 
-## **Hul'q'umi'num' Name**: ha'put
-## **Taxon Name**: Odocoileus hemionus columbianus
-## **"Common" Name**: Columbian Black-tailed Deer
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: ha'put
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+**Taxon Name**: Odocoileus hemionus columbianus
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Columbian Black-tailed Deer
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Anthropogenic, Forests
+
+**Wikipedia summary**:  
+Two forms of <b>black-tailed deer</b> or <b>blacktail deer</b> that occupy coastal woodlands in the Pacific Northwest of North America are subspecies of the mule deer (<i>Odocoileus hemionus</i>). They have sometimes been treated as a species, but virtually all recent authorities maintain they are subspecies.</p><p>The <b>Columbian black-tailed deer</b> (<i><b>Odocoileus hemionus columbianus</b></i>) is found in western</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2019-05-05  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

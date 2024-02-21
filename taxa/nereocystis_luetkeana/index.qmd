@@ -9,19 +9,38 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/4963877/medium.jpeg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/4963877/medium.jpeg){fig-alt="q'am' - Bull Kelp"}
 
-## **Hul'q'umi'num' Name**: q'am'
-## **Taxon Name**: Nereocystis luetkeana
-## **"Common" Name**: Bull Kelp
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: q'am'
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Indicator
+**Taxon Name**: Nereocystis luetkeana
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Bull Kelp
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<i><b>Nereocystis</b></i> (Greek, 'mermaid's bladder') is a monotypic genus of subtidal kelp containing the species <i><b>Nereocystis luetkeana</b></i>. Some English names include <b>edible kelp</b>, <b>bull kelp</b>, <b>bullwhip kelp</b>, <b>ribbon kelp</b>,  <b>bladder wrack</b>, and variations of these names. Due to the English name, bull kelp can be confused with southern bull kelps, which are found in the Southern</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-08-06  
+Source: iNat  
+Obervation count: 13
+
+![](community_dist.png)

@@ -1,0 +1,34 @@
+---
+title: x<U+0259>w’x<U+0259>wílp
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/42462240/medium.jpg){fig-alt="x<U+0259>w’x<U+0259>wílp - creeping thistle"}
+
+**Hul'q'umi'num' Name**: x<U+0259>w’x<U+0259>wílp
+
+**Taxon Name**: Cirsium arvense
+
+**"Common" Name**: creeping thistle
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Anthropogenic, Forests
+
+**Wikipedia summary**:  
+<i><b>Cirsium arvense</b></i> is a perennial species of flowering plant in the family Asteraceae, native throughout Europe and western Asia, northern Africa and widely introduced elsewhere. The standard English name in its native area is <b>creeping thistle</b>. It is also commonly known as <b>Canada thistle</b> and <b>field thistle</b>.</p><p>The plant is beneficial for pollinators that rely on nectar. It also was</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 2
+
+![](community_dist.png)

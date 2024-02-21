@@ -1,0 +1,34 @@
+---
+title: psháy<U+0294>
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/82391485/medium.jpg){fig-alt="psháy<U+0294> - slough sedge"}
+
+**Hul'q'umi'num' Name**: psháy<U+0294>
+
+**Taxon Name**: Carex obnupta
+
+**"Common" Name**: slough sedge
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Freshwater
+
+**Wikipedia summary**:  
+<i><b>Carex obnupta</b></i> is a species of sedge known by the common name <b>slough sedge</b>. It is native to western North America from British Columbia to California where it grows abundantly in wet, often saline habitat such as wetlands. The plant produces upright, angled stems approaching 1.2 meters in maximum height, growing in beds or colonies from rhizome networks. The inflorescence is a cluster of flower</p>...
+
+**Observational Data**:   
+First reported: 2016-06-05  
+Source: iNat  
+Last reported: 2016-06-05  
+Source: iNat  
+Obervation count: 1
+
+![](community_dist.png)

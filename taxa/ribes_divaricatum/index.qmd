@@ -1,0 +1,34 @@
+---
+title: t’em<U+0259><U+04D9>xw
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/35190836/medium.jpeg){fig-alt="t’em<U+0259><U+04D9>xw - spreading gooseberry"}
+
+**Hul'q'umi'num' Name**: t’em<U+0259><U+04D9>xw
+
+**Taxon Name**: Ribes divaricatum
+
+**"Common" Name**: spreading gooseberry
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Forests
+
+**Wikipedia summary**:  
+<i><b>Ribes divaricatum</b></i> is a species in the genus <i>Ribes</i> found in the forests, woodlands, and coastal scrub of western North America from British Columbia to California. The three accepted varieties have various common names which include the word "gooseberry". Other common names include <b>coast black gooseberry</b>, <b>wild gooseberry</b>, <b>Worcesterberry</b>, or <b>spreading-branched gooseberry</b></p>...
+
+**Observational Data**:   
+First reported: 2019-04-04  
+Source: iNat  
+Last reported: 2019-04-04  
+Source: iNat  
+Obervation count: 1
+
+![](community_dist.png)

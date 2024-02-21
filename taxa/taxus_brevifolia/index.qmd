@@ -1,0 +1,34 @@
+---
+title: t<U+0259>xwáts<U+0259>lp
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/99338130/medium.jpeg){fig-alt="t<U+0259>xwáts<U+0259>lp - Pacific yew"}
+
+**Hul'q'umi'num' Name**: t<U+0259>xwáts<U+0259>lp
+
+**Taxon Name**: Taxus brevifolia
+
+**"Common" Name**: Pacific yew
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Forests, Anthropogenic
+
+**Wikipedia summary**:  
+<i><b>Taxus brevifolia</b></i>, the <b>Pacific yew</b> or <b>western yew</b>, is a species of tree in the yew family Taxaceae native to the Pacific Northwest of North America. It is a small evergreen conifer, thriving in moisture and otherwise tending to take the form of a shrub.
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2021-03-17  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

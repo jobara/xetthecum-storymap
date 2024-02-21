@@ -6,16 +6,32 @@ categories:
   - Medicinal
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/4855055/medium.jpg)
+![](https://static.inaturalist.org/photos/4855055/medium.jpg){fig-alt="sqw'uqwtsus - Red Huckleberry"}
 
-## **Hul'q'umi'num' Name**: sqw'uqwtsus
-## **Taxon Name**: Vaccinium parvifolium
-## **"Common" Name**: Red Huckleberry
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: sqw'uqwtsus
 
-  - Food
-  - Medicinal
+**Taxon Name**: Vaccinium parvifolium
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Red Huckleberry
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+:::
+
+**Ecological Community**: Freshwater, Anthropogenic, Forests
+
+**Wikipedia summary**:  
+<i><b>Vaccinium parvifolium</b></i>, the <b>red huckleberry</b>, is a species of <i>Vaccinium</i> native to western North America.
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2022-02-19  
+Source: iNat  
+Obervation count: 9
+
+![](community_dist.png)

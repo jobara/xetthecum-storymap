@@ -1,0 +1,35 @@
+---
+title: l<U+0259>´q’l<U+0259>q’<U+0294>ey’
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/2071508/medium.jpg){fig-alt="l<U+0259>´q’l<U+0259>q’<U+0294>ey’ - lady fern"}
+
+**Hul'q'umi'num' Name**: l<U+0259>´q’l<U+0259>q’<U+0294>ey’
+
+**Taxon Name**: Athyrium filix-femina
+
+**"Common" Name**: lady fern
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Freshwater, Forests
+
+**Wikipedia summary**:  
+<i><b>Athyrium filix-femina</b></i>, the <b>lady fern</b> or <b>common lady-fern</b>, is a large, feathery species of fern native to temperate Asia, Europe, North Africa, Canada and the US. It is often abundant (one of the more common ferns) in damp, shady woodland environments and is often grown for decoration.
+</p><p>Its common names "lady fern" and "female fern" refer to how its reproductive structures (sori) are</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 3
+
+![](community_dist.png)

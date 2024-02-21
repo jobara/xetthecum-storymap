@@ -1,0 +1,34 @@
+---
+title: tl’<U+0259>líqw’<U+0259>lp
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/9180893/medium.jpg){fig-alt="tl’<U+0259>líqw’<U+0259>lp - common yarrow"}
+
+**Hul'q'umi'num' Name**: tl’<U+0259>líqw’<U+0259>lp
+
+**Taxon Name**: Achillea millefolium borealis
+
+**"Common" Name**: common yarrow
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Anthropogenic, Woodlands and rock outcrops
+
+**Wikipedia summary**:  
+NA
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-28  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

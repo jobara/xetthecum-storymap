@@ -1,0 +1,34 @@
+---
+title: ch’áx<U+0259><U+04D9>y’
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/78038371/medium.jpg){fig-alt="ch’áx<U+0259><U+04D9>y’ - reed canary grass"}
+
+**Hul'q'umi'num' Name**: ch’áx<U+0259><U+04D9>y’
+
+**Taxon Name**: Phalaris arundinacea
+
+**"Common" Name**: reed canary grass
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Freshwater, Forests
+
+**Wikipedia summary**:  
+<i><b>Phalaris arundinacea</b></i>, or <b>reed canary grass</b>, is a tall, perennial bunchgrass that commonly forms extensive single-species stands along the margins of lakes and streams and in wet open areas, with a wide distribution in Europe, Asia, northern Africa and North America. Other common names for the plant include <b>gardener's-garters</b> and <b>ribbon grass</b> in English, <i><b>alpiste roseau</b></i></p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2016-06-05  
+Source: iNat  
+Obervation count: 2
+
+![](community_dist.png)

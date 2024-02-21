@@ -7,17 +7,34 @@ categories:
   - Material
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/147408582/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/147408582/medium.jpg){fig-alt="p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp - Common Snowberry"}
 
-## **Hul'q'umi'num' Name**: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp
-## **Taxon Name**: Symphoricarpos albus
-## **"Common" Name**: Common Snowberry
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp
 
-  - Medicinal
-  - Spiritual
-  - Material
+**Taxon Name**: Symphoricarpos albus
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Common Snowberry
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+:::
+
+**Ecological Community**: Anthropogenic, Forests, Freshwater
+
+**Wikipedia summary**:  
+<i><b>Symphoricarpos albus</b></i> is a species of flowering plant in the honeysuckle family known by the common name <b>common snowberry</b>. Native to North America, it is browsed by some animals and planted for ornamental and ecological purposes, but is poisonous to humans.
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2018-10-20  
+Source: iNat  
+Obervation count: 5
+
+![](community_dist.png)

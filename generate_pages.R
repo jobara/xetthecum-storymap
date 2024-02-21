@@ -58,9 +58,10 @@ make_community_plot <- function(row, parent, obs){
     ggthemes::theme_economist() + 
     theme(text = element_text(size=10), legend.position='right') + 
     labs(fill = "Ecological community", y = "Number of observations", x = '' ) + 
-    scale_fill_manual(values=map_pal) 
+    scale_fill_manual(values=map_pal) + 
+    scale_y_continuous(breaks = ~round(unique(pretty(.))))
     
-  ggsave(paste0('taxa/', parent, '/community_dist.png'), width = 5, height = 3)
+    ggsave(paste0('taxa/', parent, '/community_dist.png'), width = 5, height = 3)
 }
 
 count_obs <- function(row, obs){
@@ -94,7 +95,7 @@ make_page <- function(row, obs){
     "\n\n**Hul'q'umi'num' Name**: ", row["Hulquminum Name"],
     "\n\n**Taxon Name**: ", row["Taxon name"],
     "\n\n**\"Common\" Name**: ", row["commonName"],
-    "\n\n**Cultural Values**:  \n\n::: {layout-nrow=1 style=\"width:45%\"}\n", icon_values(row), "\n:::",
+    "\n\n**Cultural Values**:  \n\n::: {layout-nrow=1 style=\"width:60%\"}\n", icon_values(row), "\n:::",
     "\n\n**Ecological Community**: ", get_community(row, obs),
     "\n\n**Wikipedia summary**:  \n", row["wikipediaSummary"], 
     "\n\n**Observational Data**: ",
@@ -105,9 +106,8 @@ make_page <- function(row, obs){
     "  \nObervation count: ", count_obs(row,obs),
     "\n\n![](community_dist.png)"
   )
-  
-  write(contents, file.path('taxa', parent, 'index.qmd'))
+  stringi::stri_write_lines(contents, encoding = "UTF-8", file.path('taxa', parent, 'index.qmd'))
 }
 
 # run this line to regenerate taxa pages
-taxa %>% head(10) %>% split(rownames(.)) %>%  map(~make_page(.x, obs))
+taxa %>% split(rownames(.)) %>%  map(~make_page(.x, obs))

@@ -1,0 +1,35 @@
+---
+title: ts’ákw’a<U+0294>
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/107900/medium.jpg){fig-alt="ts’ákw’a<U+0294> - western skunk cabbage"}
+
+**Hul'q'umi'num' Name**: ts’ákw’a<U+0294>
+
+**Taxon Name**: Lysichiton americanus
+
+**"Common" Name**: western skunk cabbage
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Freshwater, Woodlands and rock outcrops
+
+**Wikipedia summary**:  
+<i><b>Lysichiton americanus</b></i>, also called <b>western skunk cabbage</b> (US), <b>yellow skunk cabbage</b> (UK), <b>American skunk-cabbage</b> (Britain and Ireland) or <b>swamp lantern</b>, is a plant found in swamps and wet woods, along streams and in other wet areas of the Pacific Northwest, where it is one of the few native species in the arum family.
+</p><p>The plant is called skunk cabbage because of the</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 3
+
+![](community_dist.png)

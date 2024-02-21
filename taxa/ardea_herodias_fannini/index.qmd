@@ -9,19 +9,39 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/medium.jpg){fig-alt="smuqw'a' - Northwest Coast Great Blue Heron"}
 
-## **Hul'q'umi'num' Name**: smuqw'a'
-## **Taxon Name**: Ardea herodias
-## **"Common" Name**: Northwest Coast Great Blue Heron
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: smuqw'a'
 
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+**Taxon Name**: Ardea herodias
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Northwest Coast Great Blue Heron
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Forests, Anthropogenic
+
+**Wikipedia summary**:  
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096" />
+The <b>great blue heron</b> (<i><b>Ardea herodias</b></i>) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Galápagos Islands. It is occasionally found in the Azores and is</p>...
+
+**Observational Data**:   
+First reported: 2017-05-25  
+Source: iNat  
+Last reported: 2018-05-23  
+Source: iNat  
+Obervation count: 2
+
+![](community_dist.png)

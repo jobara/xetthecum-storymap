@@ -7,17 +7,34 @@ categories:
   - Spiritual
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/200056455/medium.jpg)
+![](https://static.inaturalist.org/photos/200056455/medium.jpg){fig-alt="t'emhw - swamp currant"}
 
-## **Hul'q'umi'num' Name**: t'emhw
-## **Taxon Name**: Ribes lacustre
-## **"Common" Name**: swamp currant
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: t'emhw
 
-  - Food
-  - Medicinal
-  - Spiritual
+**Taxon Name**: Ribes lacustre
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: swamp currant
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+:::
+
+**Ecological Community**: Freshwater
+
+**Wikipedia summary**:  
+The shrub <i><b>Ribes lacustre</b></i> is known by the common names <b>prickly currant</b>, <b>black swamp gooseberry</b>, and <b>black gooseberry</b>. It is widely distributed in North America.
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2010-05-22  
+Source: Hunterston  
+Obervation count: 1
+
+![](community_dist.png)

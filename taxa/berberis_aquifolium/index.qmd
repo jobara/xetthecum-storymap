@@ -7,17 +7,34 @@ categories:
   - Spiritual
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/33215492/medium.jpeg)
+![](https://static.inaturalist.org/photos/33215492/medium.jpeg){fig-alt="suniiulhp / lulutth'sulhp - Oregon grape"}
 
-## **Hul'q'umi'num' Name**: suniiulhp / lulutth'sulhp
-## **Taxon Name**: Berberis aquifolium
-## **"Common" Name**: Oregon grape
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: suniiulhp / lulutth'sulhp
 
-  - Food
-  - Medicinal
-  - Spiritual
+**Taxon Name**: Berberis aquifolium
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Oregon grape
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+:::
+
+**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
+
+**Wikipedia summary**:  
+<i><b>Berberis aquifolium</b></i>, the <b>Oregon grape</b> or <b>holly-leaved barberry</b>, is a species of flowering plant in the family Berberidaceae, native to western North America. It is an evergreen shrub growing 1–3 meters (3–10 feet) tall and 1.5&#160;m (5&#160;ft) wide, with pinnate leaves consisting of spiny leaflets, and dense clusters of yellow flowers in early spring, followed by dark bluish-black berries.</p><p class="mw-empty-elt"></p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 6
+
+![](community_dist.png)

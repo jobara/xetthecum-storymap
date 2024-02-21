@@ -10,20 +10,40 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/83838154/medium.jpeg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/83838154/medium.jpeg){fig-alt="t'a'hw - grand fir"}
 
-## **Hul'q'umi'num' Name**: t'a'hw
-## **Taxon Name**: Abies grandis
-## **"Common" Name**: grand fir
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: t'a'hw
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+**Taxon Name**: Abies grandis
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: grand fir
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Forests, Anthropogenic, Freshwater
+
+**Wikipedia summary**:  
+<i><b>Abies grandis</b></i> (<b>grand fir</b>, <b>giant fir</b>, <b>lowland white fir</b>, <b>great silver fir</b>, <b>western white fir</b>, <b>Vancouver fir</b>, or <b>Oregon fir</b>) is a fir native to the Pacific Northwest and Northern California of North America, occurring at altitudes of sea level to 1,700 metres (5,600&#160;ft). It is a major constituent of the Grand Fir/Douglas Fir Ecoregion of the Cascade Range</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2022-02-19  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

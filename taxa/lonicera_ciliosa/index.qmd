@@ -9,19 +9,38 @@ categories:
   - Trade
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/18945520/medium.jpg)
+![](https://static.inaturalist.org/photos/18945520/medium.jpg){fig-alt="qit'a'uylhp - orange honeysuckle"}
 
-## **Hul'q'umi'num' Name**: qit'a'uylhp
-## **Taxon Name**: Lonicera ciliosa
-## **"Common" Name**: orange honeysuckle
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: qit'a'uylhp
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
+**Taxon Name**: Lonicera ciliosa
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: orange honeysuckle
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+:::
+
+**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
+
+**Wikipedia summary**:  
+<i><b>Lonicera ciliosa</b></i>, the <b>orange honeysuckle</b> or <b>western trumpet honeysuckle</b> is a honeysuckle native to forests of western North America. A deciduous shrub growing to 6&#160;m (20&#160;ft) tall with hollow twigs, the leaves are opposite, oval, 4–10&#160;cm (1.6–3.9&#160;in) long with the last pair on each twig merged to form a disk. The flowers are orange-yellow, 2–4&#160;cm (0.79–1.57&#160;in) long, with five lobes and trumpet</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2010-05-22  
+Source: Hunterston  
+Obervation count: 5
+
+![](community_dist.png)

@@ -9,19 +9,39 @@ categories:
   - Indicator
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/253030401/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/253030401/medium.jpg){fig-alt="stl'ula'um - Nuttall's cockle"}
 
-## **Hul'q'umi'num' Name**: stl'ula'um
-## **Taxon Name**: Clinocardium nuttallii
-## **"Common" Name**: Nuttall's cockle
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: stl'ula'um
 
-  - Food
-  - Medicinal
-  - Spiritual
-  - Trade
-  - Indicator
+**Taxon Name**: Clinocardium nuttallii
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: Nuttall's cockle
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![spiritual](/files/spiritual.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+
+![indicator](/files/indicator.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<i><b>Clinocardium </b></i> is a genus of marine bivalve molluscs in the family Cardiidae, the cockles. It is monotypic, being represented by the single species <i><b>Clinocardium nuttallii</b></i>, also known as the <b>basket cockle</b> or <b>Nuttall's cockle</b>, a large edible saltwater clam.</p>
+
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 6
+
+![](community_dist.png)

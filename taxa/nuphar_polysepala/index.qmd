@@ -1,0 +1,34 @@
+---
+title: qw’<U+0259><U+04D9>´ m’<U+0259><U+04D9>tx
+engine: knitr
+categories:
+  - 
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/42352635/medium.jpeg){fig-alt="qw’<U+0259><U+04D9>´ m’<U+0259><U+04D9>tx - western yellow pond-lily"}
+
+**Hul'q'umi'num' Name**: qw’<U+0259><U+04D9>´ m’<U+0259><U+04D9>tx
+
+**Taxon Name**: Nuphar polysepala
+
+**"Common" Name**: western yellow pond-lily
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Freshwater, Forests
+
+**Wikipedia summary**:  
+<i><b>Nuphar polysepala</b></i> (the <b>great yellow pond-lily</b> or <b>wokas</b>; syn. <i>Nuphar polysepalum</i> orth. err., <i>Nuphar lutea</i> subsp. <i>polysepala</i> (Engelm.) E.O.Beal) is a species of <i>Nuphar</i> native to western North America. The name Nuphar is Greek for "water-lily" and polysepala means many sepals. It is commonly found in shallow muddy ponds from northern Alaska and Yukon southward to</p>...
+
+**Observational Data**:   
+First reported: 2015-08-20  
+Source: iNat  
+Last reported: 2023-05-26  
+Source: iNat  
+Obervation count: 6
+
+![](community_dist.png)

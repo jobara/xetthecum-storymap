@@ -8,18 +8,38 @@ categories:
   - Trade
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/983435/medium.jpg)
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/983435/medium.jpg){fig-alt="sweem - gaper"}
 
-## **Hul'q'umi'num' Name**: sweem
-## **Taxon Name**: Tresus sp.
-## **"Common" Name**: gaper
-## **Cultural Values**:
+**Hul'q'umi'num' Name**: sweem
 
-  - Food
-  - Medicinal
-  - Material
-  - Trade
+**Taxon Name**: Tresus sp.
 
-## **Ecological Community**
-## **Wikipedia summary**
-## **Observational Data**
+**"Common" Name**: gaper
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![food](/files/food.svg){width=50px}
+
+![medicinal](/files/medicinal.svg){width=50px}
+
+![material](/files/material.svg){width=50px}
+
+![trade](/files/trade.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<i><b>Tresus</b></i> is a genus of saltwater clams, marine bivalve mollusks in the family Mactridae. Many of them are known under the common name the <b>horse clam</b> or as species of <b>gaper clam</b>. They are similar to geoducks.
+</p>
+
+
+**Observational Data**:   
+First reported: 2012-08-27  
+Source: dataPaper  
+Last reported: 2016-03-05  
+Source: dataPaper  
+Obervation count: 3
+
+![](community_dist.png)
