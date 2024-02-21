@@ -2,7 +2,7 @@
 title: xwálaʔałp
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/182253816/medium.jpg){fig-alt="xwálaʔałp - shining willow"}

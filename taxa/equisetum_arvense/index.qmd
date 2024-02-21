@@ -2,7 +2,7 @@
 title: sxə́m’xəm’
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/72881677/medium.jpg){fig-alt="sxə́m’xəm’ - field horsetail"}

@@ -2,7 +2,7 @@
 title: qw’əә́ m’əәtx
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/42352635/medium.jpeg){fig-alt="qw’əә́ m’əәtx - western yellow pond-lily"}

@@ -2,7 +2,7 @@
 title: lə́q’ləq’ʔey’
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/2071508/medium.jpg){fig-alt="lə́q’ləq’ʔey’ - lady fern"}

@@ -2,7 +2,7 @@
 title: psháyʔ
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/82391485/medium.jpg){fig-alt="psháyʔ - slough sedge"}

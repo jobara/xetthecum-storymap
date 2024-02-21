@@ -2,7 +2,7 @@
 title: sháalʔəłp
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/16633753/medium.jpg){fig-alt="sháalʔəłp - red osier dogwood"}

@@ -2,7 +2,7 @@
 title: t’eməәxw
 engine: knitr
 categories:
-  - 
+
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/35190836/medium.jpeg){fig-alt="t’eməәxw - spreading gooseberry"}
