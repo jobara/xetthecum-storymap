@@ -9,11 +9,16 @@
 
 /* Style for each card */
 .card {
+  height: 700px;
   background: #F8E8D0;
   border: 1px solid #ccc;
   border-radius: 10px;
   padding: 15px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: space-between; 
+  
 }
 
 /* Title of each card */
@@ -30,16 +35,27 @@
   margin-bottom: 5px;
 }
 
+/* Icon container */
+.card p{
+  padding: 0;
+  margin: 0.5em;
+}
+
+
 /* Description text */
 .description {
-  margin-bottom: 15px;
+  height:100%;
+  margin-bottom: 5px;
 }
 
 /* Image inside the card */
 .card img {
+  margin-top: auto; 
   width: 100%;
   height: auto;
   border-radius: 10px;
+  padding: 0;
+  
 }
 
 /* You may need to add more specific styles for icons and texts as per your design */
