@@ -59,8 +59,10 @@ make_community_plot <- function(row, parent, obs){
     ggplot(aes(x = COMMUNITY, fill = clazz)) + 
     geom_bar(position = 'stack', width = 0.5) + 
     ggthemes::theme_economist() + 
-    theme(text = element_text(size=10), legend.position='right') + 
+    theme(text = element_text(size=10), legend.position='right',
+          panel.grid.major = element_blank()) + 
     labs(fill = "Ecological community", y = "Number of observations", x = '' ) + 
+    coord_flip() + 
     scale_fill_manual(values=map_pal) + 
     scale_y_continuous(breaks = ~round(unique(pretty(.))))
     
