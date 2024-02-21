@@ -28,14 +28,17 @@ map_pal <- structure(c('#21776E', '#4DAF54', '#64AFA4', '#175012', '#7F7F7F', '#
 stopifnot(length(map_pal) == length(unique(obs$clazz)))
 
 list_values <- function(row){
-  row %>%
+  values <- row %>%
     select(ends_with('value')) %>%
     rename_with(~gsub(" Value", "", .)) %>%
     pivot_longer(everything()) %>%
     filter(value >0) %>%
     pull(name) %>% 
-    paste(collapse ='\n  - ') %>%
-    paste("  -", .)
+    paste(collapse ='\n  - ') 
+  
+  if (values != ""){values <- paste("  -", values)}
+  
+  return(values)
 }
 
 icon_values <- function(row){
