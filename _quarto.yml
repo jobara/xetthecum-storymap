@@ -11,25 +11,22 @@ website:
     foreground: "primary"
   navbar:
     right:
-      - href: https://imerss.github.io/xetthecum-storymap-scrolly/Xetthecum-Storymap-Reknitted.html
+      - href: index.qmd
         text: The Story of Xetthecum
       - href: about.qmd
         text: About
       - text: Explore
         menu:
           - text: How-to Tutorial
-            href: about.qmd
           - text: Video Stories
-            href: about.qmd
           - text: Image Gallery
-            href: about.qmd
           - text: Browse all Species
             href: taxa.qmd
           - text: Web of Life
             href: web-of-life.qmd
           - text: Cultural Values
             href: cultural-values.qmd
-          - text: Ecological Values
+          - text: Ecological Communities
             href: ecological-values.qmd
       - href: resources.qmd
         text: Resources

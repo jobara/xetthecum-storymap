@@ -9,7 +9,7 @@ engine: knitr
   <div class="centered-text">
   <h1>Tth'i'hwum 'i' nuw'ilum tseep <br/> 
   Welcome to Xetthecum!</h1>
-  `r embedr::embed_audio("files/bird.mp3", id='audio-yellow')` 
+  `r embedr::embed_audio("files/Jeannine Welcome.mp3", id='audio-yellow')` 
    </div>
 </div>
 
