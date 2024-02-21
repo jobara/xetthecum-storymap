@@ -1,5 +1,6 @@
 ---
 title: "Web of Life"
+engine: knitr
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
@@ -9,6 +10,10 @@ title: "Web of Life"
 <script src="WoL/js/imerss-viz-all.js"></script>
 
 The Web of Life is an interactive visualisation based on a working species list of observations made on Galiano Island. Please note that it is a work in progress that may contain errors and redundancies, and that is continually subject to review with assistance from various taxonomic authorities.
+
+```{bash, include = F}
+cp -r Wol docs
+```
 
 <style>
 .autocomplete__input {
