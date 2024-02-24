@@ -12,6 +12,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: e s-hw
 
+
+
 **Taxon Name**: Phoca vitulina richardii
 
 **"Common" Name**: Pacific Harbor Seal

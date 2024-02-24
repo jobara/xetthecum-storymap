@@ -12,6 +12,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: sweem
 
+`r embedr::embed_audio('../../audio/sweem_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')`
+
 **Taxon Name**: Tresus sp.
 
 **"Common" Name**: gaper

@@ -13,6 +13,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: thikwt
 
+`r embedr::embed_audio('../../audio/thikwt_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')`
+
 **Taxon Name**: Apostichopus californicus
 
 **"Common" Name**: giant sea cucumber

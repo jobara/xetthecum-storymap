@@ -12,6 +12,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: ey'x
 
+`r embedr::embed_audio('../../audio/ey_x_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')`
+
 **Taxon Name**: Metacarcinus magister
 
 **"Common" Name**: Dungeness crab

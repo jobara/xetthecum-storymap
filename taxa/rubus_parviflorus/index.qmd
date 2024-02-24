@@ -10,6 +10,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: t'uqwum'
 
+`r embedr::embed_audio('../../audio/t_uqwum__Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')`
+
 **Taxon Name**: Rubus parviflorus
 
 **"Common" Name**: thimbleberry

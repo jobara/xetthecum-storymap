@@ -53,6 +53,20 @@ icon_values <- function(row){
     paste(collapse = '\n\n')
 }
 
+make_audio <- function(row){
+  fn <- row %>%
+    mutate(fn = gsub('\'', '_', `Hulquminum Name`),
+           fn = paste0(fn, '_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')) %>%
+    pull(fn) 
+  
+  if (file.exists(paste0('audio/', fn))){
+    return(paste0('`r embedr::embed_audio(\'../../audio/', fn, '\')`'))
+  }
+  
+  return("")
+  
+}
+
 make_community_plot <- function(row, parent, obs){
   obs %>% 
     filter(`iNaturalist taxon ID` == row[['iNaturalist taxon ID']]) %>%
@@ -98,6 +112,7 @@ make_page <- function(row, obs){
     '\n---\n',
     '![](', row$iNaturalistTaxonImage, '){fig-alt=\"', row["Hulquminum Name"], ' - ', row["commonName"], "\"}",
     "\n\n**Hul'q'umi'num' Name**: ", row["Hulquminum Name"],
+    "\n\n", make_audio(row),
     "\n\n**Taxon Name**: ", row["Taxon name"],
     "\n\n**\"Common\" Name**: ", row["commonName"],
     "\n\n**Cultural Values**:  \n\n::: {layout-nrow=1 style=\"width:60%\"}\n", icon_values(row), "\n:::",

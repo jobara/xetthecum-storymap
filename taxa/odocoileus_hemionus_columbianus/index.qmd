@@ -14,6 +14,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: ha'put
 
+`r embedr::embed_audio('../../audio/ha_put_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')`
+
 **Taxon Name**: Odocoileus hemionus columbianus
 
 **"Common" Name**: Columbian Black-tailed Deer

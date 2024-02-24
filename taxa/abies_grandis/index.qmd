@@ -14,6 +14,8 @@ freeze: auto
 
 **Hul'q'umi'num' Name**: t'a'hw
 
+`r embedr::embed_audio('../../audio/t_a_hw_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')`
+
 **Taxon Name**: Abies grandis
 
 **"Common" Name**: grand fir
