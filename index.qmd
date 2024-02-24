@@ -2,10 +2,6 @@
 engine: knitr
 ---
 
-```{bash, include = F}
-cp files/Jeannine\ Welcome.mp3 docs/files/
-```
-
 :::: {.column-screen}
 <div class="image-container">
   <img src="files/banner_landing_2_small.png">

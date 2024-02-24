@@ -11,9 +11,6 @@ engine: knitr
 
 The Web of Life is an interactive visualisation based on a working species list of observations made on Galiano Island. Please note that it is a work in progress that may contain errors and redundancies, and that is continually subject to review with assistance from various taxonomic authorities.
 
-```{bash, include = F}
-cp -r Wol docs
-```
 
 <style>
 .autocomplete__input {
