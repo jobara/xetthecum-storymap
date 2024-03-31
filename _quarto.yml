@@ -11,7 +11,7 @@ website:
     foreground: "primary"
   navbar:
     right:
-      - href: https://imerss.github.io/xetthecum-storymap-scrolly/Xetthecum-Storymap-Reknitted.html
+      - href: https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html
         text: The Story of Xetthecum
       - href: about.qmd
         text: About
