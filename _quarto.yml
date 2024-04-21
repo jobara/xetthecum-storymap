@@ -5,6 +5,7 @@ project:
 website:
   title: "Xetthecum Digital Ecocultural Mapping"
   search: false
+  google-analytics: 'G-MM4PBW09LS'
   page-footer: 
     right: "Contact" 
     background: "secondary"
@@ -27,7 +28,6 @@ website:
             href: ecological-values.qmd
       - href: resources.qmd
         text: Resources
-    #google-analytics: 'G-01XD03JCPM'
 format:
   html:
     theme: [flatly, css/theme-light.scss]
