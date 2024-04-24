@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,6 +35,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -44,13 +47,14 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
 }</script>
 <!-- header.html -->
-</head><body class="nav-fixed"><a href="#maincontent" class="skip-link">Skip to Content</a>
+</head><body class="nav-fixed fullcontent"><a href="#maincontent" class="skip-link">Skip to Content</a>
 
 <style>
 .skip-link {
@@ -95,9 +99,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Xetthecum Digital Ecocultural Mapping</span>
     </a>
@@ -108,44 +112,48 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html" rel="" target="">
- <span class="menu-text">The Story of Xetthecum</span></a>
+    <a class="nav-link" href="https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html"> 
+<span class="menu-text">The Story of Xetthecum</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-explore" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-explore" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Explore</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-explore">    
         <li>
-    <a class="dropdown-item" href="./taxa.html" rel="" target="">
+    <a class="dropdown-item" href="./taxa.html">
  <span class="dropdown-text">Browse all Species</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./web-of-life.html" rel="" target="">
+    <a class="dropdown-item" href="./web-of-life.html">
  <span class="dropdown-text">Web of Life</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./cultural-values.html" rel="" target="">
+    <a class="dropdown-item" href="./cultural-values.html">
  <span class="dropdown-text">Cultural Values</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./ecological-values.html" rel="" target="">
+    <a class="dropdown-item" href="./ecological-values.html">
  <span class="dropdown-text">Ecological Communities</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./data.html">
+ <span class="dropdown-text">Downloads</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html" rel="" target="">
- <span class="menu-text">Resources</span></a>
+    <a class="nav-link" href="./resources.html"> 
+<span class="menu-text">Resources</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -153,18 +161,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Ecological Communities</h2>
-   
-  <ul>
-  <li><a href="#thuthiqut---forest" id="toc-thuthiqut---forest" class="nav-link active" data-scroll-target="#thuthiqut---forest">Thuthiqut - Forest</a></li>
-  <li><a href="#tlelhumqa---freshwater" id="toc-tlelhumqa---freshwater" class="nav-link" data-scroll-target="#tlelhumqa---freshwater">Tl’elhumqa’ - Freshwater</a></li>
-  <li><a href="#hwuiumqa---marine" id="toc-hwuiumqa---marine" class="nav-link" data-scroll-target="#hwuiumqa---marine">Hwuiumqa’ - Marine</a></li>
-  <li><a href="#shthuliim---woodlands-and-rock-outcrops" id="toc-shthuliim---woodlands-and-rock-outcrops" class="nav-link" data-scroll-target="#shthuliim---woodlands-and-rock-outcrops">Shthuliim - Woodlands and Rock Outcrops</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
@@ -183,138 +180,155 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <section id="thuthiqut---forest" class="level2">
 <h2 class="anchored" data-anchor-id="thuthiqut---forest">Thuthiqut - Forest</h2>
-<p><strong>Including Mature, Young, and Pole Sapling</strong></p>
-<div class="columns">
-<div class="column" style="width:50%;">
+<section id="including-mature-young-and-pole-sapling" class="level3">
+<h3 class="anchored" data-anchor-id="including-mature-young-and-pole-sapling">Including Mature, Young, and Pole Sapling</h3>
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Shaped by interactions between water, soil, terrain, climate and the multitudes of beings that live within them, forests are a sanctuary for hundreds of thousands of species of plants, fungi, mammals, birds, insects and microorganisms. Forests provide shelter, clean water, and food, the foundations for a complex web of life in which we are intricately connected. Humans have been stewarding forests on Galiano since time out of mind, in order to ensure key species that we depend on can flourish and help us thrive. Dry ridges or steep southwest facing slopes with nutrient poor, shallow soils tend to be dominated by a mix of gnarled ts’sey (Douglas-fir) and qaanlhp (arbutus), and shrubby species such as lulutth’sulhp (dull oregon grape) or xwiinlhp (baldhip rose), all of which provide medicine. These drier ecological communities are mapped as woodlands in this map.</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 790.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">mature forest</figcaption>
+<p><a href="files/Rectangle 790.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="mature forest"><img src="files/Rectangle 790.png" class="img-fluid figure-img" alt="mature forest"></a></p>
+<figcaption>mature forest</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="columns">
-<div class="column" style="width:50%;">
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Moister forests are characterized by towering ts’sey (Douglas-fir) and robust xpey’ (western red cedar), which is known as the ‘tree of life’, as it can provide essential material for everything from ocean-worthy canoes, to rot-resistant buildings, beautiful carvings, and woven rain hats. The most valuable xpey’ for these purposes are old growth trees, which are allowed to grow slowly for hundreds of years in order to provide fine and clear-grained bark for weaving and wood for carving. Traditional Indigenous harvesting methods of only taking a strip of bark or plank of wood from one side can allow such trees to survive, heal and continue growing. The understory in this type of forest is dominated by plants that can grow in symbiosis with the fungicide xpey’ releases into the soil to discourage competition from other plants. This type of forest is often thick with t’eqe’ (salal) and suniiulhp (tall oregon grape), both of which provide nutritious berries, as well as sthxélem (sword fern), which is a spiritually significant plant that also provides fiddleheads as a special winter treat.</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 791.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">young forest</figcaption>
+<p><a href="files/Rectangle 791.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="young forest"><img src="files/Rectangle 791.png" class="img-fluid figure-img" alt="young forest"></a></p>
+<figcaption>young forest</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="columns">
-<div class="column" style="width:50%;">
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>These older forests are models of complexity, exhibiting a vast diversity of composition (the parts), structure (the arrangement of the parts), and function (how the parts interact with one another). Big ts’alhulhp (bigleaf maple) that are covered in moss offer habitat for other culturally significant species, such as tl’usiip (licorice fern), which Florence James shared can be used as a sweetener: if one gently lifts the moss with your pinky to reveal the root, the licorice fern root can be rinsed, chopped up, mixed with berries and placed on a board in the sun to dry. If it is flipped the next day to dry the other side, this can be kept to have on hand.</p>
 <p>In mature and old growth forests, trees are present in all stages of their life cycles including standing dead snags and fallen debris, large or small—providing critical habitat for culturally significant species such as yuxwule’ (bald eagle) and ha’put (black tailed deer). Forests are valued for hunting ha’put (deer) from September to October, although Florence James cautions that we should not hunt females or hunt after the rut, but wait until after the ironwood (qethulhp) blooms turned brown. The first deer hunted was always shared as a ritual; each species had rules and rituals. It is tradition to bring an elder a piece of meat from hunting, just as one shared the first fish caught during seafood harvests.</p>
 <p>Sources:</p>
 <ol type="1">
 <li>Florence James (interviews August 28 2021, March 7 2022, March 14, 2022)Jeannine Georgeson (interview February 19, 2022)Fred Wilson (interview Feb 26, 2022)Lorne Silvey (interview March 3, 2022) Up-Close Report (Emmings and Erickson, 2004)</li>
 </ol>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 792.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">pole sapling</figcaption>
+<p><a href="files/Rectangle 792.png" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="pole sapling"><img src="files/Rectangle 792.png" class="img-fluid figure-img" alt="pole sapling"></a></p>
+<figcaption>pole sapling</figcaption>
 </figure>
 </div>
 </div>
 </div>
 </section>
+</section>
 <section id="tlelhumqa---freshwater" class="level2">
 <h2 class="anchored" data-anchor-id="tlelhumqa---freshwater">Tl’elhumqa’ - Freshwater</h2>
-<p><strong>Including Riparian and Wetland</strong></p>
-<div class="columns">
-<div class="column" style="width:50%;">
+<section id="including-riparian-and-wetland" class="level3">
+<h3 class="anchored" data-anchor-id="including-riparian-and-wetland">Including Riparian and Wetland</h3>
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Healthy wetlands, lakes and streams are havens for humans and wildlife alike, providing critical habitat and a source of freshwater. A diversity of plant life, bacteria and insects thrive in these ecosystems, forming complex food webs that support many culturally important species, such as stseelhtun (salmon). Thuqi’ (sockeye salmon) and haan (pink salmon) are two types of salmon favoured by Indigenous community members on Galiano. In addition, the enhanced growth and forest structure found in riparian areas provides necessary cover for wildlife, which is also important for culturally significant activities such as hunting and birdwatching. Ha’put (black tailed deer) and smuqw’a’ (great blue heron) depend on freshwater areas for food and water.</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 797.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">riparian</figcaption>
+<p><a href="files/Rectangle 797.png" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="quarto-lightbox-gallery-4" title="riparian"><img src="files/Rectangle 797.png" class="img-fluid figure-img" alt="riparian"></a></p>
+<figcaption>riparian</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="columns">
-<div class="column" style="width:50%;">
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Wetlands on Galiano include lakes, shallow water, swamps, marshes, wet meadows, fens, and bog communities, many of which are represented in the watershed that flows into Xetthecum. Swamps and riparian areas include flood-tolerant trees such as xpey’ (western red cedar) which “like to have their feet wet”, kwulala’ulhp (red alder), whose inner bark offers a source of emergency food in the spring, and swele’ulhp (willow), which is useful for making fish traps. Other helpful plants that grow here include stth’e’qun (cattail) which provides a useful source of materials for both binding and insulation, sxum’xum’ (horsetail), which makes a yellow brown dye and ts’a’kw’a’ (skunk cabbage) which can be used to wrap food to keep it fresh. These areas are prized for berry-picking and gathering other edible and medicinal plants such as lila’ (salmonberry), t’uqwum’ (thimbleberry), t’eqe’ (salal), suniiulhp (oregon grape), sqw’uqwtsus (red huckleberry) and me’uwhulhp (Labrador tea).</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 798.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">wetland</figcaption>
+<p><a href="files/Rectangle 798.png" class="lightbox" data-glightbox="description: .lightbox-desc-5" data-gallery="quarto-lightbox-gallery-5" title="wetland"><img src="files/Rectangle 798.png" class="img-fluid figure-img" alt="wetland"></a></p>
+<figcaption>wetland</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="columns">
-<div class="column" style="width:50%;">
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Colonial settlers began to alter Galiano’s landscape in the late 1800’s in ways that were very different from the strategies used by pre-contact First Nations communities. Instead of respecting the integrity of streams, wetlands and riparian areas and honouring the role that sqwul’ew’ (beaver) play in revitalizing freshwater ecosystems, these areas have been focal points for resource extraction, agriculture, logging, construction, transportation and waste disposal.</p>
 <p>Hwtalonēts (Greig Creek) does not currently support large populations of salmon. In fact, there are no sea-run salmon or trout populations currently spawning in the island’s streams. There are, however, resident cutthroat trout and stickleback populations that have persisted in a number of our creeks. These fish are no longer able to make it to the ocean because of barriers such as waterfalls, ditched agricultural fields and dams. Efforts to re-establish Coho and Chum populations in Greig Creek have been taking place, mainly through stream bank restoration and stocking, in part through the local school caring for and releasing salmon fry on an annual basis. This is a significant experience for Indigenous and non-Indigenous children alike on Galiano. Habitat for a resident cutthroat trout population in Murchison creek has been improved through the creation of off-channel ponds and the placement of large woody debris within the channel.</p>
 <p>Sources:</p>
 <p>Florence James (interviews August 28 2021, March 7 2022, March 14, 2022)Jeannine Georgeson (interview February 19, 2022)Fred Wilson (interview Feb 26, 2022)Lorne Silvey (interview March 3, 2022)Rosemary Georgeson (interview March 6 2022)Luschiim’s Plants (2021)www.firstvoices.comUp-Close Report (Emmings and Erickson, 2004)</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 799.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">creek</figcaption>
+<p><a href="files/Rectangle 799.png" class="lightbox" data-glightbox="description: .lightbox-desc-6" data-gallery="quarto-lightbox-gallery-6" title="creek"><img src="files/Rectangle 799.png" class="img-fluid figure-img" alt="creek"></a></p>
+<figcaption>creek</figcaption>
 </figure>
 </div>
 </div>
 </div>
 </section>
+</section>
 <section id="hwuiumqa---marine" class="level2">
 <h2 class="anchored" data-anchor-id="hwuiumqa---marine">Hwuiumqa’ - Marine</h2>
-<p><strong>Including Shoreline and Subtidal</strong></p>
-<div class="columns">
-<div class="column" style="width:50%;">
+<section id="including-shoreline-and-subtidal" class="level3">
+<h3 class="anchored" data-anchor-id="including-shoreline-and-subtidal">Including Shoreline and Subtidal</h3>
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Surrounded by water, the residents, visitors and non-resident property owners of Galiano Island see the ocean as intrinsic to living and loving life on this island. Sightings of q’ul-lhanamutsum (orca whales) and other marine mammals are treasured, and ocean-going transportation is key, but for many community members, the ocean is first and foremost a source of food and livelihood. Both Indigenous and non-Indigenous people on Galiano enjoy fish such as thuqi’ (sockeye salmon), haan (pink salmon), tuqwtuqw (red snapper) and t’q’as (rockfish in general). Also prized are tl’uxwtl’uxw (oysters), s-axwa’ (clams), kwuneem’mun’, (scallops), ey’x (dungeness crabs), thikwt (sea cucumber) and seaweeds &amp; algaes such as lhuq’us (red laver). Florence James shared that e s-hw (seal) has also been prized as a dark meat.</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 794.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">shoreline</figcaption>
+<p><a href="files/Rectangle 794.png" class="lightbox" data-glightbox="description: .lightbox-desc-7" data-gallery="quarto-lightbox-gallery-7" title="shoreline"><img src="files/Rectangle 794.png" class="img-fluid figure-img" alt="shoreline"></a></p>
+<figcaption>shoreline</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="columns">
-<div class="column" style="width:50%;">
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Xetthecum (Retreat Cove/Island) is one of the few marine locations on the shoreline of Galiano itself that has been an important place for fishing and harvesting shellfish. Its desirability as a habitat for rockfish in particular has since become so notable that it has been designated a marine protected area—in which fishing is banned—in order to conserve these long-lived species that are slow to reproduce. As the tide is not too fast, Xetthecum was once also a good area for other creatures, such as clams, pun’eq’ (geoduck) and dog fish. It is important that community members are able to harvest and consume these foods without getting sick, therefore environmental health of the ocean is vital.Culturally significant beaches and shorelines on Galiano Island, such as those near Xetthecum are used as places to congregate for picnics, social events, ceremonial sites, and as food gathering sites by local First Nations peoples. Bays, inlets, and coves like Xetthecum are also a place of safe harbour during storms, or places to moor one’s boat during winters.</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 795.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">subtidal</figcaption>
+<p><a href="files/Rectangle 795.png" class="lightbox" data-glightbox="description: .lightbox-desc-8" data-gallery="quarto-lightbox-gallery-8" title="subtidal"><img src="files/Rectangle 795.png" class="img-fluid figure-img" alt="subtidal"></a></p>
+<figcaption>subtidal</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<div class="columns">
-<div class="column" style="width:50%;">
+<div class="blurb-container">
+<div class="blurb-half-column">
 <p>Many (if not all) of the Indigenous families associated with Galiano have been fishing since time out of mind. The Seafood Fest has been an extremely significant annual cultural event for decades primarily because so many of the island’s inhabitants have been passing down the skills, knowledge and secret locations of where to find the best sources of seafood for generations. Unfortunately, due to overfishing, destruction of marine habitat, pollution and other industrial causes, the bounty of the sea has become so limited that few members of the next generation can make a living fishing, and most of the menu for the Seafood Fest now has to be purchased from elsewhere.</p>
 <p>In the past, no one would ever reveal the locations of where to harvest seafood, but now this is merely a list of where these creatures once were. Locations of significance include Porlier Pass for rockfish, Pinnacle Rock on the south side of Porlier Pass for lingcod, and Walker Hook off of Saltspring for rockfish. As for salmon, Cable Bay was once a good location for chum salmon, as was Enterprise Reef off of Mayne Island, and off Valdes Island, but other fishing areas that have been key for Indigenous Galiano community members in the past hundred years are much farther away, necessitating long periods of time that families are separated. The closest of these locations include the west coast of Vancouver Island such as Jordan River, Race Rocks, San Juan Harbour near Port Renfrew, and areas near River’s Inlet to the Skeena.</p>
 <p>Sources:</p>
 <p>Florence James (interviews August 28 2021, March 7 2022, March 14, 2022)Jeannine Georgeson (interview February 19, 2022)Fred Wilson (interview Feb 26, 2022)Lorne Silvey (interview March 3, 2022)Up-Close Report (Emmings and Erickson, 2004)</p>
-</div><div class="column" style="width:50%;">
+</div>
+<div class="blurb-half-column">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="files/Rectangle 796.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">eelgrass beds</figcaption>
+<p><a href="files/Rectangle 796.png" class="lightbox" data-glightbox="description: .lightbox-desc-9" data-gallery="quarto-lightbox-gallery-9" title="eelgrass beds"><img src="files/Rectangle 796.png" class="img-fluid figure-img" alt="eelgrass beds"></a></p>
+<figcaption>eelgrass beds</figcaption>
 </figure>
 </div>
 </div>
 </div>
+</section>
 </section>
 <section id="shthuliim---woodlands-and-rock-outcrops" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="shthuliim---woodlands-and-rock-outcrops">Shthuliim - Woodlands and Rock Outcrops</h2>
@@ -335,6 +349,17 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">mature forest</span>
+<span class="glightbox-desc lightbox-desc-2">young forest</span>
+<span class="glightbox-desc lightbox-desc-3">pole sapling</span>
+<span class="glightbox-desc lightbox-desc-4">riparian</span>
+<span class="glightbox-desc lightbox-desc-5">wetland</span>
+<span class="glightbox-desc lightbox-desc-6">creek</span>
+<span class="glightbox-desc lightbox-desc-7">shoreline</span>
+<span class="glightbox-desc lightbox-desc-8">subtidal</span>
+<span class="glightbox-desc lightbox-desc-9">eelgrass beds</span>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -417,10 +442,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -430,8 +454,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -444,6 +477,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -487,6 +639,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -512,6 +665,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -580,9 +759,37 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">Contact</div>
+    <div class="nav-footer-right">
+<p>Contact</p>
+</div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","loop":false,"selector":".lightbox","descPosition":"bottom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
+
 
 
 
