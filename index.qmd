@@ -64,21 +64,19 @@ The Xetthecum map is part of a larger initiative begun by [Whiteswan Environment
 
 
 
-<div class="blurb-container">
-<div class="blurb-half-column">
-
+:::{.column-body .blurb-container}
+:::{.blurb-half-column}
 ## Community contribution
 
 Many community members have contributed to the creation of this tool and continue to collaborate on the project. In addition, the mapping tool provides a resource that anyone can contribute to as citizen scientists, with their own data, observations and knowledge.
 
 [Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://www.inaturalist.org/projects/xetthecum?tab=observations&subtab=map)
 
-</div>
-<div class="blurb-half-column" style="padding:1.5em;">
+:::
+:::{.blurb-half-column}
 ![](files/shells.png) 
-</div>
-</div>
-
+:::
+:::
 
 
 
