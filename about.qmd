@@ -18,7 +18,7 @@ The digital ecocultural mapping tool provides information about species and ecol
 
 ## Project team
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/florence.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -28,7 +28,7 @@ Penelakut Elder and Knowledge Holder
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/johnny.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -38,7 +38,7 @@ Indigenous Creative Director
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/antranig.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -47,7 +47,7 @@ Indigenous Creative Director
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/levi.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -57,7 +57,7 @@ Indigenous Creative Director
 :::
 
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/jeanine.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -67,7 +67,7 @@ Indigenous Creative Director
 :::
 
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/andrew.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -77,7 +77,7 @@ Indigenous Creative Director
 :::
 
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/dana.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -86,7 +86,7 @@ Indigenous Creative Director
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/emily.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -95,7 +95,7 @@ Indigenous Creative Director
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/cait.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -104,7 +104,7 @@ Indigenous Creative Director
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -113,7 +113,7 @@ Indigenous Creative Director
 :::
 :::
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
@@ -123,7 +123,7 @@ Indigenous Creative Director
 :::
 
 
-:::{.column-body .blurb-container}
+:::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
 ![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
