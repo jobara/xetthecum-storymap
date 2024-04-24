@@ -1,5 +1,4 @@
 ---
-css: css/cards.css
 lightbox: true
 ---
 
@@ -32,7 +31,7 @@ Cultural Value: Food
 
 :::{style="text-align: left"}
 These species are an important food source.  
-Example: **the'wun** - coho salmon 
+Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon 
 :::
 
 ![the’wun – coho salmon](files/Rectangle 771.png){width=90%}
@@ -49,7 +48,7 @@ Cultural Value: Material
 
 :::{style="text-align: left"}
 These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.  
-Example: **xpey’** – western red cedar was used to build canoes; an 800 year old cedar could be used to make four canoes.
+Example: [xpey’](/taxa/thuja_plicata) – western red cedar was used to build canoes; an 800 year old cedar could be used to make four canoes.
 :::
 
 ![xpey’ – western red cedar](files/Rectangle 772.png){width=90%}
@@ -65,7 +64,7 @@ Cultural Value: Indicator
 
 :::{style="text-align: left"}
 The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.  
-Example: the ripening of **lila’** – salmonberries indicates the return of a bird
+Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries indicates the return of a bird
 :::
 
 ![lila’ – salmonberry](files/Rectangle 773.png){width=90%}
@@ -83,7 +82,7 @@ Cultural Value: Trade
 
 :::{style="text-align: left"}
 These species were traded for other items.  
-Example: **skw’lhey** – little neck clams (and other types of clams) were used to trade for other items.
+Example: [skw’lhey](/taxa/leukoma_staminea/) – little neck clams (and other types of clams) were used to trade for other items.
 :::
 
 ![skw’lhey – little neck clam](files/image 106.png){width=90%}
@@ -100,7 +99,7 @@ Cultural Value: Medicine
 ![](files/medicinal.svg){width=50%}
 
 These species or portions of them are used as medicine.  
-Example: **q’ey’xulhp** – cascara
+Example: q’ey’xulhp – cascara
 
 ![q’ey’xulhp – cascara](files/Rectangle 774.png){width=90%}
 
@@ -113,9 +112,9 @@ Cultural Value: Spiritual
 
 ![](files/food.svg){width=50%}
 
-:::{.card style="text-align: center"}
+:::{style="text-align: left"}
 These species are used in spiritual ceremony or hold spiritual meaning and significance.  
-Example: **yuxwule’** – bald eagle
+Example: [yuxwule’](/taxa/haliaeetus_leucocephalus) – bald eagle
 :::
 
 ![yuxwule’ – bald eagle](files/Rectangle 775.png){width=90%}
