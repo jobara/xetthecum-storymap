@@ -7,7 +7,7 @@ lightbox: true
 
 # Cultural Values
 
-The species found in the Xetthecum region on Galiano Island each have specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual.
+These species are found in the Xetthecum region on Galiano Island each have specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual.
 
 The Penelakut elders hold powerful and important sacred and spiritual knowledge regarding certain plants, animals and ceremonies of their people. This knowledge has not been included on this website; it will be passed down only to those with the rights and training to be able to receive it and use it safely and appropriately (adapted from Turner 2021 – with reference to Luciim’s Plants).
 
@@ -19,6 +19,7 @@ The cultural values of each species observed and documented in this mapping tool
 
 :::
 :::
+
 
 
 ::::{.column-page .blurb-container style="text-align: center"}
@@ -64,7 +65,7 @@ Cultural Value: Indicator
 
 :::{style="text-align: left"}
 The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.  
-Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries indicates the return of a bird
+Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries indicates the return of Swainson’s Thrush in spring.
 :::
 
 ![lila’ – salmonberry](files/Rectangle 773.png){width=90%}
@@ -113,7 +114,7 @@ Cultural Value: Spiritual
 ![](files/food.svg){width=50%}
 
 :::{style="text-align: left"}
-These species are used in spiritual ceremony or hold spiritual meaning and significance.  
+These species are a part of spiritual ceremony or hold spiritual meaning and significance.
 Example: [yuxwule’](/taxa/haliaeetus_leucocephalus) – bald eagle
 :::
 

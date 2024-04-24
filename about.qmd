@@ -44,6 +44,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Antranig Basman
+Bioinformatics Specialist
 :::
 :::
 
@@ -53,6 +54,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Levi Wilson 
+Indigenous Language Framework Developer
 :::
 :::
 
@@ -63,6 +65,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Jeanine Georgeson
+Project Lead
 :::
 :::
 
@@ -73,6 +76,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Andrew Simon
+Biodiversiy Specialist
 :::
 :::
 
@@ -83,6 +87,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Dana Ayotte
+Inclusive Designer
 :::
 :::
 
@@ -92,6 +97,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Emily Menzes
+Design and Language Framework Support
 :::
 :::
 
@@ -101,24 +107,7 @@ Indigenous Creative Director
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Cait Harrigan
-:::
-:::
-
-:::{.blurb-container}
-:::{.blurb-half-column style="width: 30%"}
-![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
-:::
-:::{.blurb-half-column style="width=70%"}
-### Jim 
-:::
-:::
-
-:::{.blurb-container}
-:::{.blurb-half-column style="width: 30%"}
-![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
-:::
-:::{.blurb-half-column style="width=70%"}
-### Shirley
+Website Development
 :::
 :::
 
@@ -128,15 +117,31 @@ Indigenous Creative Director
 ![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
-### Deblekha 
+### Deblekha Guin
+Project Guidance
 :::
 :::
 
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Jim Hodgson
+Map Development
+:::
+:::
 
-## Community Partners
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Kusemaat (Shirley Williams)
+Co-founder, Whiteswan Environmental
+:::
+:::
 
-
-<br>
 
 ::: {.column-page}
 <center>
