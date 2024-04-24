@@ -90,9 +90,16 @@ p{
   padding: 0;
 }
 
-.grid-cultural {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+.card {
+  background: #F8E8D0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  margin: 0.5em;
+  min-height: 600px;
 }
 
 @media (max-width: 600px) {
