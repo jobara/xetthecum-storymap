@@ -5,7 +5,7 @@ project:
 website:
   title: "Xetthecum Digital Ecocultural Mapping"
   search: false
-  google-analytics: 'G-MM4PBW09LS'
+  #google-analytics: 'G-MM4PBW09LS'
   page-footer: 
     right: "Contact" 
     background: "secondary"
