@@ -22,13 +22,6 @@ h3 {
   padding-top: 0.8em;
 }
 
-.nav-link{
-    
-  border-bottom: #FFD4BD;
-  border-bottom-width: medium;
-  border-bottom-style: solid;
-}
-
 :focus { 
   outline-color: $link-color !important;
   outline-style: solid;
@@ -119,11 +112,13 @@ a:hover {
   color: $secondary;
 }
 
-.nav-tabs .nav-link.active{
-  color: $secondary;
-  background: #F8E8D0;
-  font-weight: bold;
+.nav-link:current{
+  color: red;
+  border-bottom: $secondary;
+  border-bottom-width: medium;
+  border-bottom-style: solid;
 }
+
 
 .nav-tabs .nav-link{
   background: #F8E8D0;

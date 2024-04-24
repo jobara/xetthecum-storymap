@@ -3,18 +3,18 @@ engine: knitr
 ---
 
 ::: {.column-screen}
+::: {.hero-banner}
 
-![](files/banner_landing_2_small.png){.image-banner}
+![](files/banner_landing_2_small.png)
 
-::: {.centered-banner}
+::: {.hero-text}
+
 # Tth\'ihwum m\'i \'ewu i\' Xetthecum sii'em </br> Please come here to Xetthecum
 `r embedr::embed_audio("files/Jeannine Welcome.mp3", id='audio-yellow')`
-:::
 
 :::
-
-
-
+:::
+:::
 
 
 ::: {.column-screen .brown-div}

@@ -24,7 +24,7 @@ h2, .h2 {
 
 .blurb-half-column{
    width: 50%;
-}
+}f
 
 @media(max-width: 600px){
   .blurb-half-column{
@@ -38,7 +38,17 @@ h2, .h2 {
   min-width: 1000px;
 }
 
-.centered-banner {  
+.hero-banner {
+  position: relative;
+  text-align: center;
+}
+
+.hero-banner img {
+  width: 100%; /* Adjust as needed */
+  height: auto; /* Adjust as needed */
+}
+
+.hero-text {  
   position: absolute;
   top: 30%;
   left: 10%;
@@ -48,7 +58,7 @@ h2, .h2 {
   text-align: center;
 }
 
-.centered-banner h1{  
+.hero-text h1{  
   color: #5A5244; 
   font-size: 1.5rem;
 }
