@@ -3,15 +3,9 @@ css: css/cards.css
 lightbox: true
 ---
 
-:::: {.column-screen}
-<div class="image-container">
-  <img src="files/barnacle.png">
-</div>
-::::
+:::{.blurb-container}
+:::{.blurb-half-column}
 
-::: {.columns}
-
-::: {.column width="50%"}
 # Cultural Values
 
 The species found in the Xetthecum region on Galiano Island each have specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual.
@@ -19,104 +13,123 @@ The species found in the Xetthecum region on Galiano Island each have specific a
 The Penelakut elders hold powerful and important sacred and spiritual knowledge regarding certain plants, animals and ceremonies of their people. This knowledge has not been included on this website; it will be passed down only to those with the rights and training to be able to receive it and use it safely and appropriately (adapted from Turner 2021 – with reference to Luciim’s Plants).
 
 The cultural values of each species observed and documented in this mapping tool are indicated using the icons described below. Listing the cultural values in this way allows those using the site to learn about the cultural significance of each species, while respecting the sensitive nature of such information by providing minimal information.
+
+:::
+:::{.blurb-half-column}
+![xpey’ – western red cedar](files/image 107.png)
+
+:::
 :::
 
-::: {.column width="50%"}
 
-![xpey’ – western red cedar](files/image 107.png){.lightbox}
+::::{.column-page .blurb-container style="text-align: center"}
+:::{.blurb-half-column style="width: 33%"}
+:::{.card style="text-align: center"}
+
+Cultural Value: Food
+
+![](files/food.svg){width=50%}
+
+:::{style="text-align: left"}
+These species are an important food source.  
+Example: **the'wun** - coho salmon 
+:::
+
+![the’wun – coho salmon](files/Rectangle 771.png){width=90%}
+
 :::
 :::
 
-<div class="grid-container">
+:::{.blurb-half-column style="width: 33%"}
+:::{.card style="text-align: center"}
 
-<div class="card">
-<div class="card-title">Cultural Value: Food</div>
-<div class="icon-container">
-![](files/food.svg){width=40%}
-</div>
-<div class="description">
-These species are an important food source.
-<br><br>
-Example: **the'wun - coho salmon**
-</div>
-![the’wun – coho salmon](files/Rectangle 771.png){width=40%}
-</div>
+Cultural Value: Material
 
+![](files/material.svg){width=50%}
 
-<div class="card">
-<div class="card-title">Cultural Value: Material</div>
-<div class="icon-container">
-![](files/material.svg){width=40%}
-</div>
-<div class="description">
-These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.
-<br><br>
+:::{style="text-align: left"}
+These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.  
 Example: **xpey’** – western red cedar was used to build canoes; an 800 year old cedar could be used to make four canoes.
+:::
 
-</div>
-![xpey’ – western red cedar](files/Rectangle 772.png){width=40%}
-</div>
+![xpey’ – western red cedar](files/Rectangle 772.png){width=90%}
 
-<div class="card">
-<div class="card-title">Cultural Value: Indicator</div>
-<div class="icon-container">
-![](files/indicator.svg){width=40%}
-</div>
-<div class="description">
-The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.
-<br><br>
+:::
+:::
+:::{.blurb-half-column style="width: 33%"}
+:::{.card style="text-align: center"}
+
+Cultural Value: Indicator
+
+![](files/indicator.svg){width=50%}
+
+:::{style="text-align: left"}
+The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.  
 Example: the ripening of **lila’** – salmonberries indicates the return of a bird
-</div>
-![lila’ – salmonberry](files/Rectangle 773.png){width=40%}
-</div>
+:::
 
-<div class="card">
-<div class="card-title">Cultural Value: Trade</div>
-<div class="icon-container">
-![](files/trade.svg){width=40%}
-</div>
-<div class="description">
-These species were traded for other items.
- <br><br>
+![lila’ – salmonberry](files/Rectangle 773.png){width=90%}
+
+:::
+:::
+
+
+:::{.blurb-half-column style="width: 33%"}
+:::{.card style="text-align: center"}
+
+Cultural Value: Trade
+
+![](files/trade.svg){width=50%}
+
+:::{style="text-align: left"}
+These species were traded for other items.  
 Example: **skw’lhey** – little neck clams (and other types of clams) were used to trade for other items.
-</div>
-![skw’lhey – little neck clam](files/image 106.png){width=40%}
-</div>
+:::
 
-<div class="card">
-<div class="card-title">Cultural Value: Medicine</div>
-<div class="icon-container">
-![](files/medicinal.svg){width=40%}
-</div>
-<div class="description">
-These species or portions of them are used as medicine.
-<br><br>
+![skw’lhey – little neck clam](files/image 106.png){width=90%}
+
+
+:::
+:::
+
+:::{.blurb-half-column style="width: 33%"}
+:::{.card style="text-align: center"}
+
+Cultural Value: Medicine
+
+![](files/medicinal.svg){width=50%}
+
+These species or portions of them are used as medicine.  
 Example: **q’ey’xulhp** – cascara
-</div>
-![q’ey’xulhp – cascara](files/Rectangle 774.png){width=40%}
-</div>
 
-<div class="card">
-<div class="card-title">Cultural Value: Spiritual</div>
-<div class="icon-container">
-![](files/food.svg){width=40%}
-</div>
-<div class="description">
-These species are used in spiritual ceremony or hold spiritual meaning and significance.
-<br><br>
+![q’ey’xulhp – cascara](files/Rectangle 774.png){width=90%}
+
+:::
+:::
+:::{.blurb-half-column style="width: 33%"}
+:::{.card style="text-align: center"}
+
+Cultural Value: Spiritual
+
+![](files/food.svg){width=50%}
+
+:::{.card style="text-align: center"}
+These species are used in spiritual ceremony or hold spiritual meaning and significance.  
 Example: **yuxwule’** – bald eagle
-</div>
-![yuxwule’ – bald eagle](files/Rectangle 775.png){width=40%}
-</div>
+:::
 
-</div>
+![yuxwule’ – bald eagle](files/Rectangle 775.png){width=90%}
+
+
+:::
+:::
+
+::::
 
 
 
 <br>
 
-:::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
-::::
+:::{.column-page}
+![](files/icon_array.png){text-align=center}
+:::
