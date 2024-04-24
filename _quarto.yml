@@ -26,6 +26,8 @@ website:
             href: cultural-values.qmd
           - text: Ecological Communities
             href: ecological-values.qmd
+          - text: Downloads
+            href: data.qmd
       - href: resources.qmd
         text: Resources
 format:
