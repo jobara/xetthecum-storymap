@@ -24,6 +24,7 @@ engine: knitr
 
 It is with gratitude that we recognize the enduring connection of Indigenous Peoples to the land, waters, and all living beings within the transboundary bioregion of the Salish Sea, a richly biodiverse expanse that has been tended to and cherished by the Coast Salish people since time immemorial. We acknowledge and appreciate the wisdom and stewardship that has shaped this region over countless generations, and are grateful for the opportunity to be a part of the intricate tapestry of cultural and ecological diversity. We acknowledge the history and ongoing presence of Indigenous Peoples in this area and strive to foster relationships that honor and respect the rights, traditions, and contributions of the Coast Salish and Hul’q’umi’num’-speaking peoples.
 
+
 :::
 :::
 

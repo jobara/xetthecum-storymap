@@ -16,7 +16,6 @@ The Xetthecum/Retreat Cove location was chosen for the pilot project because the
 The digital ecocultural mapping tool provides information about species and ecological communities, while at the same time protecting sacred Indigenous knowledge through controlled access to certain information as desired by the community. In addition to photographic documentation, it features artwork from local Indigenous artists and youth and serves as a tool to support the gathering of place-based stories from elders and others in the community. The tool also promotes ecocultural mapping as a professional conservation practice among the next generation of land stewards. The mapping tool fosters open access to science, scholarship, technology and art. It promotes intergenerational, cross-cultural, multidisciplinary, and transboundary skill-sharing and knowledge exchange. 
 
 
-
 ## Project team
 
 :::{.blurb-container}
