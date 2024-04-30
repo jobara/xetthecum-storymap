@@ -3,7 +3,8 @@ engine: knitr
 ---
 
 ::: {.column-screen}
-![](files/banner_about.png)
+::: {.hero-banner style="background-image: url('files/banner_about.png');"}
+:::
 :::
 
 # About the project 
