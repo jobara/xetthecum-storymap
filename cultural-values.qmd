@@ -24,7 +24,7 @@ The cultural values of each species observed and documented in this mapping tool
 
 ::::{.column-page .blurb-container style="text-align: center"}
 :::{.blurb-half-column style="width: 33%"}
-:::{.card style="text-align: center"}
+:::{.values-card style="text-align: center"}
 
 Cultural Value: Food
 
@@ -41,7 +41,7 @@ Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon
 :::
 
 :::{.blurb-half-column style="width: 33%"}
-:::{.card style="text-align: center"}
+:::{.values-card style="text-align: center"}
 
 Cultural Value: Material
 
@@ -57,7 +57,7 @@ Example: [xpey’](/taxa/thuja_plicata) – western red cedar was used to build 
 :::
 :::
 :::{.blurb-half-column style="width: 33%"}
-:::{.card style="text-align: center"}
+:::{.values-card style="text-align: center"}
 
 Cultural Value: Indicator
 
@@ -75,7 +75,7 @@ Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries in
 
 
 :::{.blurb-half-column style="width: 33%"}
-:::{.card style="text-align: center"}
+:::{.values-card style="text-align: center"}
 
 Cultural Value: Trade
 
@@ -93,7 +93,7 @@ Example: [skw’lhey](/taxa/leukoma_staminea/) – little neck clams (and other 
 :::
 
 :::{.blurb-half-column style="width: 33%"}
-:::{.card style="text-align: center"}
+:::{.values-card style="text-align: center"}
 
 Cultural Value: Medicine
 
@@ -107,7 +107,7 @@ Example: q’ey’xulhp – cascara
 :::
 :::
 :::{.blurb-half-column style="width: 33%"}
-:::{.card style="text-align: center"}
+:::{.values-card style="text-align: center"}
 
 Cultural Value: Spiritual
 
