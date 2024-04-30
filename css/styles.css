@@ -102,7 +102,7 @@ p{
   display: flex;
   flex-direction: column; /* Stack items vertically */
   margin: 0.5em;
-  min-height: 600px;
+  min-height: 800px;
 }
 
 @media(max-width: 600px){
