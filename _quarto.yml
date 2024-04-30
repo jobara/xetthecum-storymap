@@ -5,11 +5,7 @@ project:
 website:
   title: "Xetthecum Digital Ecocultural Mapping"
   search: false
-  #google-analytics: 'G-MM4PBW09LS'
-  page-footer: 
-    right: "Contact" 
-    background: "secondary"
-    foreground: "primary"
+  google-analytics: 'G-MM4PBW09LS'
   navbar:
     right:
       - href: https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html
@@ -26,8 +22,8 @@ website:
             href: cultural-values.qmd
           - text: Ecological Communities
             href: ecological-values.qmd
-          - text: Downloads
-            href: data.qmd
+          #- text: Downloads
+          #  href: data.qmd
       - href: resources.qmd
         text: Resources
 format:
