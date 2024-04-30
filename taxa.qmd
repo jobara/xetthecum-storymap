@@ -3,8 +3,8 @@ listing:
   id: main-listing
   contents: taxa
   type: grid
-  categories: true
-  #filter-ui: [title, categories]
+  categories: false
+  #filter-ui: [categories]
   fields: [title, image, categories]
   image-height: 200px
 ---
