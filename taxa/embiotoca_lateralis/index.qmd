@@ -42,3 +42,5 @@ Source: iNat
 Obervation count: 9
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

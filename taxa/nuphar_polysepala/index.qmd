@@ -31,6 +31,8 @@ First reported: 2015-08-20
 Source: iNat  
 Last reported: 2023-05-26  
 Source: iNat  
-Obervation count: 6
+Obervation count: 7
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

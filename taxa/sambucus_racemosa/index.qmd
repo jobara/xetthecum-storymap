@@ -27,7 +27,7 @@ freeze: auto
 ![spiritual](/files/spiritual.svg){width=50px}
 :::
 
-**Ecological Community**: Forests, Woodlands and rock outcrops, Freshwater
+**Ecological Community**: Forests, Marine, Woodlands and rock outcrops, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Sambucus racemosa</b></i> is a species of elderberry known by the common names <b>red elderberry</b> and <b>red-berried elder</b>.</p>
@@ -40,6 +40,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2021-08-08  
 Source: iNat  
-Obervation count: 3
+Obervation count: 4
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

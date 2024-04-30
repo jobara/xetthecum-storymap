@@ -42,6 +42,8 @@ First reported: 2012-08-27
 Source: dataPaper  
 Last reported: 2016-03-05  
 Source: dataPaper  
-Obervation count: 3
+Obervation count: 4
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

@@ -27,7 +27,7 @@ freeze: auto
 ![spiritual](/files/spiritual.svg){width=50px}
 :::
 
-**Ecological Community**: Woodlands and rock outcrops, Forests, Marine, Freshwater, Anthropogenic
+**Ecological Community**: Forests, Woodlands and rock outcrops, Marine, Freshwater, Anthropogenic
 
 **Wikipedia summary**:  
 <i><b>Berberis nervosa</b></i>, commonly known as <b>dwarf Oregon-grape</b>, <b>Cascade barberry</b>, <b>Cascade Oregon-grape</b>, or <b>dull Oregon-grape</b>, is a flowering plant native to the northwest coast of North America from southern British Columbia south to central California, with an isolated population inland in northern Idaho. It is especially common in second growth, Douglas-fir or western redcedar forests</p>...
@@ -37,6 +37,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-27  
 Source: iNat  
-Obervation count: 21
+Obervation count: 23
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

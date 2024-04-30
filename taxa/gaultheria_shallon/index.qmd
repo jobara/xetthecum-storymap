@@ -40,6 +40,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-07-01  
 Source: iNat  
-Obervation count: 21
+Obervation count: 23
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

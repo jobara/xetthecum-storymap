@@ -30,7 +30,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Freshwater, Anthropogenic
+**Ecological Community**: Anthropogenic, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Chamaenerion angustifolium</b></i> is a perennial herbaceous flowering plant in the willowherb family Onagraceae. It is known in North America as <b>fireweed</b>, in some parts of Canada as <b>great willowherb</b>, in Britain and Ireland as <b>rosebay willowherb</b>. In the United Kingdom it is also known as <b>bombweed</b>,a result of its rapid appearance on city bomb sites during the Blitz of World War&#160;II;</p>...
@@ -40,6 +40,8 @@ First reported: 2016-07-05
 Source: iNat  
 Last reported: 2018-07-12  
 Source: iNat  
-Obervation count: 2
+Obervation count: 3
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

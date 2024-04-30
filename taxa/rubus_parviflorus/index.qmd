@@ -24,7 +24,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Anthropogenic, Marine, Forests, Woodlands and rock outcrops
+**Ecological Community**: Anthropogenic, Forests, Freshwater, Marine, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
 <i><b>Rubus parviflorus</b></i>, commonly called <b>thimbleberry</b>, (also known as <b>redcaps</b>) is a species of <i>Rubus</i> native to northern temperate regions of North America. The plant has large hairy leaves and no thorns. It bears edible red fruit similar in appearance to a raspberry, but shorter, almost hemispherical. It has not been commercially developed for the retail berry market, but is cultivated</p>...
@@ -34,6 +34,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-27  
 Source: iNat  
-Obervation count: 7
+Obervation count: 10
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

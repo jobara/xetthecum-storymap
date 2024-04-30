@@ -30,7 +30,7 @@ freeze: auto
 ![trade](/files/trade.svg){width=50px}
 :::
 
-**Ecological Community**: Freshwater, Forests
+**Ecological Community**: Freshwater, Anthropogenic, Forests
 
 **Wikipedia summary**:  
 <i><b>Fragaria vesca</b></i>, commonly called the <b>wild strawberry</b>, <b>woodland strawberry</b>, <b>Alpine strawberry</b>, <b>Carpathian strawberry</b> or <b>European strawberry</b>, is a perennial herbaceous plant in the  rose family that grows naturally throughout much of the Northern Hemisphere, and that produces edible fruits.</p><p>The Latin specific epithet <i>vesca</i> may mean "thin, feeble", however it</p>...
@@ -40,6 +40,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-27  
 Source: iNat  
-Obervation count: 4
+Obervation count: 6
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

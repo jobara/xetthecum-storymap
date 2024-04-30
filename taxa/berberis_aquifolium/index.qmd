@@ -27,7 +27,7 @@ freeze: auto
 ![spiritual](/files/spiritual.svg){width=50px}
 :::
 
-**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
+**Ecological Community**: Forests, Woodlands and rock outcrops, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Berberis aquifolium</b></i>, the <b>Oregon grape</b> or <b>holly-leaved barberry</b>, is a species of flowering plant in the family Berberidaceae, native to western North America. It is an evergreen shrub growing 1–3 meters (3–10 feet) tall and 1.5&#160;m (5&#160;ft) wide, with pinnate leaves consisting of spiny leaflets, and dense clusters of yellow flowers in early spring, followed by dark bluish-black berries.</p><p class="mw-empty-elt"></p>...
@@ -37,6 +37,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-27  
 Source: iNat  
-Obervation count: 6
+Obervation count: 9
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

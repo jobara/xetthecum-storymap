@@ -30,7 +30,7 @@ freeze: auto
 ![trade](/files/trade.svg){width=50px}
 :::
 
-**Ecological Community**: Forests, Woodlands and rock outcrops, Freshwater
+**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Polypodium glycyrrhiza</b></i>, commonly known as <b>licorice fern</b>, <b>many-footed fern</b>, and <b>sweet root</b>, is a summer deciduous fern native to western North America, where it is found in shaded, damp locations.
@@ -44,6 +44,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-28  
 Source: iNat  
-Obervation count: 6
+Obervation count: 7
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

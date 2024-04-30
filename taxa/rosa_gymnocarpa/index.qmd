@@ -33,7 +33,7 @@ freeze: auto
 ![trade](/files/trade.svg){width=50px}
 :::
 
-**Ecological Community**: Forests, Anthropogenic, Woodlands and rock outcrops, Freshwater
+**Ecological Community**: Woodlands and rock outcrops, Forests, Anthropogenic, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Rosa gymnocarpa</b></i> is a species of rose native to western North America. It is known by the common names <b>dwarf rose</b>, <b>baldhip rose</b>, and <b>wood rose</b>. It grows in shady, damp, and rich forests.
@@ -43,6 +43,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-28  
 Source: iNat  
-Obervation count: 7
+Obervation count: 10
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

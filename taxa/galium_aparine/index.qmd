@@ -21,7 +21,7 @@ freeze: auto
 
 :::
 
-**Ecological Community**: Freshwater, Anthropogenic, Forests
+**Ecological Community**: Freshwater, Anthropogenic, Woodlands and rock outcrops, Forests
 
 **Wikipedia summary**:  
 <i><b>Galium aparine</b></i>, with common names including <b>cleavers</b>, <b>clivers</b>, <b>catchweed</b>, <b>robin-run-the-hedge</b>, and <b>sticky willy</b>, is an annual, herbaceous plant of the family Rubiaceae.
@@ -31,6 +31,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2022-02-19  
 Source: iNat  
-Obervation count: 9
+Obervation count: 13
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

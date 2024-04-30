@@ -24,7 +24,7 @@ freeze: auto
 ![spiritual](/files/spiritual.svg){width=50px}
 :::
 
-**Ecological Community**: Anthropogenic, Forests
+**Ecological Community**: Forests, Anthropogenic, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
 <i><b>Ariolimax columbianus</b></i> or the <b>Pacific banana slug</b> is a species of <i>Ariolimax</i> Banana slug found on the Pacific Coast of North America.
@@ -34,6 +34,8 @@ First reported: 2020-08-22
 Source: iNat  
 Last reported: 2023-05-27  
 Source: iNat  
-Obervation count: 2
+Obervation count: 5
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

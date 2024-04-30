@@ -33,7 +33,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Freshwater, Anthropogenic, Marine
+**Ecological Community**: Marine, Freshwater, Anthropogenic
 
 **Wikipedia summary**:  
 The <b>hooded merganser</b> (<i><b>Lophodytes cucullatus</b></i>) is a species of fish-eating duck in the subfamily Anatinae. It is the only extant species in the genus <i><b>Lophodytes</b></i>. The genus name derives from the Greek language: <i>lophos</i> meaning 'crest', and <i>dutes</i> meaning 'diver'. The bird is striking in appearance; both sexes have crests that they can raise or lower, and the breeding plumage</p>...
@@ -43,6 +43,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-26  
 Source: iNat  
-Obervation count: 4
+Obervation count: 5
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

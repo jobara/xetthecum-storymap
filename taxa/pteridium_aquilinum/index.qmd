@@ -27,7 +27,7 @@ freeze: auto
 ![material](/files/material.svg){width=50px}
 :::
 
-**Ecological Community**: Freshwater, Forests, Anthropogenic
+**Ecological Community**: Forests, Freshwater, Anthropogenic
 
 **Wikipedia summary**:  
 <i><b>Pteridium aquilinum</b></i>, commonly called <b>bracken</b>, <b>brake</b>, <b>common bracken</b>, and also known as <b>eagle fern</b>, is a species of fern occurring in temperate and subtropical regions in both hemispheres. Originally native to Eurasia and North America, the extreme lightness of its spores has led to it achieving a cosmopolitan distribution.
@@ -37,6 +37,8 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2023-05-28  
 Source: iNat  
-Obervation count: 10
+Obervation count: 12
 
 ![](community_dist.png)
+
+[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)
