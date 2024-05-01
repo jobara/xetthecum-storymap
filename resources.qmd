@@ -3,7 +3,7 @@ engine: knitr
 ---
 
 ::: {.column-screen}
-::: {.hero-banner style="background-image: url('files/banner_resrources.png');"}
+::: {.hero-banner style="background-image: url('files/banner_resources.png');"}
 :::
 :::
 
