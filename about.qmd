@@ -9,11 +9,11 @@ engine: knitr
 
 # About the project 
 
-The Xetthecum map is part of a larger initiative begun by [Whiteswan Environmental](https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html) (WE), who are working collaboratively on several Indigenous-led projects that support community healing through the natural, cultural and historical restoration of the Salish Sea. The aim of this collaborative work is to restore traditional Indigenous practices and access to place, supporting thriving cultures and coastal ecosystems for future generations. WE initiated the Spirit of the Sxwo’le (SOS) Coalition and through this coalition are collaborating with IMERSS (the Institute for Multidisciplinary Ecological Research in the Salish Sea) and developing a Memorandum of Agreement and bylaws that will help to ensure that all partners in this work respect Indigenous leadership and abide by appropriate cultural sensitivity, cultural humility and cultural safety protocols. WE believe this endeavor will offer a measure of cultural, historical and ecological health protection and sustainability that can be modeled across the United States and Canada. To learn more about the project and collaboration with Whiteswan Environmental please watch the YouTube video [Ecocultural Mapping in the Salish Sea](https://www.youtube.com/watch?v=0v84S7DeORU). 
+The Xetthecum story map is based on an open source ecocultural mapping framework designed to serve the initiatives of the Indigenous-led organization [Whiteswan Environmental](https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html) (WE). The aim of this collaborative work is to restore traditional Indigenous practices and access to place, supporting thriving cultures and coastal ecosystems for future generations in the Salish Sea. WE initiated the Spirit of the Sxwo’le (SOS) Coalition, which guides its collaboration with the Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS) and other non-Indigenous organizations, ensuring that work proceeds with respect for Indigenous leadership and protocols of cultural sensitivity and cultural humility. To learn more about the project and collaboration with Whiteswan Environmental please watch the YouTube video [Ecocultural Mapping in the Salish Sea](https://www.youtube.com/watch?v=0v84S7DeORU).
 
-The Xetthecum/Retreat Cove location was chosen for the pilot project because there was a fair amount of existing information regarding the area’s biodiversity and cultural history. This allowed us to create something that would showcase and support the longer term vision for this work. These existing resources included historical and contemporary biodiversity data, terrestrial ecosystem mapping data, published ecocultural resources, documentation from past participatory mapping of the ecological communities of Galiano Island, and knowledge shared by Penelakut elder, Thiyuas (Florence James). 
+Xetthecum (Retreat Cove, Galiano Island) was chosen for our pilot project because there was already a fair amount of existing information regarding the area’s biodiversity and cultural history. These existing resources included historical and contemporary biodiversity data, terrestrial ecosystem mapping, video storytelling, and published ecocultural resources, as well as knowledge shared by Penelakut elder, Thiyuas (Florence James). We supplemented this information by adapting documentation from past participatory mapping of Galiano Island's ecological communities, and deepened our knowledge of the cultural significance of Xetthecum and its biodiversity in conversation with Indigenous community members, including Augie Sylvester, Thiyuas, Austin Baines, Jeannine Georgeson, Rosemary Georgeson, Mally Joe, Lorne Silvey, Augie Sylvester Jr., Bernie Sylvester, Fred Wilson, Levi Wilson, Roo Wilson, and Wave Wilson.
+The Xetthecum story map includes cultural information about places, species, and ecological communities, though it does not explicitly reference sacred Indigenous knowledge. We present iconographic representations of cultural values for the species we learned about, only adding details about cultural uses where community members openly shared their knowledge in interviews. As a pilot project, we hope that this story map can become the starting point for more conversations, as we continue to learn from elders and other Indigenous members of the community. In creating this open source story mapping framework, we also aspired to set an example for ecocultural mapping as a professional conservation practice among the next generation of land stewards. We envision these practices flourishing in the future, fostering intergenerational, cross-cultural, multidisciplinary, and transboundary skill-sharing and knowledge exchange.
 
-The digital ecocultural mapping tool provides information about species and ecological communities, while at the same time protecting sacred Indigenous knowledge through controlled access to certain information as desired by the community. In addition to photographic documentation, it features artwork from local Indigenous artists and youth and serves as a tool to support the gathering of place-based stories from elders and others in the community. The tool also promotes ecocultural mapping as a professional conservation practice among the next generation of land stewards. The mapping tool fosters open access to science, scholarship, technology and art. It promotes intergenerational, cross-cultural, multidisciplinary, and transboundary skill-sharing and knowledge exchange. 
 
 
 ## Project team
@@ -30,6 +30,16 @@ Penelakut Elder and Knowledge Holder
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Augie Sylvester
+Penelakut Elder and Knowledge Holder
+:::
+:::
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
 ![](files/johnny.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
@@ -40,11 +50,31 @@ Indigenous Creative Director
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/antranig.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
-### Antranig Basman
-Bioinformatics Specialist
+### Austin Baines
+Indigenous youth
+:::
+:::
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/jeanine.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Jeanine Georgeson
+Project Lead
+:::
+:::
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Deondre Smiles
+Guidance
 :::
 :::
 
@@ -58,14 +88,112 @@ Indigenous Language Framework Developer
 :::
 :::
 
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Roo Wilson
+Indigenous youth
+:::
+:::
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/jeanine.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
-### Jeanine Georgeson
-Project Lead
+### Kusemaat (Shirley Williams)
+Co-founder, Whiteswan Environmental
+:::
+:::
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/dana.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Dana Ayotte
+Inclusive Designer
+:::
+:::
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/antranig.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Antranig Basman
+Bioinformatics Specialist
+:::
+:::
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Colin Clark
+Inclusive Designer
+:::
+:::
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Jack Garton
+Audio Specialist
+:::
+:::
+
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Deblekha Guin
+Project Guidance
+:::
+:::
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/cait.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Cait Harrigan
+Website Development
+:::
+:::
+
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Jim Hodgson
+Map Development
+:::
+:::
+
+
+:::{.blurb-container}
+:::{.blurb-half-column style="width: 30%"}
+![](files/emily.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+:::
+:::{.blurb-half-column style="width=70%"}
+### Emily Menzes
+Design and Language Framework Support
 :::
 :::
 
@@ -83,64 +211,61 @@ Biodiversiy Specialist
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/dana.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
-### Dana Ayotte
-Inclusive Designer
-:::
-:::
-
-:::{.blurb-container}
-:::{.blurb-half-column style="width: 30%"}
-![](files/emily.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
-:::
-:::{.blurb-half-column style="width=70%"}
-### Emily Menzes
-Design and Language Framework Support
-:::
-:::
-
-:::{.blurb-container}
-:::{.blurb-half-column style="width: 30%"}
-![](files/cait.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
-:::
-:::{.blurb-half-column style="width=70%"}
-### Cait Harrigan
-Website Development
+### Maggie Slein
+BioBlitz Coordinator
 :::
 :::
 
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
-### Deblekha Guin
-Project Guidance
+### Tei Taiyarï
+Project Coordinator
 :::
 :::
 
-:::{.blurb-container}
-:::{.blurb-half-column style="width: 30%"}
-![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
-:::
-:::{.blurb-half-column style="width=70%"}
-### Jim Hodgson
-Map Development
-:::
-:::
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
-### Kusemaat (Shirley Williams)
-Co-founder, Whiteswan Environmental
+### Karolle Wall
+Media Contributor
 :::
 :::
+
+## Sponsors and Project Partners
+
+[Whiteswan Environmental](https://www.whiteswanenvironmental.org/)  
+[Access to Media Education Society](https://accesstomedia.org)  
+[Capital Regional District](https://www.crd.bc.ca/)  
+[Community Engagement Fellows](https://www.cefellows.org)  
+[Galiano Conservancy Association](https://galianoconservancy.ca)  
+[Galiano Naturalists]()  
+[Healthy Watersheds Initiative](https://healthywatersheds.ca/)  
+[Hunterston Farm, Galiano Island]()  
+[Inclusive Design Research Centre](https://idrc.ocadu.ca/)  
+[Indigenous Watersheds Initiative](https://www.indigenouswatersheds.ca/)  
+[Islands Trust Council](https://islandstrust.bc.ca/about-us/governanc  e/islands-trust-council/)  
+[MakeWay](https://makeway.org/)  
+[MIT Indigenous Communities   Fellowship](https://solve.mit.edu/challenges/2021-indigenous-communit  ies-fellowship/solutions/48268/application)  
+[Social Sciences and Humanities Research   Council](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)  
+[Southern Gulf Islands Community Resource   Centre](https://www.sgicommunityresources.ca/)  
+[Northeast Pacific Coastal Biodiversity Action   Network](https://oceandecadenortheastpacific.org/projects/northeast-p  acific-coastal-biodiversity-action-network)  
+[UBC BRITE Internship Program](https://biodiversity.ubc.ca/training-and-award-opportunities  /brite/brite-internships)  
+
+
+
+
+
+
 
 
 ::: {.column-page}

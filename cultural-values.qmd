@@ -7,11 +7,13 @@ lightbox: true
 
 # Cultural Values
 
-These species are found in the Xetthecum region on Galiano Island each have specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual.
 
-The Penelakut elders hold powerful and important sacred and spiritual knowledge regarding certain plants, animals and ceremonies of their people. This knowledge has not been included on this website; it will be passed down only to those with the rights and training to be able to receive it and use it safely and appropriately (adapted from Turner 2021 – with reference to Luciim’s Plants).
+The species presented here have all been observed at Xetthecum on Galiano Island. Each has specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual. 
 
-The cultural values of each species observed and documented in this mapping tool are indicated using the icons described below. Listing the cultural values in this way allows those using the site to learn about the cultural significance of each species, while respecting the sensitive nature of such information by providing minimal information.
+Indigenous elders hold important sacred and spiritual knowledge regarding certain plants, animals and ceremonies of their people. This knowledge has not been included on this website, but will be passed down only to those with the rights and training to be able to receive it and use it safely and appropriately.
+
+The cultural values of each species observed at Xetthecum are indicated using the icons described below. We share these values as iconography adapted from several sources. Listing the cultural values in this way allows those using the site to learn about the cultural significance of species, while respecting the sensitive nature of such information by refraining from making it explicit. Where we have shared knowledge in greater detail, we have done so only as openly shared by project contributors.
+
 
 :::
 :::{.blurb-half-column}
