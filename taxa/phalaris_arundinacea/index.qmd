@@ -21,7 +21,7 @@ freeze: auto
 
 :::
 
-**Ecological Community**: Freshwater, Forests
+**Ecological Community**: Freshwater
 
 **Wikipedia summary**:  
 <i><b>Phalaris arundinacea</b></i>, or <b>reed canary grass</b>, is a tall, perennial bunchgrass that commonly forms extensive single-species stands along the margins of lakes and streams and in wet open areas, with a wide distribution in Europe, Asia, northern Africa and North America. Other common names for the plant include <b>gardener's-garters</b> and <b>ribbon grass</b> in English, <i><b>alpiste roseau</b></i></p>...
@@ -34,5 +34,3 @@ Source: iNat
 Obervation count: 2
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

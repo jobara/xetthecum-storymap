@@ -24,7 +24,7 @@ freeze: auto
 ![material](/files/material.svg){width=50px}
 :::
 
-**Ecological Community**: Freshwater, Forests, Anthropogenic, Marine
+**Ecological Community**: Freshwater, Forests, Anthropogenic
 
 **Wikipedia summary**:  
 <p class="mw-empty-elt">
@@ -40,5 +40,3 @@ Source: iNat
 Obervation count: 19
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

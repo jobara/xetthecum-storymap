@@ -33,7 +33,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater, Marine
+**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Holodiscus discolor</b></i>, commonly known as <b>ocean spray</b> or <b>oceanspray</b>, <b>creambush</b>, or <b>ironwood</b>, is a shrub of western North America.</p>
@@ -49,5 +49,3 @@ Source: iNat
 Obervation count: 10
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

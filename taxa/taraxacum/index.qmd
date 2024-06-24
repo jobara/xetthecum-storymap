@@ -21,7 +21,7 @@ freeze: auto
 
 :::
 
-**Ecological Community**: Anthropogenic, Freshwater, Forests, Woodlands and rock outcrops
+**Ecological Community**: Woodlands and rock outcrops
 
 **Wikipedia summary**:  
 <p class="mw-empty-elt">
@@ -34,8 +34,6 @@ First reported: 2010-05-22
 Source: Hunterston  
 Last reported: 2021-03-17  
 Source: iNat  
-Obervation count: 5
+Obervation count: 1
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

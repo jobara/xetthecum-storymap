@@ -36,7 +36,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Anthropogenic, Freshwater, Forests, Woodlands and rock outcrops, Marine
+**Ecological Community**: Anthropogenic, Freshwater, Forests, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
 The <b>Douglas fir</b> (<i><b>Pseudotsuga menziesii</b></i>) is an evergreen conifer species in the pine family, Pinaceae. It is native to western North America and is also known as <b>Douglas-fir</b>, <b>Douglas spruce</b>, <b>Oregon pine</b>, and <b>Columbian pine</b>. There are three varieties: coast Douglas-fir (<i>P. menziesii</i> var. <i>menziesii</i>), Rocky Mountain Douglas-fir (<i>P. menziesii</i> var. <i></i></p>...
@@ -49,5 +49,3 @@ Source: iNat
 Obervation count: 17
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

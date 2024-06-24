@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  pre-render: generate_pages.R
+  post-render: post_build.R
 
 website:
   title: "Xetthecum Digital Ecocultural Mapping"

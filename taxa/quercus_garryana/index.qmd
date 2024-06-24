@@ -33,7 +33,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Woodlands and rock outcrops, Anthropogenic, Marine, Forests
+**Ecological Community**: Woodlands and rock outcrops, Anthropogenic, Forests
 
 **Wikipedia summary**:  
 <i><b>Quercus garryana</b></i> is an oak tree species of the Pacific Northwest, with a range stretching from southern California to southwestern British Columbia. It is commonly known as the <b>Garry Oak, Oregon white oak</b> or <b>Oregon oak</b>. It grows from sea level to an altitude of 690 feet (210 metres) in the northern part of its range, and from 980 to 5,900&#160;ft (300 to 1,800&#160;m) in the south of the range in</p>...
@@ -46,5 +46,3 @@ Source: iNat
 Obervation count: 11
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

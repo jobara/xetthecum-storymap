@@ -30,7 +30,7 @@ freeze: auto
 ![trade](/files/trade.svg){width=50px}
 :::
 
-**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater, Marine
+**Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
 
 **Wikipedia summary**:  
 <i><b>Rubus ursinus</b></i> is a North American species of blackberry or dewberry, known by the common names <b>California blackberry</b>, <b>California dewberry</b>, <b>Douglas berry</b>, <b>Pacific blackberry</b>, <b>Pacific dewberry</b> and <b>trailing blackberry</b>.
@@ -43,5 +43,3 @@ Source: iNat
 Obervation count: 15
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

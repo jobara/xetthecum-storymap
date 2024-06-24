@@ -33,7 +33,7 @@ freeze: auto
 ![trade](/files/trade.svg){width=50px}
 :::
 
-**Ecological Community**: Anthropogenic, Marine, Forests, Freshwater
+**Ecological Community**: Anthropogenic, Freshwater, Forests
 
 **Wikipedia summary**:  
 <i><b>Acer macrophyllum</b></i>, the <b>bigleaf maple</b> or <b>Oregon maple</b>, is a large deciduous tree in the genus <i>Acer</i>.
@@ -50,5 +50,3 @@ Source: iNat
 Obervation count: 8
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

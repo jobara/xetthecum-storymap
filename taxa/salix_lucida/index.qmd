@@ -21,7 +21,7 @@ freeze: auto
 
 :::
 
-**Ecological Community**: Forests
+**Ecological Community**: Freshwater
 
 **Wikipedia summary**:  
 <i><b>Salix lucida</b></i>, the <b>shining willow</b>, <b>Pacific willow</b>, <b>red willow</b>, or <b>whiplash willow</b>, is a species of willow native to northern and western North America, occurring in wetland habitats. It is the largest willow found in British Columbia.</p><p>It is a deciduous large shrub or small tree growing to 4–15 metres (13–49&#160;ft) tall. The shoots are greenish-brown to grey-brown. The leaves</p>...
@@ -34,5 +34,3 @@ Source: Hunterston
 Obervation count: 1
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

@@ -45,5 +45,3 @@ Source: dataPaper
 Obervation count: 4
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)

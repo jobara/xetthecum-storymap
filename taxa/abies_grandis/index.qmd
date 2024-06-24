@@ -36,7 +36,7 @@ freeze: auto
 ![indicator](/files/indicator.svg){width=50px}
 :::
 
-**Ecological Community**: Forests, Anthropogenic, Freshwater
+**Ecological Community**: Anthropogenic, Freshwater, Forests
 
 **Wikipedia summary**:  
 <i><b>Abies grandis</b></i> (<b>grand fir</b>, <b>giant fir</b>, <b>lowland white fir</b>, <b>great silver fir</b>, <b>western white fir</b>, <b>Vancouver fir</b>, or <b>Oregon fir</b>) is a fir native to the Pacific Northwest and Northern California of North America, occurring at altitudes of sea level to 1,700 metres (5,600&#160;ft). It is a major constituent of the Grand Fir/Douglas Fir Ecoregion of the Cascade Range</p>...
@@ -49,5 +49,3 @@ Source: iNat
 Obervation count: 4
 
 ![](community_dist.png)
-
-[<i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Browse all Species](/taxa.html)
