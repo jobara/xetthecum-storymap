@@ -1,18 +1,10 @@
 library(tidyverse)
-library(UpSetR)
-
 
 taxa <- read_csv('https://raw.githubusercontent.com/IMERSS/imerss-bioinfo/main/data/Xetthecum/reintegrated-withImages.csv') %>%
   rowwise() %>%
   filter(!is.na(`Hulquminum Name`)) %>%
   mutate(wikipediaSummary = gsub('<p class=\"mw-empty-elt\">\n</p>\n<p>', '', wikipediaSummary),
          wikipediaSummary = gsub('\n</p>\n\n\n', '', wikipediaSummary))
-
-taxa %>%
-  mutate(across(ends_with("value"), ~replace_na(.,0))) %>%
-  select(ends_with("value")) %>%
-  as.data.frame() %>%
-  upset(order.by = "freq")
 
 obs <- read_csv('https://raw.githubusercontent.com/IMERSS/imerss-bioinfo/main/data/Xetthecum/reintegrated-obs.csv')
 
