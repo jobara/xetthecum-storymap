@@ -1,6 +1,8 @@
 ---
 title: sqwul'ew'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/249990599/medium.jpeg
+image-alt: sqwul'ew' - American Beaver
 categories:
   - Food
   - Medicinal

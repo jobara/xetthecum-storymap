@@ -1,6 +1,8 @@
 ---
 title: t'emhw
 engine: knitr
+image: https://static.inaturalist.org/photos/200056455/medium.jpg
+image-alt: t'emhw - swamp currant
 categories:
   - Food
   - Medicinal

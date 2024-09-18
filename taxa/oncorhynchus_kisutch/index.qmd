@@ -1,6 +1,8 @@
 ---
 title: the'wun
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/5139610/medium.jpg
+image-alt: the'wun - coho
 categories:
   - Food
   - Medicinal

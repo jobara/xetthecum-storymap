@@ -1,6 +1,8 @@
 ---
 title: p'qw'axw
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/2190080/medium.JPG
+image-alt: p'qw'axw - beaked hazelnut
 categories:
   - Food
   - Spiritual

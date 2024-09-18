@@ -1,6 +1,8 @@
 ---
 title: shes / ts'axulus
 engine: knitr
+image: https://static.inaturalist.org/photos/211667368/medium.jpeg
+image-alt: shes / ts'axulus - Steller sea lion
 categories:
   - Food
   - Medicinal

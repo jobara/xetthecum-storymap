@@ -1,6 +1,8 @@
 ---
 title: suqeen
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/149174235/medium.jpeg
+image-alt: suqeen - common bracken
 categories:
   - Food
   - Medicinal

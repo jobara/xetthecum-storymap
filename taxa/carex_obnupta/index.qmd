@@ -1,6 +1,8 @@
 ---
 title: psháyʔ
 engine: knitr
+image: https://static.inaturalist.org/photos/82391485/medium.jpg
+image-alt: psháyʔ - slough sedge
 categories:
 
 freeze: auto

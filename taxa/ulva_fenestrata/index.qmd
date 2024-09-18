@@ -1,6 +1,8 @@
 ---
 title: kw’éqeq
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/8713871/medium.jpeg
+image-alt: kw’éqeq - NA
 categories:
 
 freeze: auto

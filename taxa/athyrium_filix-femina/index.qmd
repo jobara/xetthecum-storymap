@@ -1,6 +1,8 @@
 ---
 title: lə́q’ləq’ʔey’
 engine: knitr
+image: https://static.inaturalist.org/photos/2071508/medium.jpg
+image-alt: lə́q’ləq’ʔey’ - lady fern
 categories:
 
 freeze: auto

@@ -1,6 +1,8 @@
 ---
 title: xpey'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/7846522/medium.jpeg
+image-alt: xpey' - western redcedar
 categories:
   - Spiritual
   - Material

@@ -1,6 +1,8 @@
 ---
 title: tł’íkw’əәn’
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/34664752/medium.jpeg
+image-alt: tł’íkw’əәn’ - giant vetch
 categories:
 
 freeze: auto

@@ -1,6 +1,8 @@
 ---
 title: suniiulhp / lulutth'sulhp
 engine: knitr
+image: https://static.inaturalist.org/photos/33215492/medium.jpeg
+image-alt: suniiulhp / lulutth'sulhp - Oregon grape
 categories:
   - Food
   - Medicinal

@@ -1,6 +1,8 @@
 ---
 title: xihwu
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/173143196/medium.jpeg
+image-alt: xihwu - red sea urchin
 categories:
   - Food
   - Medicinal

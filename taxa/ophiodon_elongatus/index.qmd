@@ -1,6 +1,8 @@
 ---
 title: xuy'xuy'tl
 engine: knitr
+image: https://static.inaturalist.org/photos/121620546/medium.jpg
+image-alt: xuy'xuy'tl - lingcod
 categories:
   - Food
   - Medicinal

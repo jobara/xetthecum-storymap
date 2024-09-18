@@ -1,6 +1,8 @@
 ---
 title: sháalʔəłp
 engine: knitr
+image: https://static.inaturalist.org/photos/16633753/medium.jpg
+image-alt: sháalʔəłp - red osier dogwood
 categories:
 
 freeze: auto

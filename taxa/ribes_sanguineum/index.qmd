@@ -1,6 +1,8 @@
 ---
 title: sqwuliius / hwihwukw'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/83234098/medium.jpeg
+image-alt: sqwuliius / hwihwukw' - Red-flowering Currant
 categories:
   - Food
   - Medicinal

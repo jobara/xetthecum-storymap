@@ -1,6 +1,8 @@
 ---
 title: q'iyatl'un
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/59264526/medium.jpeg
+image-alt: q'iyatl'un - Pacific Banana Slug
 categories:
   - Medicinal
   - Spiritual

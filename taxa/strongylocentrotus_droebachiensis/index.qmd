@@ -1,6 +1,8 @@
 ---
 title: skw'itth'i'
 engine: knitr
+image: https://static.inaturalist.org/photos/88054286/medium.jpeg
+image-alt: skw'itth'i' - green sea urchin
 categories:
   - Food
   - Medicinal

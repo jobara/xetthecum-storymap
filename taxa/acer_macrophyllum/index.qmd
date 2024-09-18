@@ -1,6 +1,8 @@
 ---
 title: ts'alhulhp, q'um'-unulhp
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/105744044/medium.jpeg
+image-alt: ts'alhulhp, q'um'-unulhp - bigleaf maple
 categories:
   - Food
   - Medicinal

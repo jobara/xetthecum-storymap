@@ -1,6 +1,8 @@
 ---
 title: xwiinlhp
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/26171161/medium.jpeg
+image-alt: xwiinlhp - Baldhip Rose
 categories:
   - Food
   - Medicinal

@@ -1,6 +1,8 @@
 ---
 title: tth'iwuq'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/149058839/medium.jpeg
+image-alt: tth'iwuq' - red-berried elder
 categories:
   - Food
   - Medicinal

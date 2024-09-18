@@ -1,6 +1,8 @@
 ---
 title: sxə́m’xəm’
 engine: knitr
+image: https://static.inaturalist.org/photos/72881677/medium.jpg
+image-alt: sxə́m’xəm’ - field horsetail
 categories:
 
 freeze: auto

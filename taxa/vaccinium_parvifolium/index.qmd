@@ -1,6 +1,8 @@
 ---
 title: sqw'uqwtsus
 engine: knitr
+image: https://static.inaturalist.org/photos/4855055/medium.jpg
+image-alt: sqw'uqwtsus - Red Huckleberry
 categories:
   - Food
   - Medicinal

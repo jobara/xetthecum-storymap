@@ -1,6 +1,8 @@
 ---
 title: t’eməәxw
 engine: knitr
+image: https://static.inaturalist.org/photos/35190836/medium.jpeg
+image-alt: t’eməәxw - spreading gooseberry
 categories:
 
 freeze: auto

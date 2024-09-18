@@ -7,7 +7,7 @@ engine: knitr
 :::
 :::
 
-# About the project 
+# About the Project 
 
 The Xetthecum story map is based on an open source ecocultural mapping framework designed to serve the initiatives of the Indigenous-led organization [Whiteswan Environmental](https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html) (WE). The aim of this collaborative work is to restore traditional Indigenous practices and access to place, supporting thriving cultures and coastal ecosystems for future generations in the Salish Sea. WE initiated the Spirit of the Sxwo’le (SOS) Coalition, which guides its collaboration with the Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS) and other non-Indigenous organizations, ensuring that work proceeds with respect for Indigenous leadership and protocols of cultural sensitivity and cultural humility. To learn more about the project and collaboration with Whiteswan Environmental please watch the YouTube video [Ecocultural Mapping in the Salish Sea](https://www.youtube.com/watch?v=0v84S7DeORU).
 
@@ -17,7 +17,7 @@ The Xetthecum story map includes cultural information about places, species, and
 
 
 
-## Project team
+## Project Team
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}

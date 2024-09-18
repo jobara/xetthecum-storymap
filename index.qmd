@@ -19,7 +19,7 @@ engine: knitr
 ::: {.column-body}
 
 <center>
-##  Land acknowledgement
+## Land Acknowledgement
 </center>
 
 It is with gratitude that we recognize the enduring connection of Indigenous Peoples to the land, waters, and biodiversity of the Salish Sea, which has been tended to and cherished by the Coast Salish people since time immemorial. We acknowledge and appreciate the wisdom and stewardship that has shaped this region over countless generations and we are grateful for the opportunity to be a part of this intricate tapestry of cultural and ecological diversity. We acknowledge the history and ongoing presence of Indigenous Peoples in this area and strive to foster relationships that honor and respect the rights, traditions, and contributions of the Coast Salish and Hul’q’umi’num’-speaking peoples.
@@ -29,10 +29,10 @@ It is with gratitude that we recognize the enduring connection of Indigenous Peo
 :::
 
 <center>
-##  Xetthecum Digital Ecocultural Mapping Project
+## Xetthecum Digital Ecocultural Mapping Project
 </center>
 
-This website is the culmination of a cross-cultural, interdisciplinary project that aims to meaningfully braid together Indigenous ways of knowing and Western ecological science to create an ecocultural map of a region known as Xetthecum in the Hul’q’umi’num’ language (Retreat Cove in English), on Galiano Island, BC, Canada. We hope you enjoy exploring this site where you can learn about the local biodiversity, Hul’q’umi’num’ species names, the cultural values of various species and ecological communities, and more.
+This website is the culmination of a cross-cultural, interdisciplinary project that aims to meaningfully braid together Indigenous ways of knowing and ecological science to create an ecocultural map of a region known as Xetthecum in the Hul’q’umi’num’ language (Retreat Cove in English), on Galiano Island, BC, Canada. We hope you enjoy exploring this site where you can learn about the local biodiversity, Hul’q’umi’num’ species names, the cultural values of various species and ecological communities, and more.
 
 <br>
 
@@ -42,7 +42,7 @@ This website is the culmination of a cross-cultural, interdisciplinary project t
 :::{.column-page .blue-div}
 :::{.column-body .blurb-container}
 :::{.blurb-half-column}
-### About the project
+### About the Project
  
 The Xetthecum ecocultural mapping project began in 2020 and has been created through the collaborative effort of [many people](/about.html). The story map documents Xetthecum’s ecological communities and important cultural features from the perspectives of contributing Indigenous and non-Indigenous members of the community. This evolving open source framework integrates various sources of information including historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’q’umi’num’, stories of place and other audio and visual media. 
 
@@ -66,9 +66,11 @@ The Xetthecum story map is a small step forward for the greater initiative begun
 :::{.column-body .blurb-container}
 
 :::{.blurb-half-column}
-## Community contributions
+## Community Contributions
 
-Many community members have contributed to the creation of this story map and continue to collaborate on the project. We welcome your contributions, too! If you have a perspective you'd like to share, please reach out. You can also [share your observations of Xetthecum's biodiversity on (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://www.inaturalist.org/projects/xetthecum?tab=observations&subtab=map)
+Many community members have contributed to the creation of this story map and continue to collaborate on the project. We welcome your contributions, too! If you have a perspective you'd like to share, please reach out. You can also share your observations of Xetthecum's biodiversity on iNaturalist.
+
+[Make an observation (iNaturalist) <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://www.inaturalist.org/projects/xetthecum?tab=observations&subtab=map)
 
 :::
 

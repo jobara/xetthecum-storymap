@@ -1,6 +1,8 @@
 ---
 title: tth'umuqwa'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/88389194/medium.jpeg
+image-alt: tth'umuqwa' - kelp greenling
 categories:
   - Food
   - Medicinal

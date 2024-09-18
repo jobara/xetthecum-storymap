@@ -1,6 +1,8 @@
 ---
 title: t'uqwum'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/26833062/medium.jpeg
+image-alt: t'uqwum' - thimbleberry
 categories:
   - Food
   - Indicator

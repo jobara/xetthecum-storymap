@@ -1,6 +1,8 @@
 ---
 title: qaanlhp
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/9248407/medium.jpeg
+image-alt: qaanlhp - Pacific madrone
 categories:
   - Food
   - Medicinal

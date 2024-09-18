@@ -1,6 +1,8 @@
 ---
 title: qumine'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/4306270/medium.jpg
+image-alt: qumine' - giant acorn barnacle
 categories:
   - Food
   - Medicinal

@@ -1,6 +1,8 @@
 ---
 title: hwuhwts'i'qw
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/31989320/medium.jpg
+image-alt: hwuhwts'i'qw - Hooded Merganser
 categories:
   - Food
   - Medicinal

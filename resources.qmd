@@ -7,10 +7,65 @@ engine: knitr
 :::
 :::
 
-
-
 # Resources
 
+## Xetthecum Resources
+
+* [Cultural Safety and Humility](https://docs.google.com/document/d/1KDOQU2ub8kKayzdQYHxvj651w8cekwXw/) 
+
+## External Resources
+
+Other groups have put together excellent resource lists and we are grateful for the work of those who have created them:
+
+* [Salt Spring Island Library Subject Guide on Indigenous Peoples](https://saltspring.bc.libraries.coop/subject-guides/indigenous-people/)
+* [Galiano Conservancy Publications](https://galianoconservancy.ca/about/publications/)
+* [Government of Canada Learning resources about First Nations, Inuit and Métis across Canada](https://www.rcaanc-cirnac.gc.ca/eng/1621447127773/1621447157184)
+
+## Websites
+
+* [Local Contexts](https://localcontexts.org/)
+* [Native Land](https://native-land.ca/)
+* [Whose Land](https://www.whose.land/en/)
+* [Native Land - Hul’q’umi’num’ Treaty Group](https://native-land.ca/maps/territories/hulquminum-treaty-group/)
+* [Penelakut Tribe](https://penelakut.ca/)
+* [First Nations Information Governance Centre](https://fnigc.ca/)
+
+## Language Websites
+
+* [First Voices](https://www.firstvoices.com/)
+    * [Hul’q’umi’num’ ](https://www.firstvoices.com/hulquminum)
+* [ta’ulthun sqwal / Hul’q’umi’num’ Language Academy](https://sqwal.hwulmuhwqun.ca/)
+* [Hul’q’umi’num’ Language & Culture Society Facebook Group](https://www.facebook.com/groups/794612331135098/)
+* [Nanaimo-Ladysmith Public Schools (NLPS) / Indigenous Education / Hul’q’umi’num’](https://nlpslearns.sd68.bc.ca/subject/hulquminum/)
+
+## Books, Reports, Articles, Guides
+
+* [Luschiim’s Plants](https://harbourpublishing.com/products/9781550179453)
+* [Getting to100% – Hul’q’umi’num’ Treaty Group](http://www.hulquminum.bc.ca/pubs/HTG%20Info%20Book6.pdf?lbisphpreq=1)
+* [Hul’q’umi’num’ Ecosystem Guide - Hul’q’umi’num’ Treaty Group](https://nlpslearns.sd68.bc.ca/wp-content/uploads/Hul_Qum_Ecosystem_Guide.pdf)
+
+## Projects
+
+* [One Island, One Earth – Galiano Conservancy](https://galianoconservancy.ca/oneisland/)
+    * [Part 1 - One Island, Introduction](https://galianoconservancy.ca/wp-content/uploads/2022/06/Part-I-One-Island-Introduction.pdf)
+* [Walk Quietly](https://walkquietly.ca/)
+* [Sq’ewlets - a Stó:lō Coast Salish Community in the Fraser Valley](http://digitalsqewlets.ca/index-eng.php)
+
+## Videos and Film
+
+* [Whiteswan Environmental Videos](https://www.whiteswanenvironmental.org/videos.html)
+* [Access to Media in Education Society (AMES) Videos](https://accesstomedia.org/watch/)
+* [National Film Board - Alanis Obomsawin](https://www.nfb.ca/directors/alanis-obomsawin/)
+* [Paul Chiyokten Wagner - Coast Salish flutes](https://www.youtube.com/watch?v=QpBN2Yk17zc)
+
+## Podcasts
+
+* [Kuper Island – CBC](https://www.cbc.ca/listen/cbc-podcasts/1062-kuper-island) 
+
+## Games
+
+* [Hul’q’umi’num’ Animal Bingo](https://scratch.mit.edu/projects/895188484/fullscreen/) (from NLPS Indigenous Education Resources)
+* [Hul’q’umi’num’ Feelings Bingo](https://scratch.mit.edu/projects/816040858/) (from NLPS Indigenous Education Resources
 
 ## Works Cited
 
@@ -38,7 +93,6 @@ Strait of Georgia Data Centre (2023, Jan 15). Eelgrass Extent at Select Sites in
 
 Turner, N. (2014). Ancient pathways, ancestral knowledge: ethnobotany and ecological wisdom of indigenous peoples of northwestern North America (Vol. 1 & 2). McGill-Queen's Press.
 
-
 ## Interviews
 
 Augie Sylvester, interviewed by Jeannine Georgeson, Dana Ayotte & Deblekha Guin (2024, Feb 25)
@@ -57,88 +111,6 @@ Thiyuas (Florence James), interviewed by Andrew Simon (2021, Aug 28)
 
 Thiyuas (Florence James), interviewed by Jeannine Georgeson, Levi Wislon & Andrew Simon (2022, Mar 7)
 
-
-## Xetthecum Resources
-
-
-
-* [Cultural Safety and Humility](https://docs.google.com/document/d/1KDOQU2ub8kKayzdQYHxvj651w8cekwXw/) 
-
-
-## External Resources
-
-Other groups have put together excellent resource lists and we are grateful for the work of those who have created them:
-
-
-
-* [Salt Spring Island Library Subject Guide on Indigenous Peoples](https://saltspring.bc.libraries.coop/subject-guides/indigenous-people/)
-* [Galiano Conservancy Publications](https://galianoconservancy.ca/about/publications/)
-* [Government of Canada Learning resources about First Nations, Inuit and Métis across Canada](https://www.rcaanc-cirnac.gc.ca/eng/1621447127773/1621447157184)
-
-
-## Websites
-
-
-
-* [Local Contexts](https://localcontexts.org/)
-* [Native Land](https://native-land.ca/)
-* [Whose Land](https://www.whose.land/en/)
-* [Native Land - Hul’q’umi’num’ Treaty Group](https://native-land.ca/maps/territories/hulquminum-treaty-group/)
-* [Penelakut Tribe](https://penelakut.ca/)
-* [First Nations Information Governance Centre](https://fnigc.ca/)
-
-
-## Language Websites
-
-* [First Voices](https://www.firstvoices.com/)
-    * [Hul’q’umi’num’ ](https://www.firstvoices.com/hulquminum)
-* [ta’ulthun sqwal / Hul’q’umi’num’ Language Academy](https://sqwal.hwulmuhwqun.ca/)
-* [Hul’q’umi’num’ Language & Culture Society Facebook Group](https://www.facebook.com/groups/794612331135098/)
-* [Nanaimo-Ladysmith Public Schools (NLPS) / Indigenous Education / Hul’q’umi’num’](https://nlpslearns.sd68.bc.ca/subject/hulquminum/)
-
-
-## Books, Reports, Articles, Guides
-
-
-
-* [Luschiim’s Plants](https://harbourpublishing.com/products/9781550179453)
-* [Getting to100% – Hul’q’umi’num’ Treaty Group](http://www.hulquminum.bc.ca/pubs/HTG%20Info%20Book6.pdf?lbisphpreq=1)
-* [Hul’q’umi’num’ Ecosystem Guide - Hul’q’umi’num’ Treaty Group](https://nlpslearns.sd68.bc.ca/wp-content/uploads/Hul_Qum_Ecosystem_Guide.pdf)
-
-
-## Projects
-
-
-
-* [One Island, One Earth – Galiano Conservancy](https://galianoconservancy.ca/oneisland/)
-    * [Part 1 - One Island, Introduction](https://galianoconservancy.ca/wp-content/uploads/2022/06/Part-I-One-Island-Introduction.pdf)
-* [Walk Quietly](https://walkquietly.ca/)
-* [Sq’ewlets - a Stó:lō Coast Salish Community in the Fraser Valley](http://digitalsqewlets.ca/index-eng.php)
-
-
-## Videos and Film
-
-
-
-* [Whiteswan Environmental Videos](https://www.whiteswanenvironmental.org/videos.html)
-* [Access to Media in Education Society (AMES) Videos](https://accesstomedia.org/watch/)
-* [National Film Board - Alanis Obomsawin](https://www.nfb.ca/directors/alanis-obomsawin/)
-* [Paul Chiyokten Wagner - Coast Salish flutes](https://www.youtube.com/watch?v=QpBN2Yk17zc)
-
-
-## Podcasts
-
-
-
-* [Kuper Island – CBC](https://www.cbc.ca/listen/cbc-podcasts/1062-kuper-island) 
-
-
-## Games
-
-
-
-* [Hul’q’umi’num’ Animal Bingo](https://scratch.mit.edu/projects/895188484/fullscreen/) (from NLPS Indigenous Education Resources)
-* [Hul’q’umi’num’ Feelings Bingo](https://scratch.mit.edu/projects/816040858/) (from NLPS Indigenous Education Resources
 
 Please note that this is a living, ongoing project, and that this resource list will always be incomplete. Your contributions and ideas are welcome. If you’d like to make suggestions about the resource list or anything else on this website, please contact Jeanine Georgeson (jeannine@imerss.org)
 

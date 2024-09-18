@@ -1,6 +1,8 @@
 ---
 title: ey'x
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/138356832/medium.jpeg
+image-alt: ey'x - Dungeness crab
 categories:
   - Food
   - Medicinal

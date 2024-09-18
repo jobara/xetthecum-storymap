@@ -1,6 +1,8 @@
 ---
 title: tł’əlíqw’əłp
 engine: knitr
+image: https://static.inaturalist.org/photos/9180893/medium.jpg
+image-alt: tł’əlíqw’əłp - common yarrow
 categories:
 
 freeze: auto

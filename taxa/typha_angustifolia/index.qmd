@@ -1,6 +1,8 @@
 ---
 title: stth'e'qun
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/143259898/medium.jpeg
+image-alt: stth'e'qun - narrow-leaved cattail
 categories:
   - Food
   - Medicinal

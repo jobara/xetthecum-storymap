@@ -1,6 +1,8 @@
 ---
 title: sweem
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/983435/medium.jpg
+image-alt: sweem - gaper
 categories:
   - Food
   - Medicinal

@@ -1,6 +1,8 @@
 ---
 title: sthxélem
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/879722/medium.jpg
+image-alt: sthxélem - western sword fern
 categories:
 
 freeze: auto

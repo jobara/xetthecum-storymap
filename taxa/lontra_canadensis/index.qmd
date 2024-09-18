@@ -1,6 +1,8 @@
 ---
 title: sqeetl'
 engine: knitr
+image: https://static.inaturalist.org/photos/99994014/medium.jpg
+image-alt: sqeetl' - North American River Otter
 categories:
   - Medicinal
   - Spiritual

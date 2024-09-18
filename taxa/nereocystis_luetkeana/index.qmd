@@ -1,6 +1,8 @@
 ---
 title: q'am'
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/4963877/medium.jpeg
+image-alt: q'am' - Bull Kelp
 categories:
   - Food
   - Medicinal

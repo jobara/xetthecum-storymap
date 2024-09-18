@@ -1,6 +1,8 @@
 ---
 title: tl'uxwtl'uxw
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/252776928/medium.jpg
+image-alt: tl'uxwtl'uxw - Pacific Oyster
 categories:
   - Food
   - Medicinal

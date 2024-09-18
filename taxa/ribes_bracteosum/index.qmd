@@ -1,6 +1,8 @@
 ---
 title: sp'eetth'
 engine: knitr
+image: https://static.inaturalist.org/photos/147974395/medium.jpeg
+image-alt: sp'eetth' - Stink Currant
 categories:
   - Food
 freeze: auto

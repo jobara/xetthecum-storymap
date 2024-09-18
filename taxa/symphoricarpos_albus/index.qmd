@@ -1,6 +1,8 @@
 ---
 title: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/147408582/medium.jpg
+image-alt: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp - Common Snowberry
 categories:
   - Medicinal
   - Spiritual

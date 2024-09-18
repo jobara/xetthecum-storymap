@@ -1,6 +1,8 @@
 ---
 title: qw'aqwuqw
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/172523522/medium.jpg
+image-alt: qw'aqwuqw - Rockweed
 categories:
   - Food
   - Medicinal

@@ -1,6 +1,8 @@
 ---
 title: sqi'mukw
 engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/174792488/medium.jpg
+image-alt: sqi'mukw - giant Pacific octopus
 categories:
   - Food
   - Medicinal
