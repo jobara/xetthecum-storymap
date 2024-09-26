@@ -1,13 +1,13 @@
 ---
 title: lə́q’ləq’ʔey’
 engine: knitr
-image: https://static.inaturalist.org/photos/2071508/medium.jpg
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/2071508/medium.jpg
 image-alt: lə́q’ləq’ʔey’ - lady fern
 categories:
 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/2071508/medium.jpg){fig-alt="lə́q’ləq’ʔey’ - lady fern"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/2071508/medium.jpg){fig-alt="lə́q’ləq’ʔey’ - lady fern"}
 
 **Hul'q'umi'num' Name**: lə́q’ləq’ʔey’
 
