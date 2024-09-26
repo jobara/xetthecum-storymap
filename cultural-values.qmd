@@ -91,7 +91,7 @@ Cultural Value: Medicine
 These species or portions of them are used as medicine.
 Example: q’ey’xulhp – cascara
 
-![q’ey’xulhp – cascara](https://upload.wikimedia.org/wikipedia/commons/6/6a/Buckthorn_%28Rhamnus_cathartica%29%2C_fruit_%2819860624419%29.jpg)
+![q’ey’xulhp – cascara](https://inaturalist-open-data.s3.amazonaws.com/photos/433161781/medium.jpeg)
 
 :::
 
