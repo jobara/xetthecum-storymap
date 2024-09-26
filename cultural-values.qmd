@@ -1,5 +1,5 @@
 ---
-lightbox: true
+title: Cultural Values
 ---
 
 :::{.blurb-container}
@@ -8,7 +8,7 @@ lightbox: true
 # Cultural Values
 
 
-The species presented here have all been observed at Xetthecum on Galiano Island. Each has specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual. 
+The species presented here have all been observed at Xetthecum on Galiano Island. Each has specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual.
 
 Indigenous elders hold important sacred and spiritual knowledge regarding certain plants, animals and ceremonies of their people. This knowledge has not been included on this website, but will be passed down only to those with the rights and training to be able to receive it and use it safely and appropriately.
 
@@ -33,8 +33,8 @@ Cultural Value: Food
 ![](files/food.svg){width=50%}
 
 :::{style="text-align: left"}
-These species are an important food source.  
-Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon 
+These species are an important food source.
+Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon
 :::
 
 ![the’wun – coho salmon](files/Rectangle 771.png){width=90%}
@@ -50,7 +50,7 @@ Cultural Value: Material
 ![](files/material.svg){width=50%}
 
 :::{style="text-align: left"}
-These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.  
+These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.
 Example: [xpey’](/taxa/thuja_plicata) – western red cedar was used to build canoes; an 800 year old cedar could be used to make four canoes.
 :::
 
@@ -66,7 +66,7 @@ Cultural Value: Indicator
 ![](files/indicator.svg){width=50%}
 
 :::{style="text-align: left"}
-The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.  
+The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.
 Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries indicates the return of Swainson’s Thrush in spring.
 :::
 
@@ -84,7 +84,7 @@ Cultural Value: Trade
 ![](files/trade.svg){width=50%}
 
 :::{style="text-align: left"}
-These species were traded for other items.  
+These species were traded for other items.
 Example: [skw’lhey](/taxa/leukoma_staminea/) – little neck clams (and other types of clams) were used to trade for other items.
 :::
 
@@ -101,7 +101,7 @@ Cultural Value: Medicine
 
 ![](files/medicinal.svg){width=50%}
 
-These species or portions of them are used as medicine.  
+These species or portions of them are used as medicine.
 Example: q’ey’xulhp – cascara
 
 ![q’ey’xulhp – cascara](files/Rectangle 774.png){width=90%}
