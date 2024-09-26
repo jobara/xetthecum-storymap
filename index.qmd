@@ -39,29 +39,21 @@ This website is the culmination of a cross-cultural, interdisciplinary project t
 
 ![](files/icon_array.png){.centered}
 
-:::{.column-page .blue-div}
-:::{.column-body .blurb-container}
-:::{.blurb-half-column}
+::: {.column-screen .background-image style="background-image: url('files/high-res-map-snapshot.png');"}
+::: {.column-body}
+::: {.floating-text}
+
 ### About the Project
- 
-The Xetthecum ecocultural mapping project began in 2020 and has been created through the collaborative effort of [many people](/about.html). The story map documents Xetthecum’s ecological communities and important cultural features from the perspectives of contributing Indigenous and non-Indigenous members of the community. This evolving open source framework integrates various sources of information including historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’q’umi’num’, stories of place and other audio and visual media. 
+
+The Xetthecum ecocultural mapping project began in 2020 and has been created through the collaborative effort of [many people](/about.html). The story map documents Xetthecum’s ecological communities and important cultural features from the perspectives of contributing Indigenous and non-Indigenous members of the community. This evolving open source framework integrates various sources of information including historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’q’umi’num’, stories of place and other audio and visual media.
 
 The Xetthecum story map is a small step forward for the greater initiative begun by [Whiteswan Environmental (WE)](https://www.whiteswanenvironmental.org/digital-ecocultural-mapping.html), who are working collaboratively on several Indigenous-led projects that support community healing through the natural, cultural and historical restoration of the Salish Sea. Through a collaborative co-design process, WE aspire to adapt this framework for use in other contexts, supporting ecocultural mapping of significant sites throughout the Salish Sea. Meanwhile, we hope that the story of Xetthecum can serve as an educational resource and example of this type of work, to promote ecocultural mapping as a professional conservation practice among the next generation of land stewards.
 
-<center>
-<a  href="/about.html" class="btn btn-primary btn-rounded " style="font-size:1.2em;color:#597090" role="button">Learn more</a>
-</center>
+<a href="/about.html" class="btn btn-primary btn-rounded " role="button">Learn more</a>
 
-:::
-
-:::{.blurb-half-column}
-
-![](files/about_map.png){style="padding: 1em"}
 :::
 :::
 :::
-
-
 
 :::{.column-body .blurb-container}
 
@@ -76,7 +68,7 @@ Many community members have contributed to the creation of this story map and co
 
 :::{.blurb-half-column}
 
-![](files/shells.png) 
+![](files/shells.png)
 :::
 :::
 

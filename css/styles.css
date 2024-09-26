@@ -20,7 +20,7 @@ h2, .h2 {
    display: flex;
    flex-wrap: wrap;
    align-items: center;
-   
+
 }
 
 .blurb-half-column {
@@ -38,7 +38,7 @@ h2, .h2 {
 
 .hero-banner {
   max-width: 100%;
-  height: 250px; 
+  height: 250px;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -48,15 +48,15 @@ h2, .h2 {
 }
 
 .hero-text {
-  font-size: clamp(1rem, 5vw, 4rem); 
+  font-size: clamp(1rem, 5vw, 4rem);
   background: rgba(245,251,219, 0.8);
 }
 
-.hero-text h1 {  
+.hero-text h1 {
   margin: 1em;
 }
 
-.hero-text p {  
+.hero-text p {
   padding: 0;
 }
 
@@ -73,9 +73,9 @@ audio {
   width: 200px;
 }
 
-audio::-webkit-media-controls-volume-slider, 
-audio::-webkit-media-controls-timeline-container, 
-audio::-webkit-media-controls-time-remaining-display,  
+audio::-webkit-media-controls-volume-slider,
+audio::-webkit-media-controls-timeline-container,
+audio::-webkit-media-controls-time-remaining-display,
 audio::-webkit-media-controls-timeline {
   display: none !important;
 }
@@ -112,6 +112,25 @@ p {
   flex-direction: column; /* Stack items vertically */
   margin: 0.5em;
   min-height: 800px;
+}
+
+.background-image {
+  background-position: center;
+  background-size: cover;
+}
+
+.floating-text {
+  background-color: rgba(245, 251, 219, 0.9);
+  padding-block-start: 0.5em;
+  padding-inline: 3em;
+  margin-block: clamp(1.5em, calc(100vw / 20), 5em);
+}
+
+.floating-text .btn {
+  background-color: var(--bs-body-color);
+  color: rgba(245, 251, 219, 1);
+  font-size: 1.2em;
+  margin-inline: 0;
 }
 
 @media(max-width: 600px){
