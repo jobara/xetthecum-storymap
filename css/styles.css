@@ -102,6 +102,11 @@ p {
   padding: 0;
 }
 
+.values-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
 .values-card {
   background: #F8E8D0;
   border: 1px solid #ccc;
@@ -110,6 +115,21 @@ p {
   flex-direction: column; /* Stack items vertically */
   margin: 0.5em;
   min-height: 800px;
+}
+
+.values-card > *:last-child {
+  margin-block-start: auto;
+}
+.values-card > *:last-child img {
+  aspect-ratio: 1 / 1;
+  border: 0.1rem solid #ccc;
+  border-radius: 0.5em;
+  object-fit: cover;
+  width: 90%;
+}
+
+.values-card-image-85 {
+  object-position: 85%;
 }
 
 @media(max-width: 600px){
