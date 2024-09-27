@@ -1,14 +1,11 @@
 ---
-lightbox: true
+title: Cultural Values
 ---
 
 :::{.blurb-container}
 :::{.blurb-half-column}
 
-# Cultural Values
-
-
-The species presented here have all been observed at Xetthecum on Galiano Island. Each has specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual. 
+The species presented here have all been observed at Xetthecum on Galiano Island. Each has specific and varied cultural values for the Hul’q’umi’num’ speaking peoples. These cultural values may include one or more of Food, Indicator, Medicine, Material, Trade or Spiritual.
 
 Indigenous elders hold important sacred and spiritual knowledge regarding certain plants, animals and ceremonies of their people. This knowledge has not been included on this website, but will be passed down only to those with the rights and training to be able to receive it and use it safely and appropriately.
 
@@ -24,8 +21,7 @@ The cultural values of each species observed at Xetthecum are indicated using th
 
 
 
-::::{.column-page .blurb-container style="text-align: center"}
-:::{.blurb-half-column style="width: 33%"}
+::::{.values-cards}
 :::{.values-card style="text-align: center"}
 
 Cultural Value: Food
@@ -33,16 +29,14 @@ Cultural Value: Food
 ![](files/food.svg){width=50%}
 
 :::{style="text-align: left"}
-These species are an important food source.  
-Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon 
+These species are an important food source.
+Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon
 :::
 
-![the’wun – coho salmon](files/Rectangle 771.png){width=90%}
+![the’wun – coho salmon](https://inaturalist-open-data.s3.amazonaws.com/photos/5139610/medium.jpg){.values-card-image-85}
 
 :::
-:::
 
-:::{.blurb-half-column style="width: 33%"}
 :::{.values-card style="text-align: center"}
 
 Cultural Value: Material
@@ -50,15 +44,14 @@ Cultural Value: Material
 ![](files/material.svg){width=50%}
 
 :::{style="text-align: left"}
-These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.  
+These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.
 Example: [xpey’](/taxa/thuja_plicata) – western red cedar was used to build canoes; an 800 year old cedar could be used to make four canoes.
 :::
 
-![xpey’ – western red cedar](files/Rectangle 772.png){width=90%}
+![xpey’ – western red cedar](https://inaturalist-open-data.s3.amazonaws.com/photos/7846522/medium.jpeg)
 
 :::
-:::
-:::{.blurb-half-column style="width: 33%"}
+
 :::{.values-card style="text-align: center"}
 
 Cultural Value: Indicator
@@ -66,17 +59,14 @@ Cultural Value: Indicator
 ![](files/indicator.svg){width=50%}
 
 :::{style="text-align: left"}
-The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.  
+The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.
 Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries indicates the return of Swainson’s Thrush in spring.
 :::
 
-![lila’ – salmonberry](files/Rectangle 773.png){width=90%}
+![lila’ – salmonberry](https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg)
 
 :::
-:::
 
-
-:::{.blurb-half-column style="width: 33%"}
 :::{.values-card style="text-align: center"}
 
 Cultural Value: Trade
@@ -84,31 +74,27 @@ Cultural Value: Trade
 ![](files/trade.svg){width=50%}
 
 :::{style="text-align: left"}
-These species were traded for other items.  
+These species were traded for other items.
 Example: [skw’lhey](/taxa/leukoma_staminea/) – little neck clams (and other types of clams) were used to trade for other items.
 :::
 
-![skw’lhey – little neck clam](files/image 106.png){width=90%}
-
+![skw’lhey – little neck clam](https://inaturalist-open-data.s3.amazonaws.com/photos/6532782/medium.jpg)
 
 :::
-:::
 
-:::{.blurb-half-column style="width: 33%"}
 :::{.values-card style="text-align: center"}
 
 Cultural Value: Medicine
 
 ![](files/medicinal.svg){width=50%}
 
-These species or portions of them are used as medicine.  
+These species or portions of them are used as medicine.
 Example: q’ey’xulhp – cascara
 
-![q’ey’xulhp – cascara](files/Rectangle 774.png){width=90%}
+![q’ey’xulhp – cascara](https://inaturalist-open-data.s3.amazonaws.com/photos/433161781/medium.jpeg)
 
 :::
-:::
-:::{.blurb-half-column style="width: 33%"}
+
 :::{.values-card style="text-align: center"}
 
 Cultural Value: Spiritual
@@ -120,17 +106,11 @@ These species are a part of spiritual ceremony or hold spiritual meaning and sig
 Example: [yuxwule’](/taxa/haliaeetus_leucocephalus) – bald eagle
 :::
 
-![yuxwule’ – bald eagle](files/Rectangle 775.png){width=90%}
-
+![yuxwule’ – bald eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/medium.jpg)
 
 :::
+
 :::
-
-::::
-
-
-
-<br>
 
 :::{.column-page}
 ![](files/icon_array.png){text-align=center}
