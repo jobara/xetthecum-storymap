@@ -24,15 +24,15 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![foodvalue](/files/foodvalue.svg){width=50px}
+![food](/files/food.svg){width=106px}
 
-![medicinalvalue](/files/medicinalvalue.svg){width=50px}
+![medicinal](/files/medicinal.svg){width=106px}
 
-![spiritualvalue](/files/spiritualvalue.svg){width=50px}
+![spiritual](/files/spiritual.svg){width=106px}
 
-![materialvalue](/files/materialvalue.svg){width=50px}
+![material](/files/material.svg){width=106px}
 
-![tradevalue](/files/tradevalue.svg){width=50px}
+![trade](/files/trade.svg){width=106px}
 :::
 
 **Ecological Community**: Freshwater, Forests, Marine, Anthropogenic

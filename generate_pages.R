@@ -35,12 +35,12 @@ list_values <- function(row){
 
 icon_values <- function(row){
   row %>%
-    select(ends_with('value')) %>%
-    rename_with(~gsub(" Value", "", .)) %>%
+    select(ends_with('Value')) %>%
+    rename_with(~gsub("Value", "", .)) %>%
     pivot_longer(everything()) %>%
     filter(value >0) %>%
     mutate(name = tolower(name),
-           img = paste0("![", name, "](/files/", name, ".svg){width=50px}")) %>%
+           img = paste0("![", name, "](/files/", name, ".svg){width=106px}")) %>%
     pull(img) %>%
     paste(collapse = '\n\n')
 }

@@ -20,7 +20,7 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![foodvalue](/files/foodvalue.svg){width=50px}
+![food](/files/food.svg){width=106px}
 :::
 
 **Ecological Community**: Marine

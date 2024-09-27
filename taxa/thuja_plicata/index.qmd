@@ -21,9 +21,9 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![spiritualvalue](/files/spiritualvalue.svg){width=50px}
+![spiritual](/files/spiritual.svg){width=106px}
 
-![materialvalue](/files/materialvalue.svg){width=50px}
+![material](/files/material.svg){width=106px}
 :::
 
 **Ecological Community**: Freshwater, Forests, Anthropogenic
