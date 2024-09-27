@@ -4,11 +4,11 @@ engine: knitr
 image: https://static.inaturalist.org/photos/11793124/medium.jpg
 image-alt: thq'iinlhp - western hemlock
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/11793124/medium.jpg){fig-alt="thq'iinlhp - western hemlock"}
@@ -24,15 +24,15 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests
@@ -41,10 +41,8 @@ freeze: auto
 <p class="mw-empty-elt">
 
 </p>
-<p><i><b>Tsuga heterophylla</b></i>, the <b>western hemlock</b> or <b>western hemlock-spruce</b>, is a species of hemlock native to the west coast of North America, with its northwestern limit on the Kenai Peninsula, Alaska, and its southeastern limit in northern Sonoma County, California. The Latin species name means 'variable leaves'.</p>
 
-
-
+<p><i><b>Tsuga heterophylla</b></i>, the <b>western hemlock</b> or <b>western hemlock-spruce</b>, is a species of hemlock native to the west coast of North America, with its northwestern limit on the Kenai Peninsula, Alaska, and its southeastern limit in northern Sonoma County, California. The Latin species name means 'variable leaves'.
 
 **Observational Data**:   
 First reported: 2018-12-17  

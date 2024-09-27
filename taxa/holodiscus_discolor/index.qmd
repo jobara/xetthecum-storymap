@@ -4,11 +4,11 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/41885248/medium.jpg
 image-alt: qethulhp - Ocean spray
 categories:
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/41885248/medium.jpg){fig-alt="qethulhp - Ocean spray"}
@@ -24,24 +24,24 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Woodlands and rock outcrops, Forests, Freshwater
 
 **Wikipedia summary**:  
-<i><b>Holodiscus discolor</b></i>, commonly known as <b>ocean spray</b> or <b>oceanspray</b>, <b>creambush</b>, or <b>ironwood</b>, is a shrub of western North America.</p>
+<p class="mw-empty-elt">
+</p>
 
-
-
+<p><i><b>Holodiscus discolor</b></i>, commonly known as <b>ocean spray</b> or <b>oceanspray</b>, <b>creambush</b>, or <b>ironwood</b>, is a shrub of western North America.
 
 **Observational Data**:   
 First reported: 2010-05-22  

@@ -1,0 +1,43 @@
+---
+title: speenhw
+engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/16966/medium.jpg
+image-alt: speenhw - camas
+categories:
+  - foodValue
+  - tradeValue
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/16966/medium.jpg){fig-alt="speenhw - camas"}
+
+**Hul'q'umi'num' Name**: speenhw
+
+
+
+**Taxon Name**: Camassia
+
+**"Common" Name**: camas
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![foodvalue](/files/foodvalue.svg){width=50px}
+
+![tradevalue](/files/tradevalue.svg){width=50px}
+:::
+
+**Ecological Community**: Forests, Woodlands and rock outcrops
+
+**Wikipedia summary**:  
+<p class="mw-empty-elt">
+<p><i><b>Camassia</b></i> is a genus of plants in the asparagus family native to North America. Common names include <b>camas</b>, <b>quamash</b>, <b>Indian hyacinth</b>, <b>camash</b>, and <b>wild hyacinth</b>.
+</p><p>It grows in the wild in great numbers in moist meadows. They are perennial plants with basal linear leaves measuring 20 to 80 centimetres (8 to 32&#160;in) in length, which emerge early in the spring. They</p>...
+
+**Observational Data**:   
+First reported: 2010-05-22  
+Source: Hunterston  
+Last reported: 2022-02-20  
+Source: iNat  
+Obervation count: 5
+
+![](community_dist.png)

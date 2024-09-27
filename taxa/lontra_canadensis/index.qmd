@@ -4,11 +4,11 @@ engine: knitr
 image: https://static.inaturalist.org/photos/99994014/medium.jpg
 image-alt: sqeetl' - North American River Otter
 categories:
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/99994014/medium.jpg){fig-alt="sqeetl' - North American River Otter"}
@@ -24,21 +24,24 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Woodlands and rock outcrops, Marine, Freshwater
 
 **Wikipedia summary**:  
-The <b>North American river otter</b> (<i><b>Lontra canadensis</b></i>), also known as the <b>northern river otter</b> and <b>river otter</b>, is a semiaquatic mammal that lives only on the North American continent, along its waterways and coasts. An adult North American river otter can weigh between 5.0 and 14&#160;kg (11.0 and 30.9&#160;lb). The river otter is protected and insulated by a thick, water-repellent coat of fur</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p>The <b>North American river otter</b> (<i><b>Lontra canadensis</b></i>), also known as the <b>northern river otter</b> and <b>river otter</b>, is a semiaquatic mammal that lives only on the North American continent throughout most of Canada, along the coasts of the United States and its inland waterways . An adult North American river otter can weigh between 5.0 and 14&#160;kg (11.0 and 30.9&#160;lb). The river otter is protected</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

@@ -26,8 +26,11 @@ freeze: auto
 **Ecological Community**: Freshwater
 
 **Wikipedia summary**:  
-<i><b>Oemleria cerasiformis</b></i>, a shrub commonly known as <b>osoberry</b> or <b>Indian plum</b>, is the sole species in genus <i><b>Oemleria</b></i>.
-</p><p>Native to the Pacific coast and ranges of North America, from British Columbia, Canada to Santa Barbara County, California, U.S.A., it is among the first plants to leaf out and flowers early in the spring. It reaches a height of 1.5–5&#160;m and has lance-shaped</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Oemleria cerasiformis</b></i>, a shrub commonly known as <b>osoberry</b> or <b>Indian plum</b>, is the sole extant species in genus <i><b>Oemleria</b></i>.
+</p><p>Native to the Pacific coast and ranges of North America, from British Columbia, Canada to Santa Barbara County, California, U.S.A., it is among the first plants to leaf out and flowers early in the spring. It reaches a height of 1.5–5&#160;m and has lance</p>...
 
 **Observational Data**:   
 First reported: 2016-02-16  

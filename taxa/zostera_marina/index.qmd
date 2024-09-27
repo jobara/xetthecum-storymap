@@ -26,12 +26,15 @@ freeze: auto
 **Ecological Community**: Marine
 
 **Wikipedia summary**:  
-<i><b>Zostera marina</b></i> is a flowering vascular plant species as one of many kinds of seagrass, with this species known primarily by the English name of <b>eelgrass</b> with <b>seawrack</b> much less used, and refers to the plant after breaking loose from the submerged wetland soil, and drifting free with ocean current and waves to a coast seashore. It is a saline soft-sediment submerged plant native to marine</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Zostera marina</b></i> is a flowering vascular plant species as one of many kinds of seagrass, with this species known primarily by the English name of <b>eelgrass</b> with <b>seawrack</b> much less used, and refers to the plant after breaking loose from the submerged wetland soil, and drifting free with ocean current and waves to a coast seashore. It is a saline soft-sediment submerged plant native to marine</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2021-04-18  
+Last reported: 2023-08-06  
 Source: iNat  
 Obervation count: 8
 

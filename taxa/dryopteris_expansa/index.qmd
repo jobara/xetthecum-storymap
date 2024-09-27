@@ -26,7 +26,10 @@ freeze: auto
 **Ecological Community**: Freshwater
 
 **Wikipedia summary**:  
-<i><b>Dryopteris expansa</b></i>, the <b>alpine buckler fern</b>, <b>northern buckler-fern</b> or <b>spreading wood fern</b>, is a species of fern native to cool temperate and subarctic regions of the Northern Hemisphere, south at high altitudes in mountains to Spain and Greece in southern Europe, to Japan in eastern Asia, and to central California in North America. The species was first described from Germany. It</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Dryopteris expansa</b></i>, the <b>alpine buckler fern</b>, <b>northern buckler-fern</b> or <b>spreading wood fern</b>, is a species of perennial fern native to cool temperate and subarctic regions of the Northern Hemisphere, south at high altitudes in mountains to Spain and Greece in southern Europe, to Japan in eastern Asia, and to central California in North America. It prefers cool, moist mixed or evergreen</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

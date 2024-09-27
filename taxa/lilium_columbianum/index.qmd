@@ -4,10 +4,10 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/45444/medium.jpg
 image-alt: sxamelexwthelh - Columbia lily
 categories:
-  - Food
-  - Spiritual
-  - Material
-  - Trade
+  - foodValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/45444/medium.jpg){fig-alt="sxamelexwthelh - Columbia lily"}
@@ -23,19 +23,22 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Anthropogenic
 
 **Wikipedia summary**:  
-<i><b>Lilium columbianum</b></i> is a lily native to western North America. It is also known as the <b>Columbia lily</b>, <b>Columbia tiger lily</b>, or simply <b>tiger lily</b> (sharing the latter common name with several other lily species in its genus).
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Lilium columbianum</b></i> is a lily native to western North America. It is also known as the <b>Columbia lily</b>, <b>Columbia tiger lily</b>, or simply <b>tiger lily</b> (sharing the latter common name with several other lily species in its genus).
 
 **Observational Data**:   
 First reported: 2013-06-05  

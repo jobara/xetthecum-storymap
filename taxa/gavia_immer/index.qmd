@@ -1,0 +1,57 @@
+---
+title: swakwun
+engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/54184759/medium.jpg
+image-alt: swakwun - Common Loon
+categories:
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/54184759/medium.jpg){fig-alt="swakwun - Common Loon"}
+
+**Hul'q'umi'num' Name**: swakwun
+
+
+
+**Taxon Name**: Gavia immer
+
+**"Common" Name**: Common Loon
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![foodvalue](/files/foodvalue.svg){width=50px}
+
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
+
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
+
+![materialvalue](/files/materialvalue.svg){width=50px}
+
+![tradevalue](/files/tradevalue.svg){width=50px}
+
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<p class="mw-empty-elt">
+
+</p>
+
+<p>The <b>common loon</b> or <b>great northern diver</b> (<i><b>Gavia immer</b></i>) is a large member of the loon, or diver, family of birds. Breeding adults have a plumage that includes a broad black head and neck with a greenish, purplish, or bluish sheen, blackish or blackish-grey upperparts, and pure white underparts except some black on the undertail coverts and vent. Non-breeding adults are brownish with a dark</p>...
+
+**Observational Data**:   
+First reported: 2023-04-15  
+Source: iNat  
+Last reported: 2023-04-15  
+Source: iNat  
+Obervation count: 1
+
+![](community_dist.png)

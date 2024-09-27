@@ -1,0 +1,53 @@
+---
+title: slhewut'
+engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/113694575/medium.jpeg
+image-alt: slhewut' - Pacific herring
+categories:
+  - foodValue
+  - medicinalValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/113694575/medium.jpeg){fig-alt="slhewut' - Pacific herring"}
+
+**Hul'q'umi'num' Name**: slhewut'
+
+
+
+**Taxon Name**: Clupea pallasii
+
+**"Common" Name**: Pacific herring
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![foodvalue](/files/foodvalue.svg){width=50px}
+
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
+
+![materialvalue](/files/materialvalue.svg){width=50px}
+
+![tradevalue](/files/tradevalue.svg){width=50px}
+
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<p class="mw-empty-elt">
+</p>
+
+<p>The <b>Pacific herring</b> (<i><b>Clupea pallasii</b></i>) is a species of the herring family associated with the Pacific Ocean environment of North America and northeast Asia. It is a silvery fish with unspined fins and a deeply forked caudal fin. The distribution is widely along the California coast from Baja California north to Alaska and the Bering Sea; in Asia the distribution is south to Japan, Korea, and China</p>...
+
+**Observational Data**:   
+First reported: 2023-06-20  
+Source: iNat  
+Last reported: 2023-06-20  
+Source: iNat  
+Obervation count: 1
+
+![](community_dist.png)

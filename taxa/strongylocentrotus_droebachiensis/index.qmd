@@ -4,12 +4,12 @@ engine: knitr
 image: https://static.inaturalist.org/photos/88054286/medium.jpeg
 image-alt: skw'itth'i' - green sea urchin
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/88054286/medium.jpeg){fig-alt="skw'itth'i' - green sea urchin"}
@@ -25,23 +25,26 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Marine
 
 **Wikipedia summary**:  
-<i><b>Strongylocentrotus droebachiensis</b></i> is commonly known as the <b>green sea urchin</b> because of its characteristic green color, not to be confused with <i>Psammechinus miliaris</i> as it is also commonly called the green sea urchin. It is commonly found in northern waters all around the world including both the Pacific and Atlantic Oceans to a northerly latitude of 81 degrees and as far south as Maine </p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Strongylocentrotus droebachiensis</b></i> is commonly known as the <b>green sea urchin</b> because of its characteristic green color, not to be confused with <i>Psammechinus miliaris</i> as it is also commonly called the green sea urchin. It is commonly found in northern waters all around the world including both the Pacific and Atlantic Oceans to a northerly latitude of 81 degrees and as far south as Maine</p>...
 
 **Observational Data**:   
 First reported: 1969-02-21  

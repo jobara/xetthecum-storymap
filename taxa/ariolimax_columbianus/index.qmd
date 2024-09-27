@@ -4,8 +4,8 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/59264526/medium.jpeg
 image-alt: q'iyatl'un - Pacific Banana Slug
 categories:
-  - Medicinal
-  - Spiritual
+  - medicinalValue
+  - spiritualValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/59264526/medium.jpeg){fig-alt="q'iyatl'un - Pacific Banana Slug"}
@@ -21,9 +21,9 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Anthropogenic, Woodlands and rock outcrops
@@ -32,9 +32,9 @@ freeze: auto
 <i><b>Ariolimax columbianus</b></i> or the <b>Pacific banana slug</b> is a species of <i>Ariolimax</i> Banana slug found on the Pacific Coast of North America.
 
 **Observational Data**:   
-First reported: 2020-08-22  
+First reported: 2017-05-26  
 Source: iNat  
-Last reported: 2023-05-27  
+Last reported: 2023-05-28  
 Source: iNat  
 Obervation count: 5
 

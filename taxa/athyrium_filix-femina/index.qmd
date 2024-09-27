@@ -26,7 +26,10 @@ freeze: auto
 **Ecological Community**: Freshwater, Forests, Anthropogenic
 
 **Wikipedia summary**:  
-<i><b>Athyrium filix-femina</b></i>, the <b>lady fern</b> or <b>common lady-fern</b>, is a large, feathery species of fern native to temperate Asia, Europe, North Africa, Canada and the US. It is often abundant (one of the more common ferns) in damp, shady woodland environments and is often grown for decoration.
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Athyrium filix-femina</b></i>, the <b>lady fern</b> or <b>common lady-fern</b>, is a large, feathery species of fern native to temperate Asia, Europe, North Africa, Canada and the US. It is often abundant (one of the more common ferns) in damp, shady woodland environments and is often grown for decoration.
 </p><p>Its common names "lady fern" and "female fern" refer to how its reproductive structures (sori) are</p>...
 
 **Observational Data**:   

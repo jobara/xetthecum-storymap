@@ -1,0 +1,43 @@
+---
+title: sáxw əl
+engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/103778669/medium.jpg
+image-alt: sáxw əl - grasses
+categories:
+
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/103778669/medium.jpg){fig-alt="sáxw əl - grasses"}
+
+**Hul'q'umi'num' Name**: sáxw əl
+
+
+
+**Taxon Name**: Poaceae
+
+**"Common" Name**: grasses
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Freshwater
+
+**Wikipedia summary**:  
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951" />
+<p class="mw-empty-elt">
+
+</p>
+
+<p><b>Poaceae</b> (<span></span>), also called <b>Gramineae</b> (<span></span>), is a large and nearly ubiquitous family of monocotyledonous flowering plants commonly known as <b>grasses</b>. It includes the cereal grasses, bamboos, the grasses of natural grassland and species cultivated in lawns and pasture. The latter are commonly</p>...
+
+**Observational Data**:   
+First reported: 2016-06-05  
+Source: iNat  
+Last reported: 2016-06-05  
+Source: iNat  
+Obervation count: 1
+
+![](community_dist.png)

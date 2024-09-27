@@ -4,9 +4,9 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/1142/medium.jpg
 image-alt: t'eqe' - salal
 categories:
-  - Food
-  - Medicinal
-  - Trade
+  - foodValue
+  - medicinalValue
+  - tradeValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/1142/medium.jpg){fig-alt="t'eqe' - salal"}
@@ -22,11 +22,11 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Anthropogenic, Woodlands and rock outcrops, Freshwater
@@ -35,6 +35,7 @@ freeze: auto
 <p class="mw-empty-elt">
 
 </p>
+
 <p><i><b>Gaultheria shallon</b></i> is an evergreen shrub in the heather family (Ericaceae), native to western North America.  In English, it is known as <b>salal</b>, <b>shallon</b>, or (mainly in Britain) <b>gaultheria</b>.
 
 **Observational Data**:   

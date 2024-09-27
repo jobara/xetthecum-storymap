@@ -1,0 +1,45 @@
+---
+title: tth'uqw'iye
+engine: knitr
+image: https://static.inaturalist.org/photos/247609877/medium.jpg
+image-alt: tth'uqw'iye - Gastropods
+categories:
+  - foodValue
+  - spiritualValue
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/247609877/medium.jpg){fig-alt="tth'uqw'iye - Gastropods"}
+
+**Hul'q'umi'num' Name**: tth'uqw'iye
+
+
+
+**Taxon Name**: Gastropoda
+
+**"Common" Name**: Gastropods
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![foodvalue](/files/foodvalue.svg){width=50px}
+
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<p class="mw-empty-elt">
+</p>
+
+<p><b>Gastropods</b> (<span></span>), commonly known as <b>slugs and snails</b>, belong to a large taxonomic class of invertebrates within the phylum Mollusca called <b>Gastropoda</b> (<span></span>).
+</p><p>This class comprises snails and slugs from saltwater, freshwater, and from the land. There are many thousands of species of sea snails and slugs, as well as freshwater snails, freshwater limpets, land snails and</p>...
+
+**Observational Data**:   
+First reported: 2019-05-04  
+Source: iNat  
+Last reported: 2021-04-18  
+Source: iNat  
+Obervation count: 3
+
+![](community_dist.png)

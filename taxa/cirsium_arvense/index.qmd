@@ -1,13 +1,13 @@
 ---
 title: xəw’xəwíłp
 engine: knitr
-image: https://inaturalist-open-data.s3.amazonaws.com/photos/42462240/medium.jpg
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/21270271/medium.jpeg
 image-alt: xəw’xəwíłp - creeping thistle
 categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/42462240/medium.jpg){fig-alt="xəw’xəwíłp - creeping thistle"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/21270271/medium.jpeg){fig-alt="xəw’xəwíłp - creeping thistle"}
 
 **Hul'q'umi'num' Name**: xəw’xəwíłp
 
@@ -26,7 +26,11 @@ freeze: auto
 **Ecological Community**: Anthropogenic, Forests
 
 **Wikipedia summary**:  
-<i><b>Cirsium arvense</b></i> is a perennial species of flowering plant in the family Asteraceae, native throughout Europe and western Asia, northern Africa and widely introduced elsewhere. The standard English name in its native area is <b>creeping thistle</b>. It is also commonly known as <b>Canada thistle</b> and <b>field thistle</b>.</p><p>The plant is beneficial for pollinators that rely on nectar. It also was</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Cirsium arvense</b></i> is a perennial species of flowering plant in the family Asteraceae, native throughout Europe and western Asia, northern Africa and widely introduced elsewhere. The standard English name in its native area is <b>creeping thistle</b>. It is also commonly known as <b>Canada thistle</b> and <b>field thistle</b>.
+</p><p>The plant is beneficial for pollinators that rely on nectar. It also was</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

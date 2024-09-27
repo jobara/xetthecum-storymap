@@ -1,0 +1,42 @@
+---
+title: xəw’xəwíłp
+engine: knitr
+image: https://static.inaturalist.org/photos/114124015/medium.jpg
+image-alt: xəw’xəwíłp - Short-styled Thistle
+categories:
+
+freeze: auto
+---
+![](https://static.inaturalist.org/photos/114124015/medium.jpg){fig-alt="xəw’xəwíłp - Short-styled Thistle"}
+
+**Hul'q'umi'num' Name**: xəw’xəwíłp
+
+
+
+**Taxon Name**: Cirsium brevistylum
+
+**"Common" Name**: Short-styled Thistle
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+
+:::
+
+**Ecological Community**: Forests
+
+**Wikipedia summary**:  
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Cirsium brevistylum</b></i> is a species of thistle known by the common names <b>Indian thistle</b> and <b>clustered thistle</b>. It is native to western North America having been found in southwestern British Columbia, Washington, Oregon, Idaho, Montana, and California.
+</p><p><i>Cirsium brevistylum</i> grows in moist areas in many types of habitat, from mountain forests to chaparral and coastal marshes. This</p>...
+
+**Observational Data**:   
+First reported: 2023-05-27  
+Source: iNat  
+Last reported: 2023-05-27  
+Source: iNat  
+Obervation count: 1
+
+![](community_dist.png)

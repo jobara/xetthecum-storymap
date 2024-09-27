@@ -4,9 +4,9 @@ engine: knitr
 image: https://static.inaturalist.org/photos/33215492/medium.jpeg
 image-alt: suniiulhp / lulutth'sulhp - Oregon grape
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
+  - foodValue
+  - medicinalValue
+  - spiritualValue
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/33215492/medium.jpeg){fig-alt="suniiulhp / lulutth'sulhp - Oregon grape"}
@@ -22,22 +22,26 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Woodlands and rock outcrops, Freshwater
 
 **Wikipedia summary**:  
-<i><b>Berberis aquifolium</b></i>, the <b>Oregon grape</b> or <b>holly-leaved barberry</b>, is a species of flowering plant in the family Berberidaceae, native to western North America. It is an evergreen shrub growing 1–3 meters (3–10 feet) tall and 1.5&#160;m (5&#160;ft) wide, with pinnate leaves consisting of spiny leaflets, and dense clusters of yellow flowers in early spring, followed by dark bluish-black berries.</p><p class="mw-empty-elt"></p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Berberis aquifolium</b></i>, the <b>Oregon grape</b> or <b>holly-leaved barberry</b>, is a species of flowering plant in the family Berberidaceae, native to western North America. It is an evergreen shrub growing 1–3 meters (3–10 feet) tall and 1.5&#160;m (5&#160;ft) wide, with pinnate leaves consisting of spiny leaflets, and dense clusters of yellow flowers in early spring, followed by dark bluish-black berries.
+</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2023-05-27  
+Last reported: 2023-05-28  
 Source: iNat  
 Obervation count: 9
 

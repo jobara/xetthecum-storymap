@@ -1,16 +1,16 @@
 ---
 title: ey'x
 engine: knitr
-image: https://inaturalist-open-data.s3.amazonaws.com/photos/138356832/medium.jpeg
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/405212504/medium.jpeg
 image-alt: ey'x - Dungeness crab
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Trade
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/138356832/medium.jpeg){fig-alt="ey'x - Dungeness crab"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/405212504/medium.jpeg){fig-alt="ey'x - Dungeness crab"}
 
 **Hul'q'umi'num' Name**: ey'x
 
@@ -23,28 +23,28 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 :::
 
 **Ecological Community**: Marine
 
 **Wikipedia summary**:  
-The <b>Dungeness crab</b> (<i><b>Metacarcinus magister</b></i>) is a species of crab inhabiting eelgrass beds and water bottoms along the west coast of North America. It typically grows to 20&#160;cm (7.9&#160;in) across the carapace and is a popular seafood. Its common name comes from Dungeness Spit, United States, which shelters a shallow bay inhabited by the crabs.</p>
+<p class="mw-empty-elt">
+</p>
 
-
-
+<p>The <b>Dungeness crab</b> (<i><b>Metacarcinus magister</b></i>) makes up one of the most important seafood industries along the west coast of North America. Its typical range extends from Alaska's Aleutian Islands to Point Conception, near Santa Barbara, California. Dungeness typically grow 6–7&#160;in (150–180&#160;mm) at their widest point and inhabit eelgrass beds and sandy bottoms. Its common name comes from the Dungeness</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2019-05-04  
-Source: dataPaper  
+Last reported: 2023-07-03  
+Source: iNat  
 Obervation count: 5
 
 ![](community_dist.png)

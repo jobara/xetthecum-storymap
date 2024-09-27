@@ -4,9 +4,9 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/149174235/medium.jpeg
 image-alt: suqeen - common bracken
 categories:
-  - Food
-  - Medicinal
-  - Material
+  - foodValue
+  - medicinalValue
+  - materialValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/149174235/medium.jpeg){fig-alt="suqeen - common bracken"}
@@ -22,17 +22,20 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Freshwater, Anthropogenic
 
 **Wikipedia summary**:  
-<i><b>Pteridium aquilinum</b></i>, commonly called <b>bracken</b>, <b>brake</b>, <b>common bracken</b>, and also known as <b>eagle fern</b>, is a species of fern occurring in temperate and subtropical regions in both hemispheres. Originally native to Eurasia and North America, the extreme lightness of its spores has led to it achieving a cosmopolitan distribution.
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Pteridium aquilinum</b></i>, commonly called <b>bracken</b>, <b>brake</b>, <b>pasture brake, common bracken</b>, and also known as <b>eagle fern</b>, is a species of fern occurring in temperate and subtropical regions in both hemispheres. Originally native to Eurasia and North America, the extreme lightness of its spores has led to it achieving a cosmopolitan distribution.
 
 **Observational Data**:   
 First reported: 2010-05-22  

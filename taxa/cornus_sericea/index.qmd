@@ -26,12 +26,15 @@ freeze: auto
 **Ecological Community**: Freshwater, Anthropogenic
 
 **Wikipedia summary**:  
-<i><b>Cornus sericea</b></i>, the <b>red osier</b> or <b>red-osier dogwood</b>, is a species of flowering plant in the family Cornaceae, native to much of North America. It has sometimes been considered a synonym of the Asian species <i>Cornus alba</i>. Other names include <b>red brush, red willow</b>, <b>redstem dogwood</b>, <b>redtwig dogwood, red-rood, American dogwood, creek dogwood</b>, and <b>western dogwood</b></p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Cornus sericea</b></i>, the <b>red osier</b> or <b>red-osier dogwood</b>, is a species of flowering plant in the family Cornaceae, native to much of North America. It has sometimes been considered a synonym of the Asian species <i>Cornus alba</i>. Other names include <b>red brush, red willow</b>, <b>redstem dogwood</b>, <b>redtwig dogwood, red-rood, American dogwood, creek dogwood</b>, and <b>western dogwood</b></p>...
 
 **Observational Data**:   
 First reported: 2018-05-13  
 Source: iNat  
-Last reported: 2018-05-13  
+Last reported: 2020-07-09  
 Source: iNat  
 Obervation count: 2
 

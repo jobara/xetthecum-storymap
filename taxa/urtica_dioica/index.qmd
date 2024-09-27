@@ -4,10 +4,10 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/144861756/medium.jpeg
 image-alt: tth'uxtth'ux - great stinging nettle
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - materialValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/144861756/medium.jpeg){fig-alt="tth'uxtth'ux - great stinging nettle"}
@@ -23,22 +23,23 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Freshwater, Anthropogenic, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096" />
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951" />
 <p class="mw-empty-elt">
 
 </p>
+
 <p><i><b>Urtica dioica</b></i>, often known as <b>common nettle</b>, <b>burn nettle</b>, <b>stinging nettle</b> (although not all plants of this species sting) or <b>nettle leaf</b>, or just a <b>nettle</b> or <b>stinger</b>, is a herbaceous perennial flowering plant in the family Urticaceae. Originally native to Europe, much of temperate</p>...
 
 **Observational Data**:   

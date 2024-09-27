@@ -1,15 +1,15 @@
 ---
 title: q'ul-lhanamutsum
 engine: knitr
-image: https://inaturalist-open-data.s3.amazonaws.com/photos/153239969/medium.jpg
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/360303852/medium.jpg
 image-alt: q'ul-lhanamutsum - killer whale
 categories:
-  - Medicinal
-  - Spiritual
-  - Indicator
+  - medicinalValue
+  - spiritualValue
+  - indicatorValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/153239969/medium.jpg){fig-alt="q'ul-lhanamutsum - killer whale"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/360303852/medium.jpg){fig-alt="q'ul-lhanamutsum - killer whale"}
 
 **Hul'q'umi'num' Name**: q'ul-lhanamutsum
 
@@ -22,23 +22,24 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Marine
 
 **Wikipedia summary**:  
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096" />
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951" />
 <p class="mw-empty-elt">
 
 
 
 </p>
-<p>The <b>orca</b> (<i><b>Orcinus orca</b></i>), or <b>killer whale</b>, is a toothed whale that is the largest member of the oceanic dolphin family. It is the only extant species in the genus <i>Orcinus</i>. Orcas are recognizable by their black-and-white patterned body. A cosmopolitan species, orcas are found in diverse marine environments</p>...
+
+<p>The <b>orca</b> (<i><b>Orcinus orca</b></i>), or <b>killer whale</b>, is a toothed whale that is the largest member of the oceanic dolphin family. It is the only extant species in the genus <i>Orcinus</i>. Orcas are recognizable by their black-and-white patterned body. A cosmopolitan species, they are found in diverse marine environments</p>...
 
 **Observational Data**:   
 First reported: 2004-04-23  

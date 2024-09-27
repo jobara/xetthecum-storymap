@@ -26,7 +26,10 @@ freeze: auto
 **Ecological Community**: Forests, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
-<i><b>Fritillaria affinis</b></i>, the <b>chocolate lily</b>, is a highly variable species of flowering plant in the lily family Liliaceae native to western North America.
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Fritillaria affinis</b></i>, the <b>chocolate lily</b>, is a highly variable species of flowering plant in the lily family Liliaceae native to western North America.
 
 **Observational Data**:   
 First reported: 2010-05-22  

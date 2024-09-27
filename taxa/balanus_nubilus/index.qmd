@@ -4,10 +4,10 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/4306270/medium.jpg
 image-alt: qumine' - giant acorn barnacle
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Trade
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - tradeValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/4306270/medium.jpg){fig-alt="qumine' - giant acorn barnacle"}
@@ -23,19 +23,23 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 :::
 
 **Ecological Community**: Marine
 
 **Wikipedia summary**:  
-<i><b>Balanus nubilus</b></i>, commonly called the <b>giant acorn barnacle</b>, is the world's largest barnacle, reaching a diameter of 15&#160;cm (6&#160;in) and a height of up to 30&#160;cm (12&#160;in), and containing the largest known muscle fibres.</p><p><i>Balanus nubilus</i> is a northeast Pacific species that ranges from southern Alaska to Baja California. It is frequently found growing on rocks, pier pilings and hard-shelled</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Balanus nubilus</b></i>, commonly called the <b>giant acorn barnacle</b>, is the world's largest barnacle, reaching a diameter of 15&#160;cm (6&#160;in) and a height of up to 30&#160;cm (12&#160;in), and containing the largest known muscle fibres.
+</p><p><i>Balanus nubilus</i> is a northeast Pacific species that ranges from southern Alaska to Baja California. It is frequently found growing on rocks, pier pilings and hard-shelled</p>...
 
 **Observational Data**:   
 First reported: 1969-02-21  

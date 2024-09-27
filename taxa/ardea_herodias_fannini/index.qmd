@@ -4,11 +4,11 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/medium.jpg
 image-alt: smuqw'a' - Northwest Coast Great Blue Heron
 categories:
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/medium.jpg){fig-alt="smuqw'a' - Northwest Coast Great Blue Heron"}
@@ -24,22 +24,25 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Anthropogenic
 
 **Wikipedia summary**:  
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096" />
-The <b>great blue heron</b> (<i><b>Ardea herodias</b></i>) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Galápagos Islands. It is occasionally found in the Azores and is</p>...
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951" />
+<p class="mw-empty-elt">
+</p>
+
+<p>The <b>great blue heron</b> (<i><b>Ardea herodias</b></i>) is a large wading bird in the heron family Ardeidae, common near the shores of open water and in wetlands over most of North and Central America, as well as far northwestern South America, the Caribbean and the Galápagos Islands. It is occasionally found in the Azores and is</p>...
 
 **Observational Data**:   
 First reported: 2017-05-25  

@@ -4,12 +4,12 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/249990599/medium.jpeg
 image-alt: sqwul'ew' - American Beaver
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/249990599/medium.jpeg){fig-alt="sqwul'ew' - American Beaver"}
@@ -25,17 +25,17 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Freshwater
@@ -44,7 +44,10 @@ freeze: auto
 <p class="mw-empty-elt">
 </p>
 
-The <b>North American beaver</b> (<i><b>Castor canadensis</b></i>) is one of two extant beaver species, along with the Eurasian beaver (<i>Castor fiber</i>). It is native to North America and has been introduced in South America (Patagonia) and Europe (primarily Finland and Karelia). The North American beaver is one of the official national wildlife of Canada symbols and is the official</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p>The <b>North American beaver</b> (<i><b>Castor canadensis</b></i>) is one of two extant beaver species, along with the Eurasian beaver (<i>Castor fiber</i>). It is native to North America and has been introduced in South America (Patagonia) and Europe (primarily Finland and Karelia). The North American beaver is one of the official national wildlife of Canada symbols and is the official</p>...
 
 **Observational Data**:   
 First reported: 2021-02-06  

@@ -1,15 +1,15 @@
 ---
 title: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp
 engine: knitr
-image: https://inaturalist-open-data.s3.amazonaws.com/photos/147408582/medium.jpg
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/85721919/medium.jpg
 image-alt: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp - Common Snowberry
 categories:
-  - Medicinal
-  - Spiritual
-  - Material
+  - medicinalValue
+  - spiritualValue
+  - materialValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/147408582/medium.jpg){fig-alt="p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp - Common Snowberry"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/85721919/medium.jpg){fig-alt="p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp - Common Snowberry"}
 
 **Hul'q'umi'num' Name**: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp
 
@@ -22,22 +22,25 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Anthropogenic, Forests, Freshwater
 
 **Wikipedia summary**:  
-<i><b>Symphoricarpos albus</b></i> is a species of flowering plant in the honeysuckle family known by the common name <b>common snowberry</b>. Native to North America, it is browsed by some animals and planted for ornamental and ecological purposes, but is poisonous to humans.
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Symphoricarpos albus</b></i> is a species of flowering plant in the honeysuckle family known by the common name <b>common snowberry</b>. Native to North America, it is browsed by some animals and planted for ornamental and ecological purposes, but is poisonous to humans.
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2018-10-20  
+Last reported: 2023-05-31  
 Source: iNat  
 Obervation count: 6
 

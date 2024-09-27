@@ -4,10 +4,10 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/134106423/medium.jpg
 image-alt: stsi'yu - woodland strawberry
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Trade
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - tradeValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/134106423/medium.jpg){fig-alt="stsi'yu - woodland strawberry"}
@@ -23,19 +23,23 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 :::
 
 **Ecological Community**: Freshwater, Anthropogenic, Forests
 
 **Wikipedia summary**:  
-<i><b>Fragaria vesca</b></i>, commonly called the <b>wild strawberry</b>, <b>woodland strawberry</b>, <b>Alpine strawberry</b>, <b>Carpathian strawberry</b> or <b>European strawberry</b>, is a perennial herbaceous plant in the  rose family that grows naturally throughout much of the Northern Hemisphere, and that produces edible fruits.</p><p>The Latin specific epithet <i>vesca</i> may mean "thin, feeble", however it</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Fragaria vesca</b></i>, commonly called the <b>wild strawberry</b>, <b>woodland strawberry</b>, <b>Alpine strawberry</b>, <b>Carpathian strawberry</b> or <b>European strawberry</b>, is a perennial herbaceous plant in the  rose family that grows naturally throughout much of the Northern Hemisphere, and that produces edible fruits.
+</p><p>The Latin specific epithet <i>vesca</i> may mean "thin, feeble", however</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

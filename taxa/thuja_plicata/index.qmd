@@ -4,8 +4,8 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/7846522/medium.jpeg
 image-alt: xpey' - western redcedar
 categories:
-  - Spiritual
-  - Material
+  - spiritualValue
+  - materialValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/7846522/medium.jpeg){fig-alt="xpey' - western redcedar"}
@@ -21,9 +21,9 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Freshwater, Forests, Anthropogenic
@@ -32,7 +32,8 @@ freeze: auto
 <p class="mw-empty-elt">
 
 </p>
-<p><i><b>Thuja plicata</b></i> is a large evergreen coniferous tree in the family Cupressaceae, native to the Pacific Northwest of North America. Its common name is <b>western redcedar</b> in the U.S. or <b>western red cedar</b> in the UK, and it is also called <b>pacific red cedar</b>, <b>giant arborvitae</b>, <b>western arborvitae</b>, just <b>cedar</b>, <b>giant cedar</b>, or <b>shinglewood</b>. It is not a true cedar</p>...
+
+<p><i><b>Thuja plicata</b></i> is a large evergreen coniferous tree in the family Cupressaceae, native to the Pacific Northwest of North America. Its common name is <b>western redcedar</b> in the U.S. or <b>western red cedar</b> in the UK, and it is also called <b>pacific red cedar</b>, <b>giant arborvitae</b>, <b>western arborvitae</b>, just <b>cedar</b>, <b>giant cedar</b>, or <b>shinglewood</b>. It is not a true</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

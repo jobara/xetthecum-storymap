@@ -26,13 +26,16 @@ freeze: auto
 **Ecological Community**: Freshwater, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
-<i><b>Lysichiton americanus</b></i>, also called <b>western skunk cabbage</b> (US), <b>yellow skunk cabbage</b> (UK), <b>American skunk-cabbage</b> (Britain and Ireland) or <b>swamp lantern</b>, is a plant found in swamps and wet woods, along streams and in other wet areas of the Pacific Northwest, where it is one of the few native species in the arum family.
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Lysichiton americanus</b></i>, also called <b>western skunk cabbage</b> (US), <b>yellow skunk cabbage</b> (UK), <b>American skunk-cabbage</b> (Britain and Ireland) or <b>swamp lantern</b>, is a plant found in swamps and wet woods, along streams and in other wet areas of the Pacific Northwest, where it is one of the few native species in the arum family.
 </p><p>The plant is called skunk cabbage because of the</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2023-05-27  
+Last reported: 2024-03-24  
 Source: iNat  
 Obervation count: 4
 

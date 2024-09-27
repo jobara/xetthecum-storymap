@@ -1,0 +1,51 @@
+---
+title: t'emkw'
+engine: knitr
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/252526503/medium.jpg
+image-alt: t'emkw' - Ray-finned Fishes
+categories:
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - tradeValue
+freeze: auto
+---
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/252526503/medium.jpg){fig-alt="t'emkw' - Ray-finned Fishes"}
+
+**Hul'q'umi'num' Name**: t'emkw'
+
+
+
+**Taxon Name**: Actinopterygii
+
+**"Common" Name**: Ray-finned Fishes
+
+**Cultural Values**:  
+
+::: {layout-nrow=1 style="width:60%"}
+![foodvalue](/files/foodvalue.svg){width=50px}
+
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
+
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
+
+![tradevalue](/files/tradevalue.svg){width=50px}
+:::
+
+**Ecological Community**: Marine
+
+**Wikipedia summary**:  
+<p class="mw-empty-elt">
+
+</p>
+
+<p><b>Actinopterygii</b> (<span></span>; from <i> <i lang="mul">actino-</i></i>&#160;'having rays' and Ancient Greek <i> </i><span lang="grc">πτέρυξ</span><i> (ptérux)</i>&#160;'wing, fins'), members of which are known as <b>ray-finned fish</b> or <b>actinopterygians</b>, is a class of bony fish that comprise over 50% of living vertebrate species. They are so called because of their lightly built fins made of webbings of skin</p>...
+
+**Observational Data**:   
+First reported: 2021-02-21  
+Source: iNat  
+Last reported: 2024-04-17  
+Source: iNat  
+Obervation count: 4
+
+![](community_dist.png)

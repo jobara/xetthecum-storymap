@@ -4,9 +4,9 @@ engine: knitr
 image: https://static.inaturalist.org/photos/181302737/medium.jpeg
 image-alt: tl'ikw'iyelhp - bearberry
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
+  - foodValue
+  - medicinalValue
+  - spiritualValue
 freeze: auto
 ---
 ![](https://static.inaturalist.org/photos/181302737/medium.jpeg){fig-alt="tl'ikw'iyelhp - bearberry"}
@@ -22,17 +22,20 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests
 
 **Wikipedia summary**:  
-<i><b>Arctostaphylos uva-ursi</b></i> is a plant species of the genus <i>Arctostaphylos</i> widely distributed across circumboreal regions of the subarctic Northern Hemisphere. <b>Kinnikinnick</b> (from the Unami for "smoking mixture") is a common name in Canada and the United States. Growing up to 30 centimetres (12 inches) in height, the leaves are evergreen. The flowers are white to pink and the fruit is a red berry</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Arctostaphylos uva-ursi</b></i> is a plant species of the genus <i>Arctostaphylos</i> widely distributed across circumboreal regions of the subarctic Northern Hemisphere. <b>Kinnikinnick</b> (from the Unami for "smoking mixture") is a common name in Canada and the United States. Growing up to 30 centimetres (12 inches) in height, the leaves are evergreen. The flowers are white to pink and the fruit is a red</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

@@ -27,8 +27,6 @@ freeze: auto
 
 **Wikipedia summary**:  
 <p class="mw-empty-elt">
-
-</p>
 <p><i><b>Equisetum arvense</b></i>, the <b>field horsetail</b> or <b>common horsetail</b>, is an herbaceous perennial plant in the Equisetidae (horsetails) sub-class, native throughout the arctic and temperate regions of the Northern Hemisphere. It has separate sterile non-reproductive and fertile spore-bearing stems growing from a perennial underground rhizomatous stem system. The fertile stems are produced in early</p>...
 
 **Observational Data**:   

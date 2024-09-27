@@ -4,11 +4,11 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/9248407/medium.jpeg
 image-alt: qaanlhp - Pacific madrone
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
-  - Material
-  - Indicator
+  - foodValue
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - indicatorValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/9248407/medium.jpeg){fig-alt="qaanlhp - Pacific madrone"}
@@ -24,15 +24,15 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Anthropogenic, Forests, Woodlands and rock outcrops, Freshwater
@@ -40,8 +40,11 @@ freeze: auto
 **Wikipedia summary**:  
 <p class="mw-empty-elt">
 
-</p><i><b>Arbutus menziesii</b></i> or <b>Pacific madrone</b> (commonly <b>madrone</b> or <b>madrona</b> in the United States and <b>arbutus</b> in Canada), is a species of broadleaf evergreen tree in the family Ericaceae, native to the western coastal areas of North America, from British Columbia to California.
-It is nicknamed the "Refrigerator Tree" due to the fact that its bark contains</p>...
+</p><p class="mw-empty-elt">
+</p>
+
+<p><i><b>Arbutus menziesii</b></i>, or <b>Pacific madrone</b> (commonly <b>madrone</b> or <b>madrona</b> in the United States and <b>arbutus</b> in Canada), is a species of broadleaf evergreen tree in the family Ericaceae. It has waxy foliage, a contorted growth habit, and flaky bark.
+</p><p>It is native to the western coastal areas of North America, from British Columbia to California.</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

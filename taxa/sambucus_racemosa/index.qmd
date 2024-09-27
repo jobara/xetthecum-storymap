@@ -4,9 +4,9 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/149058839/medium.jpeg
 image-alt: tth'iwuq' - red-berried elder
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
+  - foodValue
+  - medicinalValue
+  - spiritualValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/149058839/medium.jpeg){fig-alt="tth'iwuq' - red-berried elder"}
@@ -22,25 +22,25 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Freshwater, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
-<i><b>Sambucus racemosa</b></i> is a species of elderberry known by the common names <b>red elderberry</b> and <b>red-berried elder</b>.</p>
+<p class="mw-empty-elt">
+</p>
 
-
-
+<p><i><b>Sambucus racemosa</b></i> is a species of elderberry known by the common names <b>red elderberry</b> and <b>red-berried elder</b>.
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2021-08-08  
+Last reported: 2023-05-27  
 Source: iNat  
 Obervation count: 4
 

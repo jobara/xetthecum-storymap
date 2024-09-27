@@ -1,17 +1,17 @@
 ---
 title: yuxwule'
 engine: knitr
-image: https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/medium.jpg
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/341016703/medium.jpeg
 image-alt: yuxwule' - Bald Eagle
 categories:
-  - Medicinal
-  - Spiritual
-  - Material
-  - Trade
-  - Indicator
+  - medicinalValue
+  - spiritualValue
+  - materialValue
+  - tradeValue
+  - indicatorValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/medium.jpg){fig-alt="yuxwule' - Bald Eagle"}
+![](https://inaturalist-open-data.s3.amazonaws.com/photos/341016703/medium.jpeg){fig-alt="yuxwule' - Bald Eagle"}
 
 **Hul'q'umi'num' Name**: yuxwule'
 
@@ -24,25 +24,27 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 
-![material](/files/material.svg){width=50px}
+![materialvalue](/files/materialvalue.svg){width=50px}
 
-![trade](/files/trade.svg){width=50px}
+![tradevalue](/files/tradevalue.svg){width=50px}
 
-![indicator](/files/indicator.svg){width=50px}
+![indicatorvalue](/files/indicatorvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Forests, Marine, Freshwater, Woodlands and rock outcrops
 
 **Wikipedia summary**:  
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951" />
 <p class="mw-empty-elt">
 
 
 </p>
-<p>The <b>bald eagle</b> (<i><b>Haliaeetus leucocephalus</b></i>) is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle (<i>Haliaeetus albicilla</i>), which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico. It is found near</p>...
+
+<p>The <b>bald eagle</b> (<i><b>Haliaeetus leucocephalus</b></i>) is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle (<i>Haliaeetus albicilla</i>), which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

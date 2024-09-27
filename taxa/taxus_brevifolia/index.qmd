@@ -26,7 +26,10 @@ freeze: auto
 **Ecological Community**: Forests, Anthropogenic
 
 **Wikipedia summary**:  
-<i><b>Taxus brevifolia</b></i>, the <b>Pacific yew</b> or <b>western yew</b>, is a species of tree in the yew family Taxaceae native to the Pacific Northwest of North America. It is a small evergreen conifer, thriving in moisture and otherwise tending to take the form of a shrub.
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Taxus brevifolia</b></i>, the <b>Pacific yew</b> or <b>western yew</b>, is a species of tree in the yew family Taxaceae native to the Pacific Northwest of North America. It is a small evergreen conifer, thriving in moisture and otherwise tending to take the form of a shrub.
 
 **Observational Data**:   
 First reported: 2010-05-22  

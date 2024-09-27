@@ -26,7 +26,10 @@ freeze: auto
 **Ecological Community**: Woodlands and rock outcrops
 
 **Wikipedia summary**:  
-<i><b>Vicia nigricans</b></i> is a species of vetch known by the common name <b>black vetch</b>. It has a disjunct distribution, its two subspecies divided by thousands of miles in range. The northern subspecies, ssp. <i>gigantea</i> (<b>giant vetch</b>), is native to western North America from Alaska to northern California, where it occurs in coastal and moist inland habitat and disturbed areas. The southern subspecies</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Vicia nigricans</b></i> is a species of vetch known by the common name <b>black vetch</b>. It has a disjunct distribution, its two subspecies divided by thousands of miles in range. The northern subspecies, ssp. <i>gigantea</i> (<b>giant vetch</b>), is native to western North America from Alaska to northern California, where it occurs in coastal and moist inland habitat and disturbed areas. The southern subspecies</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  

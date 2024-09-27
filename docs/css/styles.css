@@ -132,6 +132,25 @@ p {
   object-position: 85%;
 }
 
+.background-image {
+  background-position: center;
+  background-size: cover;
+}
+
+.floating-text {
+  background-color: rgba(245, 251, 219, 0.9);
+  padding-block-start: 0.5em;
+  padding-inline: 3em;
+  margin-block: clamp(1.5em, calc(100vw / 20), 5em);
+}
+
+.floating-text .btn {
+  background-color: var(--bs-body-color);
+  color: rgba(245, 251, 219, 1);
+  font-size: 1.2em;
+  margin-inline: 0;
+}
+
 @media(max-width: 600px){
   .blurb-container{
    flex-direction: column;

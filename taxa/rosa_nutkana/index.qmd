@@ -4,9 +4,9 @@ engine: knitr
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/26171318/medium.jpg
 image-alt: qel'qulhp - Nootka rose
 categories:
-  - Food
-  - Medicinal
-  - Spiritual
+  - foodValue
+  - medicinalValue
+  - spiritualValue
 freeze: auto
 ---
 ![](https://inaturalist-open-data.s3.amazonaws.com/photos/26171318/medium.jpg){fig-alt="qel'qulhp - Nootka rose"}
@@ -22,23 +22,27 @@ freeze: auto
 **Cultural Values**:  
 
 ::: {layout-nrow=1 style="width:60%"}
-![food](/files/food.svg){width=50px}
+![foodvalue](/files/foodvalue.svg){width=50px}
 
-![medicinal](/files/medicinal.svg){width=50px}
+![medicinalvalue](/files/medicinalvalue.svg){width=50px}
 
-![spiritual](/files/spiritual.svg){width=50px}
+![spiritualvalue](/files/spiritualvalue.svg){width=50px}
 :::
 
 **Ecological Community**: Anthropogenic, Woodlands and rock outcrops, Marine, Forests
 
 **Wikipedia summary**:  
-<i><b>Rosa nutkana</b></i>, the <b>Nootka rose</b>, <b>bristly rose</b>, or <b>wild rose</b> is a 0.6–3.0-metre-tall (2–10-foot) perennial shrub in the rose family (Rosaceae).</p><p>The species name <i>nootka</i> comes from the Nootka Sound of Vancouver Island, where the plant was first described. This plant is native to Western North America.  There are 2 varieties:  <i>hispida</i> grows in the Intermountain West</p>...
+<p class="mw-empty-elt">
+</p>
+
+<p><i><b>Rosa nutkana</b></i>, the <b>Nootka rose</b>, <b>bristly rose</b>, or <b>wild rose</b> is a 0.6–3.0-metre-tall (2–10-foot) perennial shrub in the rose family (Rosaceae).
+</p><p>The species name <i>nootka</i> comes from the Nootka Sound of Vancouver Island, where the plant was first described. This plant is native to Western North America.  There are 2 varieties:  <i>hispida</i> grows in the Intermountain West</p>...
 
 **Observational Data**:   
 First reported: 2010-05-22  
 Source: Hunterston  
-Last reported: 2010-05-22  
-Source: Hunterston  
+Last reported: 2023-05-27  
+Source: iNat  
 Obervation count: 9
 
 ![](community_dist.png)
