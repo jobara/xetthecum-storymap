@@ -2,7 +2,7 @@ library(tidyverse)
 
 taxa <- read_csv('https://raw.githubusercontent.com/IMERSS/imerss-bioinfo/main/data/Xetthecum/reintegrated-withImages.csv') %>%
   rowwise() %>%
-  filter(!is.na(`Hulquminum Name`)) %>%
+  filter(!is.na(hulquminumName)) %>%
   mutate(wikipediaSummary = gsub('<p class=\"mw-empty-elt\">\n</p>\n<p>', '', wikipediaSummary),
          wikipediaSummary = gsub('\n</p>\n\n\n', '', wikipediaSummary))
 
@@ -24,7 +24,7 @@ list_values <- function(row){
     select(ends_with('value')) %>%
     rename_with(~gsub(" Value", "", .)) %>%
     pivot_longer(everything()) %>%
-    filter(value >0) %>%
+    filter(value > 0) %>%
     pull(name) %>%
     paste(collapse ='\n  - ')
 
@@ -47,7 +47,7 @@ icon_values <- function(row){
 
 make_audio <- function(row){
   fn <- row %>%
-    mutate(fn = gsub('\'', '_', `Hulquminum Name`),
+    mutate(fn = gsub('\'', '_', hulquminumName),
            fn = paste0(fn, '_Levi_Wilson_&_Emily_Menzies_Galiano_Island_2022-02-20.mp3')) %>%
     pull(fn)
 
@@ -96,20 +96,20 @@ make_page <- function(row, obs){
   make_community_plot(row, parent, obs)
   contents <- paste0(
     '---\ntitle: ',
-    row["Hulquminum Name"],
+    row["hulquminumName"],
     '\nengine: knitr',
     '\nimage: ',
     row["iNaturalistTaxonImage"],
     '\nimage-alt: ',
-    row["Hulquminum Name"],
+    row["hulquminumName"],
     ' - ',
     row["commonName"],
     '\ncategories:\n',
     list_values(row),
     '\nfreeze: auto',
     '\n---\n',
-    '![](', row$iNaturalistTaxonImage, '){fig-alt=\"', row["Hulquminum Name"], ' - ', row["commonName"], "\"}",
-    "\n\n**Hul'q'umi'num' Name**: ", row["Hulquminum Name"],
+    '![](', row$iNaturalistTaxonImage, '){fig-alt=\"', row["hulquminumName"], ' - ', row["commonName"], "\"}",
+    "\n\n**Hul'q'umi'num' Name**: ", row["hulquminumName"],
     "\n\n", make_audio(row),
     "\n\n**Taxon Name**: ", row["Taxon name"],
     "\n\n**\"Common\" Name**: ", row["commonName"],
