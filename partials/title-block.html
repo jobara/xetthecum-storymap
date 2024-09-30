@@ -1,0 +1,30 @@
+$if(banner)$
+<div class="column-screen">
+    <div class="hero-banner hero-banner-empty" style="background-image: url('$banner$');">
+
+    </div>
+</div>
+$endif$
+<header id="title-block-header" class="quarto-title-block default">
+    $if(title)$
+        <div class="quarto-title">
+            <h1 class="title">$title$</h1>
+        </div>
+    $endif$
+    $if(subtitle)$
+    <p class="subtitle">$subtitle$</p>
+    $endif$
+    $for(author)$
+    <p class="author">$author$</p>
+    $endfor$
+
+    $if(date)$
+    <p class="date">$date$</p>
+    $endif$
+    $if(abstract)$
+    <div class="abstract">
+        <div class="abstract-title">$abstract-title$</div>
+        $abstract$
+    </div>
+    $endif$
+</header>

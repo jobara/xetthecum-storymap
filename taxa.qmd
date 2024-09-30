@@ -7,10 +7,9 @@ listing:
   #filter-ui: [categories]
   fields: [title, image, categories]
   image-height: 200px
+title: Browse all Species
 sidebar: false
 ---
-
-# Browse all species
 
 :::{#main-listing}
 :::

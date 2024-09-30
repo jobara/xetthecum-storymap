@@ -47,6 +47,10 @@ h2, .h2 {
   text-align: center;
 }
 
+.hero-banner-empty {
+  margin-block-end: 2em;
+}
+
 .hero-text {
   font-size: clamp(1rem, 5vw, 4rem);
   background: rgba(245,251,219, 0.8);
