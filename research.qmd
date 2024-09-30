@@ -1,6 +1,7 @@
 ---
 engine: knitr
 title: Research
+sidebar: false
 ---
 
 ## Works Cited
