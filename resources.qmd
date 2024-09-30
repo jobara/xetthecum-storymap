@@ -11,7 +11,7 @@ engine: knitr
 
 ## Xetthecum Resources
 
-* [Cultural Safety and Humility](https://docs.google.com/document/d/1KDOQU2ub8kKayzdQYHxvj651w8cekwXw/) 
+* [Cultural Safety and Humility](https://docs.google.com/document/d/1KDOQU2ub8kKayzdQYHxvj651w8cekwXw/)
 
 ## External Resources
 
@@ -60,61 +60,12 @@ Other groups have put together excellent resource lists and we are grateful for 
 
 ## Podcasts
 
-* [Kuper Island – CBC](https://www.cbc.ca/listen/cbc-podcasts/1062-kuper-island) 
+* [Kuper Island – CBC](https://www.cbc.ca/listen/cbc-podcasts/1062-kuper-island)
 
 ## Games
 
 * [Hul’q’umi’num’ Animal Bingo](https://scratch.mit.edu/projects/895188484/fullscreen/) (from NLPS Indigenous Education Resources)
 * [Hul’q’umi’num’ Feelings Bingo](https://scratch.mit.edu/projects/816040858/) (from NLPS Indigenous Education Resources
-
-## Works Cited
-
-Attia, M., & Edge, J. (2017). Be (com) ing a reflexive researcher: A developmental approach to research methodology. Open review of educational research, 4(1), 33-45.
-
-Biodiversity Galiano Island Project. (2024, Apr 29). iNaturalist. [https://www.inaturalist.org/projects/biodiversity-galiano-island](https://www.inaturalist.org/projects/biodiversity-galiano-island)
-
-Charlie, L. A. (2021). Luschiim’s Plants: A Hul'q'umi'num (Cowichan) Ethnobotany. Harbour Publishing.
-
-Emmings, K., & Erickson, K. (2004). Galiano Island Landscape Classification and UP-CLOSE Workshop Series Final Report. Galiano Conservancy Association. https://galianoconservancy. ca/wp-content/uploads/2016/11/final_report_complete.pdf
-
-Erickson, K. (2000). 1999 / 2000 Urban Salmon Habitat Program Final Report. Unpublished report, Galiano Conservancy Association, Galiano Island, Canada.
-
-Graveline, F. J. (2000). Circle as methodology: Enacting an Aboriginal paradigm. International Journal of Qualitative Studies in Education, 13(4), 361-370.
-
-Hul’qumi’num Treaty Group. (2011). Ecosystem Guide: A Hul'q'umi'num Language Guide to Plants and Animals of Southern Vancouver Island, the Gulf Islands and the Salish Sea. Hul'qumi'num Treaty Group.
-
-Islands Trust. (2023). A Sensitive Ecosystem Guide for Islands Trust Area Property Owners. Islands Trust. [https://islandstrust.bc.ca/document/sensitive-ecosystem-guide-for-trust-area-property-owners-2023/](https://islandstrust.bc.ca/document/sensitive-ecosystem-guide-for-trust-area-property-owners-2023/)
-
-Koster, S. A., Marriot, S., Wilkinson, L., Kostamo, M., Martin, D., Cross, J., Koster, D., Martin, S. & Elwood Martin, R. (2010). Hunterston Farm Stewardship Report: A Review of the 2010 BioBlitz and an Update on Initiatives Since August 2010. Unpublished report, Hunterston Farm, Galiano Island, Canada.
-
-Simon, A. D., Adamczyk, E. M., Basman, A., Chu, J. W., Gartner, H. N., Fletcher, K., ... & Starzomski, B. M. (2022). Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal, 10.
-
-Strait of Georgia Data Centre (2023, Jan 15). Eelgrass Extent at Select Sites in the Southern Gulf Islands 2009-2023. Marine Data BC. [https://soggy2.zoology.ubc.ca/geonetwork/srv/eng/catalog.search#/metadata/3f1ed7b0-6bbd-42f9-bcb9-6f8964ac84c5](https://soggy2.zoology.ubc.ca/geonetwork/srv/eng/catalog.search#/metadata/3f1ed7b0-6bbd-42f9-bcb9-6f8964ac84c5) 
-
-Turner, N. (2014). Ancient pathways, ancestral knowledge: ethnobotany and ecological wisdom of indigenous peoples of northwestern North America (Vol. 1 & 2). McGill-Queen's Press.
-
-## Interviews
-
-Augie Sylvester, interviewed by Jeannine Georgeson, Dana Ayotte & Deblekha Guin (2024, Feb 25)
-
-Jeannine Georgeson, interviewed by Emily Menzies (2022, Feb 9)
-
-Fred Wilson, interviewed by Emily Menzies (2022, Feb 6)
-
-Lorne Silvey, interviewed by Emily Menzies (2022, Mar 3)
-
-Rosemary Georgeson, interviewed by Jeannine Georgeson (2022, Mar 6)
-
-Thiyuas (Florence James), interviewed by Jeannine Georgeson & Andrew Simon (2021, Aug 21)
-
-Thiyuas (Florence James), interviewed by Andrew Simon (2021, Aug 28)
-
-Thiyuas (Florence James), interviewed by Jeannine Georgeson, Levi Wislon & Andrew Simon (2022, Mar 7)
-
-
-Please note that this is a living, ongoing project, and that this resource list will always be incomplete. Your contributions and ideas are welcome. If you’d like to make suggestions about the resource list or anything else on this website, please contact Jeanine Georgeson (jeannine@imerss.org)
-
-<br>
 
 :::: {.column-page}
 <center>

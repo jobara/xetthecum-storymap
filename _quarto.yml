@@ -12,8 +12,14 @@ website:
     right:
       - href: https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html
         text: The Story of Xetthecum
-      - href: about.qmd
-        text: About
+      - text: About
+        menu:
+          - text: About the Project
+            href: about.qmd
+          - text: Meet the Team
+            href: team.qmd
+          - text: Research
+            href: research.qmd
       - text: Explore
         menu:
           - text: Browse all Species
