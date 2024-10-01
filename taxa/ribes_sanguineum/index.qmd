@@ -10,7 +10,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/33825076/medium.jpg){fig-alt="sqwuliius / hwihwukw' - Red-flowering Currant"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/33825076/medium.jpg)" 
+ alt="sqwuliius / hwihwukw' - Red-flowering Currant">
+ <a href="https://www.inaturalist.org/taxa/53435" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sqwuliius / hwihwukw'
 
@@ -20,9 +24,9 @@ freeze: auto
 
 **"Common" Name**: Red-flowering Currant
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -32,17 +36,22 @@ freeze: auto
 
 **Ecological Community**: Anthropogenic, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Ribes sanguineum</b></i>, the <b>flowering currant</b>, <b>redflower currant</b>, <b>red-flowering currant</b>, or <b>red currant</b> is a North American species of flowering plant in the family Grossulariaceae, native to the western United States and Canada.
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2021-04-18  
-Source: iNat  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2021-04-18
+
+|    Source: iNat
+
+|    Obervation count: 3
 
 ![](community_dist.png)

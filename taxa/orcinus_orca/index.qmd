@@ -10,7 +10,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/360303852/medium.jpg){fig-alt="q'ul-lhanamutsum - killer whale"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/360303852/medium.jpg)" 
+ alt="q'ul-lhanamutsum - killer whale">
+ <a href="https://www.inaturalist.org/taxa/41521" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: q'ul-lhanamutsum
 
@@ -20,9 +24,9 @@ freeze: auto
 
 **"Common" Name**: killer whale
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![medicinal](/files/medicinal.svg){width=106px}
 
 ![spiritual](/files/spiritual.svg){width=106px}
@@ -32,7 +36,7 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951" />
 <p class="mw-empty-elt">
 
@@ -42,11 +46,16 @@ freeze: auto
 
 <p>The <b>orca</b> (<i><b>Orcinus orca</b></i>), or <b>killer whale</b>, is a toothed whale that is the largest member of the oceanic dolphin family. It is the only extant species in the genus <i>Orcinus</i>. Orcas are recognizable by their black-and-white patterned body. A cosmopolitan species, they are found in diverse marine environments</p>...
 
-**Observational Data**:   
-First reported: 2004-04-23  
-Source: dataPaper  
-Last reported: 2004-04-23  
-Source: dataPaper  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2004-04-23
+
+|    Source: dataPaper
+
+|    Last reported: 2004-04-23
+
+|    Source: dataPaper
+
+|    Obervation count: 1
 
 ![](community_dist.png)

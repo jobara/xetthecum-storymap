@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/879722/medium.jpg){fig-alt="sthxélem - western sword fern"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/879722/medium.jpg)" 
+ alt="sthxélem - western sword fern">
+ <a href="https://www.inaturalist.org/taxa/47751" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sthxélem
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: western sword fern
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Polystichum munitum</b></i>, the <b>western swordfern</b>, is an evergreen perennial fern native to western North America, where it is one of the most abundant ferns in forested areas. It occurs along the Pacific coast from southeastern Alaska to southern California, and also inland east to southeastern British Columbia, northern Idaho and western Montana, with disjunctive populations in northern British Columbia</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 21
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 21
 
 ![](community_dist.png)

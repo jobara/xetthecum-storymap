@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/67338881/medium.jpg){fig-alt="st’əә́ ləәm - Bitter cherry"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/67338881/medium.jpg)" 
+ alt="st’əә́ ləәm - Bitter cherry">
+ <a href="https://www.inaturalist.org/taxa/63905" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: st’əә́ ləәm
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: Bitter cherry
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Prunus emarginata</b></i>, the <b>bitter cherry</b> or <b>Oregon cherry</b>, is a species of <i>Prunus</i> native to western North America, from British Columbia south to Baja California, and east as far as western Wyoming and New Mexico. It is often found in recently disturbed areas or open woods on nutrient-rich soil.
 
-**Observational Data**:   
-First reported: 2019-07-07  
-Source: iNat  
-Last reported: 2019-07-07  
-Source: iNat  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2019-07-07
+
+|    Source: iNat
+
+|    Last reported: 2019-07-07
+
+|    Source: iNat
+
+|    Obervation count: 1
 
 ![](community_dist.png)

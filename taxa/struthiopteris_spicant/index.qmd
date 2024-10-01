@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/64848459/medium.jpg){fig-alt="sthxélem - deer fern"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/64848459/medium.jpg)" 
+ alt="sthxélem - deer fern">
+ <a href="https://www.inaturalist.org/taxa/774894" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sthxélem
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: deer fern
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Anthropogenic
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Struthiopteris spicant</b></i>, syn. <i><b>Blechnum spicant</b></i>, is a species of fern in the family Blechnaceae, known by the common names <b>hard-fern</b> or <b>deer fern</b>.  It is native to Europe, western Asia, northern Africa, and western North America. Like some other species in the family Blechnaceae, it has two types of leaves. The sterile leaves have flat, wavy-margined leaflets 5 to 8 millimeters</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2010-05-22  
-Source: Hunterston  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Obervation count: 1
 
 ![](community_dist.png)

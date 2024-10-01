@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/182253816/medium.jpg){fig-alt="xwálaʔałp - shining willow"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/182253816/medium.jpg)" 
+ alt="xwálaʔałp - shining willow">
+ <a href="https://www.inaturalist.org/taxa/54846" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: xwálaʔałp
 
@@ -18,26 +22,31 @@ freeze: auto
 
 **"Common" Name**: shining willow
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Salix lucida</b></i>, the <b>shining willow</b>, <b>Pacific willow</b>, <b>red willow</b>, or <b>whiplash willow</b>, is a species of willow native to northern and western North America, occurring in wetland habitats. It is the largest willow found in British Columbia.
 </p><p>It is a deciduous large shrub or small tree growing to 4–15 metres (13–49&#160;ft) tall. The shoots are greenish-brown to grey-brown. The leaves</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2010-05-22  
-Source: Hunterston  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Obervation count: 1
 
 ![](community_dist.png)

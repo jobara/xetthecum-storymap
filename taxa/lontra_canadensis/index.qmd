@@ -12,7 +12,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/99994014/medium.jpg){fig-alt="sqeetl' - North American River Otter"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/99994014/medium.jpg)" 
+ alt="sqeetl' - North American River Otter">
+ <a href="https://www.inaturalist.org/taxa/41777" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sqeetl'
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: North American River Otter
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![medicinal](/files/medicinal.svg){width=106px}
 
 ![spiritual](/files/spiritual.svg){width=106px}
@@ -38,17 +42,22 @@ freeze: auto
 
 **Ecological Community**: Woodlands and rock outcrops, Marine, Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>The <b>North American river otter</b> (<i><b>Lontra canadensis</b></i>), also known as the <b>northern river otter</b> and <b>river otter</b>, is a semiaquatic mammal that lives only on the North American continent throughout most of Canada, along the coasts of the United States and its inland waterways . An adult North American river otter can weigh between 5.0 and 14&#160;kg (11.0 and 30.9&#160;lb). The river otter is protected</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2022-06-24  
-Source: dataPaper  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2022-06-24
+
+|    Source: dataPaper
+
+|    Obervation count: 3
 
 ![](community_dist.png)

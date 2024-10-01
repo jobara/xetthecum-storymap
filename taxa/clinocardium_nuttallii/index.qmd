@@ -12,7 +12,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/253030401/medium.jpg){fig-alt="stl'ula'um - Nuttall's cockle"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/253030401/medium.jpg)" 
+ alt="stl'ula'um - Nuttall's cockle">
+ <a href="https://www.inaturalist.org/taxa/69925" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: stl'ula'um
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: Nuttall's cockle
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,7 +42,7 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
@@ -46,11 +50,16 @@ freeze: auto
 </p>
 
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 6
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 6
 
 ![](community_dist.png)

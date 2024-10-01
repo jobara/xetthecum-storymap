@@ -9,7 +9,11 @@ categories:
   - spiritualValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/59264526/medium.jpeg){fig-alt="q'iyatl'un - Pacific Banana Slug"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/59264526/medium.jpeg)" 
+ alt="q'iyatl'un - Pacific Banana Slug">
+ <a href="https://www.inaturalist.org/taxa/47776" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: q'iyatl'un
 
@@ -19,9 +23,9 @@ freeze: auto
 
 **"Common" Name**: Pacific Banana Slug
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![medicinal](/files/medicinal.svg){width=106px}
 
 ![spiritual](/files/spiritual.svg){width=106px}
@@ -29,14 +33,19 @@ freeze: auto
 
 **Ecological Community**: Forests, Anthropogenic, Woodlands and rock outcrops
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <i><b>Ariolimax columbianus</b></i> or the <b>Pacific banana slug</b> is a species of <i>Ariolimax</i> Banana slug found on the Pacific Coast of North America.
 
-**Observational Data**:   
-First reported: 2017-05-26  
-Source: iNat  
-Last reported: 2023-05-28  
-Source: iNat  
-Obervation count: 5
+**Observational Data**:
+
+|    First reported: 2017-05-26
+
+|    Source: iNat
+
+|    Last reported: 2023-05-28
+
+|    Source: iNat
+
+|    Obervation count: 5
 
 ![](community_dist.png)

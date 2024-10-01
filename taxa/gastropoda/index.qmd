@@ -9,7 +9,11 @@ categories:
   - spiritualValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/247609877/medium.jpg){fig-alt="tth'uqw'iye - Gastropods"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/247609877/medium.jpg)" 
+ alt="tth'uqw'iye - Gastropods">
+ <a href="https://www.inaturalist.org/taxa/47114" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: tth'uqw'iye
 
@@ -19,9 +23,9 @@ freeze: auto
 
 **"Common" Name**: Gastropods
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![spiritual](/files/spiritual.svg){width=106px}
@@ -29,18 +33,23 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><b>Gastropods</b> (<span></span>), commonly known as <b>slugs and snails</b>, belong to a large taxonomic class of invertebrates within the phylum Mollusca called <b>Gastropoda</b> (<span></span>).
 </p><p>This class comprises snails and slugs from saltwater, freshwater, and from the land. There are many thousands of species of sea snails and slugs, as well as freshwater snails, freshwater limpets, land snails and</p>...
 
-**Observational Data**:   
-First reported: 2019-05-04  
-Source: iNat  
-Last reported: 2021-04-18  
-Source: iNat  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2019-05-04
+
+|    Source: iNat
+
+|    Last reported: 2021-04-18
+
+|    Source: iNat
+
+|    Obervation count: 3
 
 ![](community_dist.png)

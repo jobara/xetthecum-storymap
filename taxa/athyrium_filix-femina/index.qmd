@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2071508/medium.jpg){fig-alt="lə́q’ləq’ʔey’ - lady fern"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/2071508/medium.jpg)" 
+ alt="lə́q’ləq’ʔey’ - lady fern">
+ <a href="https://www.inaturalist.org/taxa/52669" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: lə́q’ləq’ʔey’
 
@@ -18,26 +22,31 @@ freeze: auto
 
 **"Common" Name**: lady fern
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater, Forests, Anthropogenic
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Athyrium filix-femina</b></i>, the <b>lady fern</b> or <b>common lady-fern</b>, is a large, feathery species of fern native to temperate Asia, Europe, North Africa, Canada and the US. It is often abundant (one of the more common ferns) in damp, shady woodland environments and is often grown for decoration.
 </p><p>Its common names "lady fern" and "female fern" refer to how its reproductive structures (sori) are</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 4
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 4
 
 ![](community_dist.png)

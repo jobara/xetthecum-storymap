@@ -8,7 +8,11 @@ categories:
   - foodValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/147974395/medium.jpeg){fig-alt="sp'eetth' - Stink Currant"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/147974395/medium.jpeg)" 
+ alt="sp'eetth' - Stink Currant">
+ <a href="https://www.inaturalist.org/taxa/78852" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sp'eetth'
 
@@ -18,15 +22,15 @@ freeze: auto
 
 **"Common" Name**: Stink Currant
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 :::
 
 **Ecological Community**: Anthropogenic
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
@@ -34,11 +38,16 @@ freeze: auto
 </p>
 <p><i>R. bracteosum</i> is a deciduous shrub, without thorns, growing to 3 metres (10 feet) tall. The leaves are 5–20 centimetres (2–8 inches) across, palmately lobed with 5 or 7 lobes. The flowers are produced in spring after the</p>...
 
-**Observational Data**:   
-First reported: 2016-08-20  
-Source: iNat  
-Last reported: 2016-08-20  
-Source: iNat  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2016-08-20
+
+|    Source: iNat
+
+|    Last reported: 2016-08-20
+
+|    Source: iNat
+
+|    Obervation count: 1
 
 ![](community_dist.png)

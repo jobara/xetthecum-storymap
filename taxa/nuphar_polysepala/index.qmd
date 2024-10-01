@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/42352635/medium.jpeg){fig-alt="qw’əә́ m’əәtx - western yellow pond-lily"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/42352635/medium.jpeg)" 
+ alt="qw’əә́ m’əәtx - western yellow pond-lily">
+ <a href="https://www.inaturalist.org/taxa/78234" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: qw’əә́ m’əәtx
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: western yellow pond-lily
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Nuphar polysepala</b></i> (the <b>great yellow pond-lily</b> or <b>wokas</b>; syn. <i>Nuphar polysepalum</i> orth. err., <i>Nuphar lutea</i> subsp. <i>polysepala</i> (Engelm.) E.O.Beal) is a species of <i>Nuphar</i> native to western North America. It is commonly found in shallow muddy ponds from northern Alaska and Yukon southward to central California and northern New Mexico, and can be recognized easily by</p>...
 
-**Observational Data**:   
-First reported: 2015-08-20  
-Source: iNat  
-Last reported: 2023-05-26  
-Source: iNat  
-Obervation count: 7
+**Observational Data**:
+
+|    First reported: 2015-08-20
+
+|    Source: iNat
+
+|    Last reported: 2023-05-26
+
+|    Source: iNat
+
+|    Obervation count: 7
 
 ![](community_dist.png)

@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/9180893/medium.jpg){fig-alt="tł’əlíqw’əłp - common yarrow"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/9180893/medium.jpg)" 
+ alt="tł’əlíqw’əłp - common yarrow">
+ <a href="https://www.inaturalist.org/taxa/52821" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: tł’əlíqw’əłp
 
@@ -18,22 +22,27 @@ freeze: auto
 
 **"Common" Name**: common yarrow
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Anthropogenic, Forests, Woodlands and rock outcrops
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 NA
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-28  
-Source: iNat  
-Obervation count: 6
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-28
+
+|    Source: iNat
+
+|    Obervation count: 6
 
 ![](community_dist.png)

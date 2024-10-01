@@ -12,7 +12,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/121620546/medium.jpg){fig-alt="xuy'xuy'tl - lingcod"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/121620546/medium.jpg)" 
+ alt="xuy'xuy'tl - lingcod">
+ <a href="https://www.inaturalist.org/taxa/52539" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: xuy'xuy'tl
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: lingcod
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,18 +42,23 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>The <b>lingcod</b> or <b>ling cod</b> (<i>Ophiodon  elongatus</i>), also known as the <b>buffalo cod</b> or <b>cultus cod</b>, is a fish of the greenling family Hexagrammidae. It is the only extant member of the genus Ophiodon. A slightly larger, extinct species, <i>Ophiodon ozymandias</i>, is known from fossils from the Late Miocene of Southern California.
 </p><p><i>Ophiodon  elongatus</i> is native to the North</p>...
 
-**Observational Data**:   
-First reported: 1969-02-21  
-Source: dataPaper  
-Last reported: 2013-10-23  
-Source: dataPaper  
-Obervation count: 6
+**Observational Data**:
+
+|    First reported: 1969-02-21
+
+|    Source: dataPaper
+
+|    Last reported: 2013-10-23
+
+|    Source: dataPaper
+
+|    Obervation count: 6
 
 ![](community_dist.png)

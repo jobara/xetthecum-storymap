@@ -10,7 +10,11 @@ categories:
   - materialValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/149174235/medium.jpeg){fig-alt="suqeen - common bracken"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/149174235/medium.jpeg)" 
+ alt="suqeen - common bracken">
+ <a href="https://www.inaturalist.org/taxa/52681" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: suqeen
 
@@ -20,9 +24,9 @@ freeze: auto
 
 **"Common" Name**: common bracken
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -32,17 +36,22 @@ freeze: auto
 
 **Ecological Community**: Forests, Freshwater, Anthropogenic
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Pteridium aquilinum</b></i>, commonly called <b>bracken</b>, <b>brake</b>, <b>pasture brake, common bracken</b>, and also known as <b>eagle fern</b>, is a species of fern occurring in temperate and subtropical regions in both hemispheres. Originally native to Eurasia and North America, the extreme lightness of its spores has led to it achieving a cosmopolitan distribution.
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-28  
-Source: iNat  
-Obervation count: 12
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-28
+
+|    Source: iNat
+
+|    Obervation count: 12
 
 ![](community_dist.png)

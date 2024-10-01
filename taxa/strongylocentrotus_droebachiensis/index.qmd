@@ -13,7 +13,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/88054286/medium.jpeg){fig-alt="skw'itth'i' - green sea urchin"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/88054286/medium.jpeg)" 
+ alt="skw'itth'i' - green sea urchin">
+ <a href="https://www.inaturalist.org/taxa/120070" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: skw'itth'i'
 
@@ -23,9 +27,9 @@ freeze: auto
 
 **"Common" Name**: green sea urchin
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -41,17 +45,22 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Strongylocentrotus droebachiensis</b></i> is commonly known as the <b>green sea urchin</b> because of its characteristic green color, not to be confused with <i>Psammechinus miliaris</i> as it is also commonly called the green sea urchin. It is commonly found in northern waters all around the world including both the Pacific and Atlantic Oceans to a northerly latitude of 81 degrees and as far south as Maine</p>...
 
-**Observational Data**:   
-First reported: 1969-02-21  
-Source: dataPaper  
-Last reported: 2023-05-28  
-Source: iNat  
-Obervation count: 6
+**Observational Data**:
+
+|    First reported: 1969-02-21
+
+|    Source: dataPaper
+
+|    Last reported: 2023-05-28
+
+|    Source: iNat
+
+|    Obervation count: 6
 
 ![](community_dist.png)

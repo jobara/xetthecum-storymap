@@ -13,7 +13,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/26270120/medium.jpg){fig-alt="ha'put - Columbian Black-tailed Deer"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/26270120/medium.jpg)" 
+ alt="ha'put - Columbian Black-tailed Deer">
+ <a href="https://www.inaturalist.org/taxa/42221" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: ha'put
 
@@ -23,9 +27,9 @@ freeze: auto
 
 **"Common" Name**: Columbian Black-tailed Deer
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -41,18 +45,23 @@ freeze: auto
 
 **Ecological Community**: Anthropogenic, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>Two forms of <b>black-tailed deer</b> or <b>blacktail deer</b> that occupy coastal woodlands in the Pacific Northwest of North America are subspecies of the mule deer (<i>Odocoileus hemionus</i>). They have sometimes been treated as a species, but virtually all recent authorities maintain they are subspecies. 
 </p><p>The <b>Columbian black-tailed deer</b> (<i><b>Odocoileus hemionus columbianus</b></i>) is found in</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2019-05-05  
-Source: iNat  
-Obervation count: 4
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2019-05-05
+
+|    Source: iNat
+
+|    Obervation count: 4
 
 ![](community_dist.png)

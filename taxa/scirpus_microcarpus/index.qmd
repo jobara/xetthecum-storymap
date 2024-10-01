@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/12835/medium.jpg){fig-alt="psháyʔ - Panicled Bulrush"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/12835/medium.jpg)" 
+ alt="psháyʔ - Panicled Bulrush">
+ <a href="https://www.inaturalist.org/taxa/59068" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: psháyʔ
 
@@ -18,22 +22,27 @@ freeze: auto
 
 **"Common" Name**: Panicled Bulrush
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt"><p><i><b>Scirpus microcarpus</b></i> is a species of flowering plant in the sedge family known by the common names <b>panicled bulrush</b>, <b>smallfruit bulrush</b>, and <b>barberpole bulrush</b>. It is native to North America, where it can be found throughout the northern and western regions, from Alaska across Canada to the northeastern United States, in most of the central and western states, and in Baja California</p>...
 
-**Observational Data**:   
-First reported: 2016-06-05  
-Source: iNat  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2016-06-05
+
+|    Source: iNat
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 3
 
 ![](community_dist.png)

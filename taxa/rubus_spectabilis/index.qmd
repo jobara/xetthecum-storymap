@@ -8,7 +8,11 @@ categories:
   - foodValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg){fig-alt="lila' - Salmonberry"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg)" 
+ alt="lila' - Salmonberry">
+ <a href="https://www.inaturalist.org/taxa/47543" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: lila'
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: Salmonberry
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 :::
 
 **Ecological Community**: Freshwater, Anthropogenic, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Rubus spectabilis</b></i>, the <b>salmonberry</b>, is a species of bramble in the rose family Rosaceae, native to the west coast of North America from west-central Alaska to California, inland as far as Idaho. Like many other species in the genus <i>Rubus</i>, the salmonberry plant bears edible fruit, typically yellow-orange or red in color, resembling raspberries in appearance.
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 8
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 8
 
 ![](community_dist.png)

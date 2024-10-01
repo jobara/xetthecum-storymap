@@ -11,7 +11,11 @@ categories:
   - materialValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/173143196/medium.jpeg){fig-alt="xihwu - red sea urchin"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/173143196/medium.jpeg)" 
+ alt="xihwu - red sea urchin">
+ <a href="https://www.inaturalist.org/taxa/992313" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: xihwu
 
@@ -21,9 +25,9 @@ freeze: auto
 
 **"Common" Name**: red sea urchin
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -35,17 +39,22 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>The <b>red sea urchin</b> (<i><b>Mesocentrotus franciscanus</b></i>) is a sea urchin found in the northeastern Pacific Ocean from Alaska to Baja California. It lives in shallow waters from the low-tide line to greater than 280&#160;m (920&#160;ft) deep, and is typically found on rocky shores sheltered from extreme wave action in areas where kelp is available.
 
-**Observational Data**:   
-First reported: 1969-02-21  
-Source: dataPaper  
-Last reported: 2023-08-06  
-Source: iNat  
-Obervation count: 17
+**Observational Data**:
+
+|    First reported: 1969-02-21
+
+|    Source: dataPaper
+
+|    Last reported: 2023-08-06
+
+|    Source: iNat
+
+|    Obervation count: 17
 
 ![](community_dist.png)

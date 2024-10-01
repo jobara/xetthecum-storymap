@@ -10,7 +10,11 @@ categories:
   - spiritualValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/181302737/medium.jpeg){fig-alt="tl'ikw'iyelhp - bearberry"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/181302737/medium.jpeg)" 
+ alt="tl'ikw'iyelhp - bearberry">
+ <a href="https://www.inaturalist.org/taxa/68049" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: tl'ikw'iyelhp
 
@@ -20,9 +24,9 @@ freeze: auto
 
 **"Common" Name**: bearberry
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -32,17 +36,22 @@ freeze: auto
 
 **Ecological Community**: Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Arctostaphylos uva-ursi</b></i> is a plant species of the genus <i>Arctostaphylos</i> widely distributed across circumboreal regions of the subarctic Northern Hemisphere. <b>Kinnikinnick</b> (from the Unami for "smoking mixture") is a common name in Canada and the United States. Growing up to 30 centimetres (12 inches) in height, the leaves are evergreen. The flowers are white to pink and the fruit is a red</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2010-05-22  
-Source: Hunterston  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Obervation count: 1
 
 ![](community_dist.png)

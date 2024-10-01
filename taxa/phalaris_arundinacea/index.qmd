@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/78038371/medium.jpg){fig-alt="ch’áxəәy’ - reed canary grass"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/78038371/medium.jpg)" 
+ alt="ch’áxəәy’ - reed canary grass">
+ <a href="https://www.inaturalist.org/taxa/63337" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: ch’áxəәy’
 
@@ -18,22 +22,27 @@ freeze: auto
 
 **"Common" Name**: reed canary grass
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt"><p><i><b>Phalaris arundinacea</b></i>, or <b>reed canary grass</b>, is a tall, perennial bunchgrass that commonly forms extensive single-species stands along the margins of lakes and streams and in wet open areas, with a wide distribution in Europe, Asia, northern Africa and North America. Other common names for the plant include <b>gardener's-garters</b> and <b>ribbon grass</b> in English, <i><b>alpiste roseau</b></i></p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2016-06-05  
-Source: iNat  
-Obervation count: 2
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2016-06-05
+
+|    Source: iNat
+
+|    Obervation count: 2
 
 ![](community_dist.png)

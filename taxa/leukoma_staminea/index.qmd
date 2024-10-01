@@ -10,7 +10,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/6532782/medium.jpg){fig-alt="skw'lhey - Pacific Littleneck Clam"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/6532782/medium.jpg)" 
+ alt="skw'lhey - Pacific Littleneck Clam">
+ <a href="https://www.inaturalist.org/taxa/333608" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: skw'lhey
 
@@ -20,9 +24,9 @@ freeze: auto
 
 **"Common" Name**: Pacific Littleneck Clam
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -32,17 +36,22 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Leukoma staminea</b></i>, commonly known as the <b>Pacific littleneck clam</b>, the <b>littleneck clam</b>, the <b>rock cockle</b>, the <b>hardshell clam</b>, the <b>Tomales Bay cockle</b>, the <b>rock clam</b> or the <b>ribbed carpet shell</b>, is a species of bivalve mollusc in the family Veneridae. This species of mollusc was exploited by early humans in North America; for example, the Chumash peoples of</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 4
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 4
 
 ![](community_dist.png)

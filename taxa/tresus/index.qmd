@@ -11,7 +11,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/983435/medium.jpg){fig-alt="sweem - gaper"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/983435/medium.jpg)" 
+ alt="sweem - gaper">
+ <a href="https://www.inaturalist.org/taxa/117624" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sweem
 
@@ -21,9 +25,9 @@ freeze: auto
 
 **"Common" Name**: gaper
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -35,7 +39,7 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
@@ -43,11 +47,16 @@ freeze: auto
 </p>
 
 
-**Observational Data**:   
-First reported: 2012-08-27  
-Source: dataPaper  
-Last reported: 2022-02-25  
-Source: iNat  
-Obervation count: 4
+**Observational Data**:
+
+|    First reported: 2012-08-27
+
+|    Source: dataPaper
+
+|    Last reported: 2022-02-25
+
+|    Source: iNat
+
+|    Obervation count: 4
 
 ![](community_dist.png)

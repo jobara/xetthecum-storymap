@@ -12,7 +12,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/181719420/medium.jpg){fig-alt="exu - Canada Goose"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/181719420/medium.jpg)" 
+ alt="exu - Canada Goose">
+ <a href="https://www.inaturalist.org/taxa/7089" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: exu
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: Canada Goose
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,15 +42,20 @@ freeze: auto
 
 **Ecological Community**: Freshwater, Forests, Marine, Anthropogenic
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt"><p class="mw-empty-elt">
 <p>The <b>Canada goose</b> (<i><b>Branta canadensis</b></i>), sometimes called <b>Canadian goose</b>, is a large wild goose with a black head and neck, white cheeks, white under its chin, and a brown body. It is native to the arctic and temperate regions of North America, and it is occasionally found during migration across the Atlantic in northern Europe. It has been introduced to France</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-28  
-Source: iNat  
-Obervation count: 10
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-28
+
+|    Source: iNat
+
+|    Obervation count: 10
 
 ![](community_dist.png)

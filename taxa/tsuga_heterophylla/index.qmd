@@ -12,7 +12,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/11793124/medium.jpg){fig-alt="thq'iinlhp - western hemlock"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/11793124/medium.jpg)" 
+ alt="thq'iinlhp - western hemlock">
+ <a href="https://www.inaturalist.org/taxa/48254" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: thq'iinlhp
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: western hemlock
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,18 +42,23 @@ freeze: auto
 
 **Ecological Community**: Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 
 </p>
 
 <p><i><b>Tsuga heterophylla</b></i>, the <b>western hemlock</b> or <b>western hemlock-spruce</b>, is a species of hemlock native to the west coast of North America, with its northwestern limit on the Kenai Peninsula, Alaska, and its southeastern limit in northern Sonoma County, California. The Latin species name means 'variable leaves'.
 
-**Observational Data**:   
-First reported: 2018-12-17  
-Source: iNat  
-Last reported: 2018-12-17  
-Source: iNat  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2018-12-17
+
+|    Source: iNat
+
+|    Last reported: 2018-12-17
+
+|    Source: iNat
+
+|    Obervation count: 1
 
 ![](community_dist.png)

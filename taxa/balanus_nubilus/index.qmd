@@ -11,7 +11,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/4306270/medium.jpg){fig-alt="qumine' - giant acorn barnacle"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/4306270/medium.jpg)" 
+ alt="qumine' - giant acorn barnacle">
+ <a href="https://www.inaturalist.org/taxa/49127" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: qumine'
 
@@ -21,9 +25,9 @@ freeze: auto
 
 **"Common" Name**: giant acorn barnacle
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -35,18 +39,23 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Balanus nubilus</b></i>, commonly called the <b>giant acorn barnacle</b>, is the world's largest barnacle, reaching a diameter of 15&#160;cm (6&#160;in) and a height of up to 30&#160;cm (12&#160;in), and containing the largest known muscle fibres.
 </p><p><i>Balanus nubilus</i> is a northeast Pacific species that ranges from southern Alaska to Baja California. It is frequently found growing on rocks, pier pilings and hard-shelled</p>...
 
-**Observational Data**:   
-First reported: 1969-02-21  
-Source: dataPaper  
-Last reported: 2021-12-16  
-Source: dataPaper  
-Obervation count: 10
+**Observational Data**:
+
+|    First reported: 1969-02-21
+
+|    Source: dataPaper
+
+|    Last reported: 2021-12-16
+
+|    Source: dataPaper
+
+|    Obervation count: 10
 
 ![](community_dist.png)

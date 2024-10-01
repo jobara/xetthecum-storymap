@@ -12,7 +12,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/22798930/medium.jpg){fig-alt="tsulqama' - whitebark raspberry"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/22798930/medium.jpg)" 
+ alt="tsulqama' - whitebark raspberry">
+ <a href="https://www.inaturalist.org/taxa/63960" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: tsulqama'
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: whitebark raspberry
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,17 +42,22 @@ freeze: auto
 
 **Ecological Community**: Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Rubus leucodermis</b></i>, also called <b>whitebark raspberry</b>, <b>blackcap raspberry</b>, or <b>blue raspberry</b>, is a species of <i>Rubus</i> native to western North America.
 
-**Observational Data**:   
-First reported: 2016-06-02  
-Source: iNat  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2016-06-02
+
+|    Source: iNat
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 3
 
 ![](community_dist.png)

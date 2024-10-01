@@ -8,7 +8,11 @@ categories:
   - materialValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/44973973/medium.jpeg){fig-alt="t'eets'ulhp - Rose Spirea"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/44973973/medium.jpeg)" 
+ alt="t'eets'ulhp - Rose Spirea">
+ <a href="https://www.inaturalist.org/taxa/62493" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: t'eets'ulhp
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: Rose Spirea
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![material](/files/material.svg){width=106px}
 :::
 
 **Ecological Community**: Freshwater, Anthropogenic, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Spiraea douglasii</b></i> is a species of flowering plant in the rose family native to western North America. Common names include <b>hardhack,</b> <b>hardhack steeplebush</b>, <b>Douglas' spirea</b>, <b>douglasspirea</b>, <b>steeplebush</b>, and <b>rose spirea</b>.
 
-**Observational Data**:   
-First reported: 2016-06-05  
-Source: iNat  
-Last reported: 2023-05-24  
-Source: iNat  
-Obervation count: 6
+**Observational Data**:
+
+|    First reported: 2016-06-05
+
+|    Source: iNat
+
+|    Last reported: 2023-05-24
+
+|    Source: iNat
+
+|    Obervation count: 6
 
 ![](community_dist.png)

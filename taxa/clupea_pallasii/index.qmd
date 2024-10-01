@@ -12,7 +12,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/113694575/medium.jpeg){fig-alt="slhewut' - Pacific herring"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/113694575/medium.jpeg)" 
+ alt="slhewut' - Pacific herring">
+ <a href="https://www.inaturalist.org/taxa/117571" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: slhewut'
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: Pacific herring
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,17 +42,22 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>The <b>Pacific herring</b> (<i><b>Clupea pallasii</b></i>) is a species of the herring family associated with the Pacific Ocean environment of North America and northeast Asia. It is a silvery fish with unspined fins and a deeply forked caudal fin. The distribution is widely along the California coast from Baja California north to Alaska and the Bering Sea; in Asia the distribution is south to Japan, Korea, and China</p>...
 
-**Observational Data**:   
-First reported: 2023-06-20  
-Source: iNat  
-Last reported: 2023-06-20  
-Source: iNat  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2023-06-20
+
+|    Source: iNat
+
+|    Last reported: 2023-06-20
+
+|    Source: iNat
+
+|    Obervation count: 1
 
 ![](community_dist.png)

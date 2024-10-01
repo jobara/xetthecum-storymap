@@ -12,7 +12,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/41098566/medium.jpg){fig-alt="pun'eq' - Pacific geoduck"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/41098566/medium.jpg)" 
+ alt="pun'eq' - Pacific geoduck">
+ <a href="https://www.inaturalist.org/taxa/117618" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: pun'eq'
 
@@ -22,9 +26,9 @@ freeze: auto
 
 **"Common" Name**: Pacific geoduck
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -38,7 +42,7 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 
 </p>
@@ -46,11 +50,16 @@ freeze: auto
 <p>The <b>Pacific geoduck</b> (<span></span> <i title="English pronunciation respelling">GOO-ee-duk</i>; <i>Panopea generosa</i>) is a species of very large saltwater clam in the family Hiatellidae. The common name is derived from the Lushootseed name, <span title="Lushootseed-language text"><i lang="lut">gʷidəq</i></span>.
 </p><p>The geoduck is native to the coastal waters of the eastern North Pacific Ocean from Alaska</p>...
 
-**Observational Data**:   
-First reported: 1999-10-02  
-Source: dataPaper  
-Last reported: 2019-05-04  
-Source: dataPaper  
-Obervation count: 4
+**Observational Data**:
+
+|    First reported: 1999-10-02
+
+|    Source: dataPaper
+
+|    Last reported: 2019-05-04
+
+|    Source: dataPaper
+
+|    Obervation count: 4
 
 ![](community_dist.png)

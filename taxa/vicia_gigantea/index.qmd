@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/34664752/medium.jpeg){fig-alt="tł’íkw’əәn’ - giant vetch"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/34664752/medium.jpeg)" 
+ alt="tł’íkw’əәn’ - giant vetch">
+ <a href="https://www.inaturalist.org/taxa/53322" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: tł’íkw’əәn’
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: giant vetch
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Woodlands and rock outcrops
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Vicia nigricans</b></i> is a species of vetch known by the common name <b>black vetch</b>. It has a disjunct distribution, its two subspecies divided by thousands of miles in range. The northern subspecies, ssp. <i>gigantea</i> (<b>giant vetch</b>), is native to western North America from Alaska to northern California, where it occurs in coastal and moist inland habitat and disturbed areas. The southern subspecies</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2010-05-22  
-Source: Hunterston  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Obervation count: 1
 
 ![](community_dist.png)

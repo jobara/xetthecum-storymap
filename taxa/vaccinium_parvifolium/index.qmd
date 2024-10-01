@@ -9,7 +9,11 @@ categories:
   - medicinalValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/4855055/medium.jpg){fig-alt="sqw'uqwtsus - Red Huckleberry"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/4855055/medium.jpg)" 
+ alt="sqw'uqwtsus - Red Huckleberry">
+ <a href="https://www.inaturalist.org/taxa/48354" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sqw'uqwtsus
 
@@ -19,9 +23,9 @@ freeze: auto
 
 **"Common" Name**: Red Huckleberry
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -29,17 +33,22 @@ freeze: auto
 
 **Ecological Community**: Freshwater, Anthropogenic, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Vaccinium parvifolium</b></i>, the <b>red huckleberry</b>, is a species of <i>Vaccinium</i> native to western North America.
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2022-02-19  
-Source: iNat  
-Obervation count: 9
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2022-02-19
+
+|    Source: iNat
+
+|    Obervation count: 9
 
 ![](community_dist.png)

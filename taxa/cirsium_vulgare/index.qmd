@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/47950246/medium.jpg){fig-alt="xəw’xəwíłp - Bull Thistle"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/47950246/medium.jpg)" 
+ alt="xəw’xəwíłp - Bull Thistle">
+ <a href="https://www.inaturalist.org/taxa/52989" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: xəw’xəwíłp
 
@@ -18,15 +22,15 @@ freeze: auto
 
 **"Common" Name**: Bull Thistle
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Anthropogenic
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
@@ -35,11 +39,16 @@ freeze: auto
 
 <p><i><b>Cirsium vulgare</b></i>, the <b>spear thistle</b>, <b>bull thistle</b>, or <b>common thistle</b>, is a species of the Asteraceae genus <i>Cirsium</i>, native throughout most of Europe (north to 66°N, locally 68°N), Western Asia (east to the Yenisei Valley), and northwestern Africa (Atlas Mountains). It is also naturalised in North America, Africa, and Australia and is an invasive</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 3
 
 ![](community_dist.png)

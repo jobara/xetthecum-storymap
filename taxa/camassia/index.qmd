@@ -9,7 +9,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/16966/medium.jpg){fig-alt="speenhw - camas"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/16966/medium.jpg)" 
+ alt="speenhw - camas">
+ <a href="https://www.inaturalist.org/taxa/62219" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: speenhw
 
@@ -19,9 +23,9 @@ freeze: auto
 
 **"Common" Name**: camas
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![trade](/files/trade.svg){width=106px}
@@ -29,16 +33,21 @@ freeze: auto
 
 **Ecological Community**: Forests, Woodlands and rock outcrops
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 <p><i><b>Camassia</b></i> is a genus of plants in the asparagus family native to North America. Common names include <b>camas</b>, <b>quamash</b>, <b>Indian hyacinth</b>, <b>camash</b>, and <b>wild hyacinth</b>.
 </p><p>It grows in the wild in great numbers in moist meadows. They are perennial plants with basal linear leaves measuring 20 to 80 centimetres (8 to 32&#160;in) in length, which emerge early in the spring. They</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2022-02-20  
-Source: iNat  
-Obervation count: 5
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2022-02-20
+
+|    Source: iNat
+
+|    Obervation count: 5
 
 ![](community_dist.png)

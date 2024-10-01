@@ -13,7 +13,11 @@ categories:
   - indicatorValue
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/261862450/medium.jpg){fig-alt="s-hwuw'qun - Trumpeter Swan"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/261862450/medium.jpg)" 
+ alt="s-hwuw'qun - Trumpeter Swan">
+ <a href="https://www.inaturalist.org/taxa/6915" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: s-hwuw'qun
 
@@ -23,9 +27,9 @@ freeze: auto
 
 **"Common" Name**: Trumpeter Swan
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -41,17 +45,22 @@ freeze: auto
 
 **Ecological Community**: Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>The <b>trumpeter swan</b> (<i><b>Cygnus buccinator</b></i>) is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8&#160;cm (6&#160;ft 2 in to 10&#160;ft 2 in). It is the American counterpart and a close relative of the whooper swan (<i>Cygnus cygnus</i>) of Eurasia, and even has been considered the same species</p>...
 
-**Observational Data**:   
-First reported: 2019-01-27  
-Source: iNat  
-Last reported: 2019-01-27  
-Source: iNat  
-Obervation count: 1
+**Observational Data**:
+
+|    First reported: 2019-01-27
+
+|    Source: iNat
+
+|    Last reported: 2019-01-27
+
+|    Source: iNat
+
+|    Obervation count: 1
 
 ![](community_dist.png)

@@ -11,7 +11,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2190080/medium.JPG){fig-alt="p'qw'axw - beaked hazelnut"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/2190080/medium.JPG)" 
+ alt="p'qw'axw - beaked hazelnut">
+ <a href="https://www.inaturalist.org/taxa/53374" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: p'qw'axw
 
@@ -21,9 +25,9 @@ freeze: auto
 
 **"Common" Name**: beaked hazelnut
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![spiritual](/files/spiritual.svg){width=106px}
@@ -35,14 +39,19 @@ freeze: auto
 
 **Ecological Community**: Anthropogenic, Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt"><p><i><b>Corylus cornuta</b></i>, the <b>beaked hazelnut</b> (or just <i>beaked hazel</i>), is a deciduous shrubby hazel with two subspecies found throughout most of North America.
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2020-06-08  
-Source: iNat  
-Obervation count: 2
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2020-06-08
+
+|    Source: iNat
+
+|    Obervation count: 2
 
 ![](community_dist.png)

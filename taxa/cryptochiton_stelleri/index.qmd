@@ -11,7 +11,11 @@ categories:
   - tradeValue
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/113653251/medium.jpg){fig-alt="ukws' - giant Pacific chiton"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/113653251/medium.jpg)" 
+ alt="ukws' - giant Pacific chiton">
+ <a href="https://www.inaturalist.org/taxa/49053" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: ukws'
 
@@ -21,9 +25,9 @@ freeze: auto
 
 **"Common" Name**: giant Pacific chiton
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 ![food](/files/food.svg){width=106px}
 
 ![medicinal](/files/medicinal.svg){width=106px}
@@ -35,17 +39,22 @@ freeze: auto
 
 **Ecological Community**: Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p>The <b>gumboot chiton</b> (<i>Cryptochiton stelleri</i>), also known as the <b>giant western fiery chiton</b> or <b>giant Pacific chiton</b>, is the largest of the chitons, growing to 36&#160;cm (14&#160;in) and capable of reaching a weight of more than 2&#160;kg (4.4&#160;lb). It is found along the shores of the northern Pacific Ocean from Central California to Alaska, across the Aleutian Islands to the Kamchatka Peninsula and south</p>...
 
-**Observational Data**:   
-First reported: 1996-09-29  
-Source: dataPaper  
-Last reported: 1999-10-02  
-Source: dataPaper  
-Obervation count: 2
+**Observational Data**:
+
+|    First reported: 1996-09-29
+
+|    Source: dataPaper
+
+|    Last reported: 1999-10-02
+
+|    Source: dataPaper
+
+|    Obervation count: 2
 
 ![](community_dist.png)

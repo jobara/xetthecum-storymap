@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://static.inaturalist.org/photos/72881677/medium.jpg){fig-alt="sxə́m’xəm’ - field horsetail"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://static.inaturalist.org/photos/72881677/medium.jpg)" 
+ alt="sxə́m’xəm’ - field horsetail">
+ <a href="https://www.inaturalist.org/taxa/52724" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: sxə́m’xəm’
 
@@ -18,23 +22,28 @@ freeze: auto
 
 **"Common" Name**: field horsetail
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater, Marine
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 <p><i><b>Equisetum arvense</b></i>, the <b>field horsetail</b> or <b>common horsetail</b>, is an herbaceous perennial plant in the Equisetidae (horsetails) sub-class, native throughout the arctic and temperate regions of the Northern Hemisphere. It has separate sterile non-reproductive and fertile spore-bearing stems growing from a perennial underground rhizomatous stem system. The fertile stems are produced in early</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2016-06-05  
-Source: iNat  
-Obervation count: 3
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2016-06-05
+
+|    Source: iNat
+
+|    Obervation count: 3
 
 ![](community_dist.png)

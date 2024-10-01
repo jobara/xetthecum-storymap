@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/50976242/medium.jpg){fig-alt="xw ə́ m’kw ’eyathən - fragrant bedstraw"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/50976242/medium.jpg)" 
+ alt="xw ə́ m’kw ’eyathən - fragrant bedstraw">
+ <a href="https://www.inaturalist.org/taxa/53065" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: xw ə́ m’kw ’eyathən
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: fragrant bedstraw
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Forests, Freshwater
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Galium triflorum</b></i> (also known as <b>cudweed</b>, <b>sweet-scented bedstraw</b>, and <b>fragrant bedstraw</b>) is a herbaceous plant of the family Rubiaceae. It is widespread in northern Europe (Scandinavia, Switzerland, Russia, Baltic States), eastern Asia (Kamchatka, Japan, Korea, Guizhou, Sichuan), the Middle East and Indian subcontinent (parts of North India and Nepal), and North America (from Alaska</p>...
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-27  
-Source: iNat  
-Obervation count: 7
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-27
+
+|    Source: iNat
+
+|    Obervation count: 7
 
 ![](community_dist.png)

@@ -8,7 +8,11 @@ categories:
 
 freeze: auto
 ---
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/79984095/medium.jpg){fig-alt="xw ə́ m’kw ’eyathən - catchweed bedstraw"}
+
+<div role="img" class="imerss-photo" style="background-image: url(https://inaturalist-open-data.s3.amazonaws.com/photos/79984095/medium.jpg)" 
+ alt="xw ə́ m’kw ’eyathən - catchweed bedstraw">
+ <a href="https://www.inaturalist.org/taxa/53059" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
 
 **Hul'q'umi'num' Name**: xw ə́ m’kw ’eyathən
 
@@ -18,25 +22,30 @@ freeze: auto
 
 **"Common" Name**: catchweed bedstraw
 
-**Cultural Values**:  
+**Cultural Values**:
 
-::: {layout-nrow=1 style="width:60%"}
+:::{layout-nrow=1}
 
 :::
 
 **Ecological Community**: Freshwater, Anthropogenic, Woodlands and rock outcrops, Forests
 
-**Wikipedia summary**:  
+**Wikipedia summary**:
 <p class="mw-empty-elt">
 </p>
 
 <p><i><b>Galium aparine</b></i>, with common names including <b>cleavers</b>, <b>clivers</b>, <b>catchweed</b>, <b>robin-run-the-hedge</b>, <b>goosegrass</b>,and <b>sticky willy</b>, is an annual, herbaceous plant of the family Rubiaceae.
 
-**Observational Data**:   
-First reported: 2010-05-22  
-Source: Hunterston  
-Last reported: 2023-05-28  
-Source: iNat  
-Obervation count: 13
+**Observational Data**:
+
+|    First reported: 2010-05-22
+
+|    Source: Hunterston
+
+|    Last reported: 2023-05-28
+
+|    Source: iNat
+
+|    Obervation count: 13
 
 ![](community_dist.png)

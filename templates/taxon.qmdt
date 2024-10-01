@@ -1,0 +1,48 @@
+---
+title: {{{hulquminumName}}}
+engine: knitr
+sidebar: false
+image: {{{iNaturalistTaxonImage}}}
+image-alt: {{{hulquminumName}}} - {{{commonName}}}
+categories:
+{{{categories}}}
+freeze: auto
+---
+
+<div role="img" class="imerss-photo" style="background-image: url({{{iNaturalistTaxonImage}}})" 
+ alt="{{{hulquminumName}}} - {{{commonName}}}">
+ <a href="https://www.inaturalist.org/taxa/{{iNaturalist_taxon_ID}}" target="_blank" class="taxonDisplay-iNat-extern">iNaturalist<span class="external-link"></span></a>
+</div>
+
+**Hul'q'umi'num' Name**: {{{hulquminumName}}}
+
+{{{audio}}}
+
+**Taxon Name**: {{{Taxon_name}}}
+
+**"Common" Name**: {{{commonName}}}
+
+**Cultural Values**:
+
+:::{layout-nrow=1}
+{{{icons}}}
+:::
+
+**Ecological Community**: {{{communities}}}
+
+**Wikipedia summary**:
+{{{wikipediaSummary}}}
+
+**Observational Data**:
+
+|    First reported: {{{firstReported}}}
+
+|    Source: {{First_Source}}
+
+|    Last reported: {{{lastReported}}}
+
+|    Source: {{Last_Source}}
+
+|    Obervation count: {{{obsCount}}}
+
+![](community_dist.png)
