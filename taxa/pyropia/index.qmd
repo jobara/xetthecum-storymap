@@ -1,6 +1,7 @@
 ---
 title: lhuq'us
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/10546249/medium.jpeg
 image-alt: lhuq'us - NA
 categories:

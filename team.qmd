@@ -1,6 +1,7 @@
 ---
 engine: knitr
 title: Meet the Team
+sidebar: false
 ---
 
 :::{.blurb-container}

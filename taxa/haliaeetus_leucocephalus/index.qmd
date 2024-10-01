@@ -1,6 +1,7 @@
 ---
 title: yuxwule'
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/341016703/medium.jpeg
 image-alt: yuxwule' - Bald Eagle
 categories:

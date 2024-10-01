@@ -2,10 +2,11 @@
 title: Ecological Communities
 lightbox: true
 toc: true
+sidebar: false
 ---
 
 ## Thuthiqut - Forest
- 
+
 ### Including Mature, Young, and Pole Sapling
 
 :::{.blurb-container}

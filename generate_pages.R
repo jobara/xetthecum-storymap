@@ -98,6 +98,7 @@ make_page <- function(row, obs){
     '---\ntitle: ',
     row["hulquminumName"],
     '\nengine: knitr',
+    '\nsidebar: false',
     '\nimage: ',
     row["iNaturalistTaxonImage"],
     '\nimage-alt: ',

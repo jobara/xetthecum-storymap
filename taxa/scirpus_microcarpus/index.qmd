@@ -1,6 +1,7 @@
 ---
 title: psháyʔ
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/12835/medium.jpg
 image-alt: psháyʔ - Panicled Bulrush
 categories:

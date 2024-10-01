@@ -47,6 +47,10 @@ h2, .h2 {
   text-align: center;
 }
 
+.hero-banner-empty {
+  margin-block-end: 2em;
+}
+
 .hero-text {
   font-size: clamp(1rem, 5vw, 4rem);
   background: rgba(245,251,219, 0.8);
@@ -63,6 +67,18 @@ h2, .h2 {
 .nav-link.active {
   text-decoration: underline;
   text-decoration-thickness: 5px;
+}
+
+.quarto-page-breadcrumbs .breadcrumb {
+  padding-left: 0.2em
+}
+
+.quarto-page-breadcrumbs a {
+  color: #000000
+}
+
+#title-block-header .quarto-page-breadcrumbs .breadcrumb .breadcrumb-item:not(:last-child) a {
+  text-decoration: underline;
 }
 
 figcaption {

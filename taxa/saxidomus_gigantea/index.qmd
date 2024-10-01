@@ -1,6 +1,7 @@
 ---
 title: s-axwa'
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/30549879/medium.jpg
 image-alt: s-axwa' - Washington butter clam
 categories:

@@ -1,6 +1,7 @@
 ---
 title: s-hwuw'qun
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/261862450/medium.jpg
 image-alt: s-hwuw'qun - Trumpeter Swan
 categories:

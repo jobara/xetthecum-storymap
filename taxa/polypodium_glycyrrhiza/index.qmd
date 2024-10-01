@@ -1,6 +1,7 @@
 ---
 title: tlu'siip
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/6878355/medium.jpeg
 image-alt: tlu'siip - licorice fern
 categories:

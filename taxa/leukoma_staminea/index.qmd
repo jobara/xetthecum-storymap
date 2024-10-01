@@ -1,6 +1,7 @@
 ---
 title: skw'lhey
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/6532782/medium.jpg
 image-alt: skw'lhey - Pacific Littleneck Clam
 categories:

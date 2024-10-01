@@ -1,6 +1,7 @@
 ---
 title: slhewut'
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/113694575/medium.jpeg
 image-alt: slhewut' - Pacific herring
 categories:

@@ -1,6 +1,7 @@
 ---
 title: pun'eq'
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/41098566/medium.jpg
 image-alt: pun'eq' - Pacific geoduck
 categories:

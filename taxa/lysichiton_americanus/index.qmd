@@ -1,6 +1,7 @@
 ---
 title: ts’ákw’aʔ
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/107900/medium.jpg
 image-alt: ts’ákw’aʔ - western skunk cabbage
 categories:

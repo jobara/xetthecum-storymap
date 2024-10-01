@@ -1,6 +1,7 @@
 ---
 title: qit'a'uylhp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/18945520/medium.jpg
 image-alt: qit'a'uylhp - orange honeysuckle
 categories:

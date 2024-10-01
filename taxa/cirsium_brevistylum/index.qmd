@@ -1,6 +1,7 @@
 ---
 title: xəw’xəwíłp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/114124015/medium.jpg
 image-alt: xəw’xəwíłp - Short-styled Thistle
 categories:

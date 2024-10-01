@@ -8,6 +8,28 @@ website:
   title: "Xetthecum Digital Ecocultural Mapping"
   search: false
   google-analytics: 'G-MM4PBW09LS'
+  sidebar:
+    contents:
+      - section: Home
+        href: index.qmd
+        contents:
+          - text: About the Project
+            href: about.qmd
+          - text: Meet the Team
+            href: team.qmd
+          - text: Research
+            href: research.qmd
+          - section: Browse all Species
+            href: taxa.qmd
+            contents: "taxa/*/index.qmd"
+          - text: Web of Life
+            href: web-of-life.qmd
+          - text: Cultural Values
+            href: cultural-values.qmd
+          - text: Ecological Communities
+            href: ecological-values.qmd
+          - text: Resources
+            href: resources.qmd
   navbar:
     right:
       - href: https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html

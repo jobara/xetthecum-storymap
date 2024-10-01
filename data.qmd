@@ -1,9 +1,10 @@
 ---
 title: "Data Download"
+sidebar: false
 ---
 
 
-Data collected as part of the ecocultural mapping project is available here. We have curated a heterogenious mix of different data types, which is bundled as versioned releases using Zenodo. 
+Data collected as part of the ecocultural mapping project is available here. We have curated a heterogenious mix of different data types, which is bundled as versioned releases using Zenodo.
 
 Details on how this data was prepared can be found in the [IMERSS bioinformatics github repository](https://github.com/IMERSS/imerss-bioinfo)
 
@@ -15,7 +16,7 @@ Details on how this data was prepared can be found in the [IMERSS bioinformatics
 
 A placeholder for when the data release is ready.
 
-This release contains two notable subsets: 
+This release contains two notable subsets:
 
 1. [Ecological data subset <i class="fa-solid fa-arrow-up-right-from-square"></i>]()
 2. [Cultural data subset <i class="fa-solid fa-arrow-up-right-from-square"></i>]()

@@ -1,6 +1,7 @@
 ---
 title: t'q'as
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/6796331/medium.jpg
 image-alt: t'q'as - Rockfishes
 categories:

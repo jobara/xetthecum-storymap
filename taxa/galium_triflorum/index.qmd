@@ -1,6 +1,7 @@
 ---
 title: xw ə́ m’kw ’eyathən
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/50976242/medium.jpg
 image-alt: xw ə́ m’kw ’eyathən - fragrant bedstraw
 categories:

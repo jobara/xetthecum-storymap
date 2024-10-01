@@ -1,5 +1,6 @@
 ---
 title: Cultural Values
+sidebar: false
 ---
 
 :::{.blurb-container}

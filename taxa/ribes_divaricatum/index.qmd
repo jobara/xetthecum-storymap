@@ -1,6 +1,7 @@
 ---
 title: t’eməәxw
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/35190836/medium.jpeg
 image-alt: t’eməәxw - spreading gooseberry
 categories:

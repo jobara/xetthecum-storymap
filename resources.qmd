@@ -1,13 +1,13 @@
 ---
 engine: knitr
+sidebar: false
+title: Resources
+banner: files/banner_resources.png
+format:
+  html:
+    template-partials:
+      - partials/title-block.html
 ---
-
-::: {.column-screen}
-::: {.hero-banner style="background-image: url('files/banner_resources.png');"}
-:::
-:::
-
-# Resources
 
 ## Xetthecum Resources
 
