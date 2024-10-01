@@ -1,6 +1,7 @@
 ---
 title: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/85721919/medium.jpg
 image-alt: p'up'q'iyasulhp, p'up'q'iyas, t'ets'ulhp - Common Snowberry
 categories:

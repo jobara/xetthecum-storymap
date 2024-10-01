@@ -1,6 +1,7 @@
 ---
 title: sháalʔəłp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/16633753/medium.jpg
 image-alt: sháalʔəłp - red osier dogwood
 categories:

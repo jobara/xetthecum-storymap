@@ -1,6 +1,7 @@
 ---
 title: kwakwatl'shun
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/104752597/medium.jpeg
 image-alt: kwakwatl'shun - red rock crab
 categories:

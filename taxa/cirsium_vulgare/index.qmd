@@ -1,6 +1,7 @@
 ---
 title: xəw’xəwíłp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/47950246/medium.jpg
 image-alt: xəw’xəwíłp - Bull Thistle
 categories:

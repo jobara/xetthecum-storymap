@@ -1,6 +1,7 @@
 ---
 title: tth'uqw'iye
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/247609877/medium.jpg
 image-alt: tth'uqw'iye - Gastropods
 categories:

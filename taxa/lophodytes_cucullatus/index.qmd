@@ -1,6 +1,7 @@
 ---
 title: hwuhwts'i'qw
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/338791340/medium.jpg
 image-alt: hwuhwts'i'qw - Hooded Merganser
 categories:

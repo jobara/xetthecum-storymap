@@ -1,6 +1,7 @@
 ---
 title: ts'sey'
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/641410/medium.jpg
 image-alt: ts'sey' - Coast Douglas-fir
 categories:

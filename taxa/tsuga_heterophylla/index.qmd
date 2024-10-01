@@ -1,6 +1,7 @@
 ---
 title: thq'iinlhp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/11793124/medium.jpg
 image-alt: thq'iinlhp - western hemlock
 categories:

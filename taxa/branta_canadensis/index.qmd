@@ -1,6 +1,7 @@
 ---
 title: exu
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/181719420/medium.jpg
 image-alt: exu - Canada Goose
 categories:

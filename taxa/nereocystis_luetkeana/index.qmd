@@ -1,6 +1,7 @@
 ---
 title: q'am'
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/289360664/medium.jpg
 image-alt: q'am' - Bull Kelp
 categories:

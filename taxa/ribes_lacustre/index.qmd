@@ -1,6 +1,7 @@
 ---
 title: t'emhw
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/200056455/medium.jpg
 image-alt: t'emhw - swamp currant
 categories:

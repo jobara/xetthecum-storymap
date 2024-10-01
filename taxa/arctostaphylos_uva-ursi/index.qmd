@@ -1,6 +1,7 @@
 ---
 title: tl'ikw'iyelhp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/181302737/medium.jpeg
 image-alt: tl'ikw'iyelhp - bearberry
 categories:

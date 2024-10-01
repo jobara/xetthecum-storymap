@@ -1,6 +1,7 @@
 ---
 title: xwálaʔałp
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/182253816/medium.jpg
 image-alt: xwálaʔałp - shining willow
 categories:

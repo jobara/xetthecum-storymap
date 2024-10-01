@@ -1,6 +1,7 @@
 ---
 title: sáxw əl
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/103778669/medium.jpg
 image-alt: sáxw əl - grasses
 categories:

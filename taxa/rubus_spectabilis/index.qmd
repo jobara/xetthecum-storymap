@@ -1,6 +1,7 @@
 ---
 title: lila'
 engine: knitr
+sidebar: false
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg
 image-alt: lila' - Salmonberry
 categories:

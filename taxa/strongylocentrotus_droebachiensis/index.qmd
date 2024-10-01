@@ -1,6 +1,7 @@
 ---
 title: skw'itth'i'
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/88054286/medium.jpeg
 image-alt: skw'itth'i' - green sea urchin
 categories:

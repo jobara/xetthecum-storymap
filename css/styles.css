@@ -69,6 +69,18 @@ h2, .h2 {
   text-decoration-thickness: 5px;
 }
 
+.quarto-page-breadcrumbs .breadcrumb {
+  padding-left: 0.2em
+}
+
+.quarto-page-breadcrumbs a {
+  color: #000000
+}
+
+#title-block-header .quarto-page-breadcrumbs .breadcrumb .breadcrumb-item:not(:last-child) a {
+  text-decoration: underline;
+}
+
 figcaption {
   text-align: center;
 }

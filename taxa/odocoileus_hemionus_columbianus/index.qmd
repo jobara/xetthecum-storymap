@@ -1,6 +1,7 @@
 ---
 title: ha'put
 engine: knitr
+sidebar: false
 image: https://static.inaturalist.org/photos/26270120/medium.jpg
 image-alt: ha'put - Columbian Black-tailed Deer
 categories:
