@@ -226,9 +226,3 @@ Project Coordinator
 Media Contributor
 :::
 :::
-
-::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
-:::

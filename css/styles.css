@@ -198,6 +198,15 @@ p {
   margin-inline: 0;
 }
 
+.footer-image {
+  /*
+    To start, brightness(0) saturate(100%) need to be at the beginning to convert the image to black.
+    The remainder of the declaration is to convert the image to the target colour `#F2FCD6` from `--bs-body-bg`.
+    See: https://codepen.io/sosuke/pen/Pjoqqp
+  */
+  filter: brightness(0) saturate(100%) invert(88%) sepia(5%) saturate(840%) hue-rotate(35deg) brightness(106%) contrast(105%);
+}
+
 @media(max-width: 600px){
   .blurb-container{
    flex-direction: column;

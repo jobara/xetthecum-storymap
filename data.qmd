@@ -20,8 +20,3 @@ This release contains two notable subsets:
 
 1. [Ecological data subset <i class="fa-solid fa-arrow-up-right-from-square"></i>]()
 2. [Cultural data subset <i class="fa-solid fa-arrow-up-right-from-square"></i>]()
-
-:::: {.column-page style="text-align:center"}
-![](files/icon_array.png)
-::::
-

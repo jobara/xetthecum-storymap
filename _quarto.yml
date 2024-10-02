@@ -56,6 +56,10 @@ website:
           #  href: data.qmd
       - href: resources.qmd
         text: Resources
+  page-footer:
+    background: "#5A5244"
+    center: |
+      ![](/files/icon_array.png){fig-alt="" .footer-image}
 format:
   html:
     theme: [flatly, css/theme-light.scss]

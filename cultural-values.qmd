@@ -112,7 +112,3 @@ Example: [yuxwule’](/taxa/haliaeetus_leucocephalus) – bald eagle
 :::
 
 :::
-
-:::{.column-page}
-![](files/icon_array.png){text-align=center}
-:::
