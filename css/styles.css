@@ -203,8 +203,7 @@ p {
    flex-direction: column;
   }
   .blurb-half-column{
-     width: 100% !important;
-     text-align: center !important;
+     width: 100%;
   }
   .grid-cultural {
     grid-template-columns: 1fr;
