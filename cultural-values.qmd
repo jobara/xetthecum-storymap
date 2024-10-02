@@ -15,7 +15,7 @@ The cultural values of each species observed at Xetthecum are indicated using th
 
 :::
 :::{.blurb-half-column}
-![xpey’ – western red cedar](files/image 107.png)
+![xpey’ – western red cedar](files/image 107.png){fig-alt="looking up from the base of a western red cedar"}
 
 :::
 :::
@@ -27,14 +27,14 @@ The cultural values of each species observed at Xetthecum are indicated using th
 
 Cultural Value: Food
 
-![](files/food.svg){width=50%}
+![](files/food.svg){fig-alt="" width=50%}
 
 :::{style="text-align: left"}
 These species are an important food source.
 Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon
 :::
 
-![the’wun – coho salmon](https://inaturalist-open-data.s3.amazonaws.com/photos/5139610/medium.jpg){.values-card-image-85}
+![the’wun – coho salmon](https://inaturalist-open-data.s3.amazonaws.com/photos/5139610/medium.jpg){fig-alt="a coho salmon swimming" .values-card-image-85}
 
 :::
 
@@ -42,14 +42,14 @@ Example: [the'wun](/taxa/oncorhynchus_kisutch/) - coho salmon
 
 Cultural Value: Material
 
-![](files/material.svg){width=50%}
+![](files/material.svg){fig-alt="" width=50%}
 
 :::{style="text-align: left"}
 These species are used in the manufacture of items, the capture or harvesting of other species, or used as something other than as food or medicine.
 Example: [xpey’](/taxa/thuja_plicata) – western red cedar was used to build canoes; an 800 year old cedar could be used to make four canoes.
 :::
 
-![xpey’ – western red cedar](https://inaturalist-open-data.s3.amazonaws.com/photos/7846522/medium.jpeg)
+![xpey’ – western red cedar](https://inaturalist-open-data.s3.amazonaws.com/photos/7846522/medium.jpeg){fig-alt="leaves and cones of a wester red cedar"}
 
 :::
 
@@ -57,14 +57,14 @@ Example: [xpey’](/taxa/thuja_plicata) – western red cedar was used to build 
 
 Cultural Value: Indicator
 
-![](files/indicator.svg){width=50%}
+![](files/indicator.svg){fig-alt="" width=50%}
 
 :::{style="text-align: left"}
 The presence of these species indicates something, whether it be the presence of other species, a forecast (e.g. weather) or an event of spiritual significance.
 Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries indicates the return of Swainson’s Thrush in spring.
 :::
 
-![lila’ – salmonberry](https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg)
+![lila’ – salmonberry](https://inaturalist-open-data.s3.amazonaws.com/photos/313742389/medium.jpg){fig-alt="leaves and flowers of the salmonberry"}
 
 :::
 
@@ -72,14 +72,14 @@ Example: the ripening of [lila’](/taxa/rubus_spectabilis) – salmonberries in
 
 Cultural Value: Trade
 
-![](files/trade.svg){width=50%}
+![](files/trade.svg){fig-alt="" width=50%}
 
 :::{style="text-align: left"}
 These species were traded for other items.
 Example: [skw’lhey](/taxa/leukoma_staminea/) – little neck clams (and other types of clams) were used to trade for other items.
 :::
 
-![skw’lhey – little neck clam](https://inaturalist-open-data.s3.amazonaws.com/photos/6532782/medium.jpg)
+![skw’lhey – little neck clam](https://inaturalist-open-data.s3.amazonaws.com/photos/6532782/medium.jpg){fig-alt="a little neck clam lying in the sand"}
 
 :::
 
@@ -87,12 +87,12 @@ Example: [skw’lhey](/taxa/leukoma_staminea/) – little neck clams (and other 
 
 Cultural Value: Medicine
 
-![](files/medicinal.svg){width=50%}
+![](files/medicinal.svg){fig-alt="" width=50%}
 
 These species or portions of them are used as medicine.
 Example: q’ey’xulhp – cascara
 
-![q’ey’xulhp – cascara](https://inaturalist-open-data.s3.amazonaws.com/photos/433161781/medium.jpeg)
+![q’ey’xulhp – cascara](https://inaturalist-open-data.s3.amazonaws.com/photos/433161781/medium.jpeg){fig-alt="leaves and berries of a cascara"}
 
 :::
 
@@ -100,14 +100,14 @@ Example: q’ey’xulhp – cascara
 
 Cultural Value: Spiritual
 
-![](files/food.svg){width=50%}
+![](files/spiritual.svg){fig-alt="" width=50%}
 
 :::{style="text-align: left"}
 These species are a part of spiritual ceremony or hold spiritual meaning and significance.
 Example: [yuxwule’](/taxa/haliaeetus_leucocephalus) – bald eagle
 :::
 
-![yuxwule’ – bald eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/medium.jpg)
+![yuxwule’ – bald eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/medium.jpg){fig-alt="a bald eagle flying across the water"}
 
 :::
 
