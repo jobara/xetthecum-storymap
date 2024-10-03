@@ -4,7 +4,6 @@ library(readr)
 
 # Found existence of these variables at https://quarto.org/docs/projects/scripts.html#pre-and-post-render
 render_all <- nzchar(Sys.getenv("QUARTO_PROJECT_RENDER_ALL"))
-cat("renderAll: ", render_all, "\n")
 
 if (render_all) {
   template <- readr::read_file("templates/taxon.qmdt")
