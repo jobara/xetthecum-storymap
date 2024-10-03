@@ -13,12 +13,3 @@ sidebar: false
 
 :::{#main-listing}
 :::
-
-<br>
-
-:::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
-::::
-

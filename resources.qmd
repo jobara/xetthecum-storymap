@@ -65,12 +65,4 @@ Other groups have put together excellent resource lists and we are grateful for 
 ## Games
 
 * [Hul’q’umi’num’ Animal Bingo](https://scratch.mit.edu/projects/895188484/fullscreen/) (from NLPS Indigenous Education Resources)
-* [Hul’q’umi’num’ Feelings Bingo](https://scratch.mit.edu/projects/816040858/) (from NLPS Indigenous Education Resources
-
-:::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
-::::
-
-
+* [Hul’q’umi’num’ Feelings Bingo](https://scratch.mit.edu/projects/816040858/) (from NLPS Indigenous Education Resources)

@@ -200,13 +200,41 @@ p {
   margin-inline: 0;
 }
 
+
+.align-start {
+  align-items: flex-start;
+}
+
+.align-start h3 {
+  margin-block-start: 0;
+  padding-block-start: 0;
+}
+
+.nav-footer .nav-footer-center {
+  margin-top: 0;
+}
+
+.nav-footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* Prevent excess shrinkage of footer as per designs */
+@media (min-width: 768px) {
+  .nav-footer-left {
+    flex: 0.1 1 0px;
+  }
+  .nav-footer-right {
+    flex: 0.1 1 0px;
+  }
+}
+
 @media(max-width: 600px){
-  .blurb-container{
+  .blurb-container {
    flex-direction: column;
   }
-  .blurb-half-column{
-     width: 100% !important;
-     text-align: center !important;
+  .blurb-half-column {
+     width: 100%;
   }
   .grid-cultural {
     grid-template-columns: 1fr;

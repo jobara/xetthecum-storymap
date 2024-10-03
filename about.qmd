@@ -50,10 +50,3 @@ The Xetthecum story map includes cultural information about places, species, and
 [Northeast Pacific Coastal Biodiversity Action   Network](https://oceandecadenortheastpacific.org/projects/northeast-pacific-coastal-biodiversity-action-network)
 
 [UBC BRITE Internship Program](https://biodiversity.ubc.ca/training-and-award-opportunities  /brite/brite-internships)
-
-
-::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
-:::
