@@ -47,11 +47,3 @@ hortis.sunburstLoader(".fl-imerss-container", {
   commonNames: false
 });
 </script>
-
-<br>
-
-:::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
-::::

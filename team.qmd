@@ -6,7 +6,7 @@ sidebar: false
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/florence.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/florence.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Thiyuas (Florence James)
@@ -16,7 +16,7 @@ Penelakut Elder and Knowledge Holder
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Augie Sylvester
@@ -26,7 +26,7 @@ Penelakut Elder and Knowledge Holder
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/johnny.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/johnny.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Johnny Aitken
@@ -36,7 +36,7 @@ Indigenous Creative Director
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Austin Baines
@@ -46,7 +46,7 @@ Indigenous youth
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/jeanine.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/jeanine.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Jeanine Georgeson
@@ -56,7 +56,7 @@ Project Lead
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Deondre Smiles
@@ -66,7 +66,7 @@ Guidance
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/levi.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/levi.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Levi Wilson
@@ -76,7 +76,7 @@ Indigenous Language Framework Developer
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Roo Wilson
@@ -86,7 +86,7 @@ Indigenous youth
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Kusemaat (Shirley Williams)
@@ -97,7 +97,7 @@ Co-founder, Whiteswan Environmental
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/dana.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/dana.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Dana Ayotte
@@ -108,7 +108,7 @@ Inclusive Designer
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/antranig.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/antranig.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Antranig Basman
@@ -118,7 +118,7 @@ Bioinformatics Specialist
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Colin Clark
@@ -129,7 +129,7 @@ Inclusive Designer
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Jack Garton
@@ -141,7 +141,7 @@ Audio Specialist
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Deblekha Guin
@@ -152,7 +152,7 @@ Project Guidance
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/cait.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/cait.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Cait Harrigan
@@ -164,7 +164,7 @@ Website Development
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Jim Hodgson
@@ -175,7 +175,7 @@ Map Development
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/emily.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/emily.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Emily Menzies
@@ -186,7 +186,7 @@ Design and Language Framework Support
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/andrew.png){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/andrew.png){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Andrew Simon
@@ -197,7 +197,7 @@ Biodiversity Specialist
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Maggie Slein
@@ -208,7 +208,7 @@ BioBlitz Coordinator
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Tei Taiyarï
@@ -219,16 +219,10 @@ Project Coordinator
 
 :::{.blurb-container}
 :::{.blurb-half-column style="width: 30%"}
-![](files/team_member.jpg){style="padding:1em; border-radius: 50%; max-height: 200px"}
+![](files/team_member.jpg){fig-alt="" style="padding:1em; border-radius: 50%; max-height: 200px"}
 :::
 :::{.blurb-half-column style="width=70%"}
 ### Karolle Wall
 Media Contributor
 :::
-:::
-
-::: {.column-page}
-<center>
-![](files/icon_array.png)
-</center>
 :::
