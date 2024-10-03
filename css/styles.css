@@ -228,10 +228,10 @@ p {
 }
 
 @media(max-width: 600px){
-  .blurb-container{
+  .blurb-container {
    flex-direction: column;
   }
-  .blurb-half-column{
+  .blurb-half-column {
      width: 100%;
   }
   .grid-cultural {
