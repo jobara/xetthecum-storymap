@@ -38,7 +38,7 @@ This website is the culmination of a cross-cultural, interdisciplinary project t
 <br>
 
 
-![](files/icon_array.png){.centered}
+![](files/icon_array.png){fig-alt="" .centered}
 
 ::: {.column-screen .background-image style="background-image: url('files/high-res-map-snapshot.png');"}
 ::: {.column-body}
@@ -69,7 +69,7 @@ Many community members have contributed to the creation of this story map and co
 
 :::{.blurb-half-column}
 
-![](files/shells.png)
+![](files/shells.png){fig-alt=""}
 :::
 :::
 

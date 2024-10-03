@@ -207,6 +207,15 @@ p {
   filter: brightness(0) saturate(100%) invert(88%) sepia(5%) saturate(840%) hue-rotate(35deg) brightness(106%) contrast(105%);
 }
 
+.align-start {
+  align-items: flex-start;
+}
+
+.align-start h3 {
+  margin-block-start: 0;
+  padding-block-start: 0;
+}
+
 @media(max-width: 600px){
   .blurb-container{
    flex-direction: column;
